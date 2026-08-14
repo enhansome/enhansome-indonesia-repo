@@ -14,7 +14,7 @@
             "last_commit": "2026-03-05T07:33:10Z",
             "owner": "zetbaitsu",
             "repo": "Compressor",
-            "stars": 7228
+            "stars": 7229
           }
         },
         {
@@ -210,7 +210,7 @@
             "last_commit": "2023-07-19T12:05:25Z",
             "owner": "hyuwah",
             "repo": "DraggableView",
-            "stars": 115
+            "stars": 116
           }
         },
         {
@@ -384,7 +384,7 @@
             "last_commit": "2026-05-28T02:14:37Z",
             "owner": "Kristories",
             "repo": "awesome-guidelines",
-            "stars": 11027
+            "stars": 11032
           }
         },
         {
@@ -426,7 +426,7 @@
             "last_commit": "2025-08-03T03:05:42Z",
             "owner": "hendisantika",
             "repo": "List-All-Programming-Telegram-Group",
-            "stars": 1485
+            "stars": 1486
           }
         },
         {
@@ -558,7 +558,7 @@
             "last_commit": "2026-08-11T12:11:06Z",
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 394297
+            "stars": 394381
           }
         },
         {
@@ -958,7 +958,7 @@
             "last_commit": "2022-06-24T15:27:37Z",
             "owner": "refactory-id",
             "repo": "bootstrap-markdown",
-            "stars": 1971
+            "stars": 1972
           }
         },
         {
@@ -1082,7 +1082,7 @@
             "last_commit": "2026-07-10T06:36:40Z",
             "owner": "go-shiori",
             "repo": "shiori",
-            "stars": 11577
+            "stars": 11581
           }
         },
         {
@@ -1378,7 +1378,7 @@
             "last_commit": "2022-11-26T19:43:12Z",
             "owner": "ariya",
             "repo": "phantomjs",
-            "stars": 29454
+            "stars": 29455
           }
         },
         {
@@ -1392,7 +1392,7 @@
             "last_commit": "2026-05-26T22:20:10Z",
             "owner": "giscus",
             "repo": "giscus",
-            "stars": 12017
+            "stars": 12026
           }
         },
         {
@@ -1403,10 +1403,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-12T15:55:18Z",
+            "last_commit": "2026-08-13T14:53:40Z",
             "owner": "faisalman",
             "repo": "ua-parser-js",
-            "stars": 10173
+            "stars": 10174
           }
         },
         {
@@ -2721,7 +2721,7 @@
             "last_commit": "2026-08-06T15:54:23Z",
             "owner": "laravolt",
             "repo": "avatar",
-            "stars": 1981
+            "stars": 1982
           }
         },
         {
@@ -2749,7 +2749,7 @@
             "last_commit": "2026-03-03T06:32:45Z",
             "owner": "laravolt",
             "repo": "indonesia",
-            "stars": 677
+            "stars": 676
           }
         },
         {
@@ -3287,7 +3287,7 @@
             "last_commit": "2023-02-17T06:31:22Z",
             "owner": "louisowen6",
             "repo": "NLP_bahasa_resources",
-            "stars": 573
+            "stars": 572
           }
         },
         {
@@ -3366,7 +3366,7 @@
           "repo_info": {
             "archived": false,
             "language": "Adblock Filter List",
-            "last_commit": "2026-08-12T12:40:08Z",
+            "last_commit": "2026-08-13T14:00:16Z",
             "owner": "ABPindo",
             "repo": "indonesianadblockrules",
             "stars": 238
@@ -3466,7 +3466,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T09:51:37.775Z",
+    "last_updated": "2026-08-14T09:48:37.683Z",
     "original_repository": "GitIndonesia/awesome-indonesia-repo",
     "original_repository_sha": "da6467550cb98773068609f5b59b0e1b599e59de",
     "enhanced_repository": "enhansome/enhansome-indonesia-repo",
