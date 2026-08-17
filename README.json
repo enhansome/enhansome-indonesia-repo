@@ -14,7 +14,7 @@
             "last_commit": "2026-03-05T07:33:10Z",
             "owner": "zetbaitsu",
             "repo": "Compressor",
-            "stars": 7229
+            "stars": 7227
           }
         },
         {
@@ -384,7 +384,7 @@
             "last_commit": "2026-05-28T02:14:37Z",
             "owner": "Kristories",
             "repo": "awesome-guidelines",
-            "stars": 11036
+            "stars": 11039
           }
         },
         {
@@ -398,7 +398,7 @@
             "last_commit": "2026-08-01T02:27:38Z",
             "owner": "farizdotid",
             "repo": "DAFTAR-API-LOKAL-INDONESIA",
-            "stars": 5289
+            "stars": 5290
           }
         },
         {
@@ -412,7 +412,7 @@
             "last_commit": "2026-04-10T10:44:09Z",
             "owner": "sumodirjo",
             "repo": "engineering-blogs",
-            "stars": 1677
+            "stars": 1678
           }
         },
         {
@@ -555,10 +555,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-11T12:11:06Z",
+            "last_commit": "2026-08-16T17:14:23Z",
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 394506
+            "stars": 394586
           }
         },
         {
@@ -930,7 +930,7 @@
             "last_commit": "2022-12-11T04:37:25Z",
             "owner": "fians",
             "repo": "Waves",
-            "stars": 3464
+            "stars": 3463
           }
         },
         {
@@ -1082,7 +1082,7 @@
             "last_commit": "2026-07-10T06:36:40Z",
             "owner": "go-shiori",
             "repo": "shiori",
-            "stars": 11585
+            "stars": 11589
           }
         },
         {
@@ -1247,7 +1247,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-16T02:46:27Z",
+            "last_commit": "2026-08-17T07:02:10Z",
             "owner": "NAEOS-foundation",
             "repo": "naeos",
             "stars": 6
@@ -1378,7 +1378,7 @@
             "last_commit": "2022-11-26T19:43:12Z",
             "owner": "ariya",
             "repo": "phantomjs",
-            "stars": 29454
+            "stars": 29450
           }
         },
         {
@@ -1392,7 +1392,7 @@
             "last_commit": "2026-05-26T22:20:10Z",
             "owner": "giscus",
             "repo": "giscus",
-            "stars": 12025
+            "stars": 12026
           }
         },
         {
@@ -2457,7 +2457,7 @@
             "last_commit": "2026-07-08T06:32:36Z",
             "owner": "playsms",
             "repo": "playsms",
-            "stars": 878
+            "stars": 879
           }
         },
         {
@@ -3253,7 +3253,7 @@
             "last_commit": "2021-06-10T22:41:08Z",
             "owner": "aancw",
             "repo": "Belati",
-            "stars": 565
+            "stars": 566
           }
         },
         {
@@ -3267,7 +3267,7 @@
             "last_commit": "2026-08-03T07:05:48Z",
             "owner": "ruyynn",
             "repo": "GhostIntel",
-            "stars": 142
+            "stars": 144
           }
         }
       ],
@@ -3355,7 +3355,7 @@
             "last_commit": "2025-12-19T06:16:49Z",
             "owner": "thedev-id",
             "repo": "thedev.id",
-            "stars": 1685
+            "stars": 1686
           }
         },
         {
@@ -3366,7 +3366,7 @@
           "repo_info": {
             "archived": false,
             "language": "Adblock Filter List",
-            "last_commit": "2026-08-16T03:43:45Z",
+            "last_commit": "2026-08-17T07:59:32Z",
             "owner": "ABPindo",
             "repo": "indonesianadblockrules",
             "stars": 238
@@ -3466,7 +3466,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T09:14:30.988Z",
+    "last_updated": "2026-08-17T09:27:26.023Z",
     "original_repository": "GitIndonesia/awesome-indonesia-repo",
     "original_repository_sha": "da6467550cb98773068609f5b59b0e1b599e59de",
     "enhanced_repository": "enhansome/enhansome-indonesia-repo",
