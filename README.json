@@ -398,7 +398,7 @@
             "last_commit": "2026-08-01T02:27:38Z",
             "owner": "farizdotid",
             "repo": "DAFTAR-API-LOKAL-INDONESIA",
-            "stars": 5290
+            "stars": 5289
           }
         },
         {
@@ -558,7 +558,7 @@
             "last_commit": "2026-08-16T17:14:23Z",
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 394586
+            "stars": 394660
           }
         },
         {
@@ -916,7 +916,7 @@
             "last_commit": "2026-07-06T03:02:26Z",
             "owner": "stisla",
             "repo": "stisla",
-            "stars": 3753
+            "stars": 3755
           }
         },
         {
@@ -944,7 +944,7 @@
             "last_commit": "2025-08-05T13:45:33Z",
             "owner": "zuramai",
             "repo": "mazer",
-            "stars": 3097
+            "stars": 3098
           }
         },
         {
@@ -1082,7 +1082,7 @@
             "last_commit": "2026-07-10T06:36:40Z",
             "owner": "go-shiori",
             "repo": "shiori",
-            "stars": 11589
+            "stars": 11591
           }
         },
         {
@@ -1247,7 +1247,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T07:02:10Z",
+            "last_commit": "2026-08-17T20:17:34Z",
             "owner": "NAEOS-foundation",
             "repo": "naeos",
             "stars": 6
@@ -1378,7 +1378,7 @@
             "last_commit": "2022-11-26T19:43:12Z",
             "owner": "ariya",
             "repo": "phantomjs",
-            "stars": 29450
+            "stars": 29449
           }
         },
         {
@@ -1392,7 +1392,7 @@
             "last_commit": "2026-05-26T22:20:10Z",
             "owner": "giscus",
             "repo": "giscus",
-            "stars": 12026
+            "stars": 12030
           }
         },
         {
@@ -1406,7 +1406,7 @@
             "last_commit": "2026-08-13T14:53:40Z",
             "owner": "faisalman",
             "repo": "ua-parser-js",
-            "stars": 10178
+            "stars": 10179
           }
         },
         {
@@ -1420,7 +1420,7 @@
             "last_commit": "2023-04-16T01:17:08Z",
             "owner": "jquery",
             "repo": "esprima",
-            "stars": 7138
+            "stars": 7137
           }
         },
         {
@@ -3095,7 +3095,7 @@
             "last_commit": "2026-08-02T14:59:26Z",
             "owner": "IlhamriSKY",
             "repo": "PDDIKTI-kemdikbud-API",
-            "stars": 118
+            "stars": 119
           }
         },
         {
@@ -3267,7 +3267,7 @@
             "last_commit": "2026-08-03T07:05:48Z",
             "owner": "ruyynn",
             "repo": "GhostIntel",
-            "stars": 144
+            "stars": 145
           }
         }
       ],
@@ -3355,7 +3355,7 @@
             "last_commit": "2025-12-19T06:16:49Z",
             "owner": "thedev-id",
             "repo": "thedev.id",
-            "stars": 1686
+            "stars": 1688
           }
         },
         {
@@ -3366,7 +3366,7 @@
           "repo_info": {
             "archived": false,
             "language": "Adblock Filter List",
-            "last_commit": "2026-08-17T07:59:32Z",
+            "last_commit": "2026-08-17T09:59:16Z",
             "owner": "ABPindo",
             "repo": "indonesianadblockrules",
             "stars": 238
@@ -3466,7 +3466,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T09:27:26.023Z",
+    "last_updated": "2026-08-18T09:19:30.290Z",
     "original_repository": "GitIndonesia/awesome-indonesia-repo",
     "original_repository_sha": "da6467550cb98773068609f5b59b0e1b599e59de",
     "enhanced_repository": "enhansome/enhansome-indonesia-repo",
