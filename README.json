@@ -597,7 +597,7 @@
             "last_commit": "2026-08-18T14:16:15Z",
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 394747
+            "stars": 394761
           }
         },
         {
@@ -3620,8 +3620,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T09:20:12.396Z",
+    "last_updated": "2026-08-19T12:32:58.065Z",
     "original_repository": "GitIndonesia/awesome-indonesia-repo",
+    "original_repository_id": 52785444,
     "original_repository_sha": "da6467550cb98773068609f5b59b0e1b599e59de",
     "enhanced_repository": "enhansome/enhansome-indonesia-repo",
     "enhanced_repository_description": null,
