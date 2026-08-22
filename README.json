@@ -411,7 +411,7 @@
             "last_commit": "2026-05-28T02:14:37Z",
             "owner": "Kristories",
             "repo": "awesome-guidelines",
-            "stars": 11051
+            "stars": 11056
           }
         },
         {
@@ -426,7 +426,7 @@
             "last_commit": "2026-08-01T02:27:38Z",
             "owner": "farizdotid",
             "repo": "DAFTAR-API-LOKAL-INDONESIA",
-            "stars": 5290
+            "stars": 5291
           }
         },
         {
@@ -456,7 +456,7 @@
             "last_commit": "2025-08-03T03:05:42Z",
             "owner": "hendisantika",
             "repo": "List-All-Programming-Telegram-Group",
-            "stars": 1489
+            "stars": 1488
           }
         },
         {
@@ -501,7 +501,7 @@
             "last_commit": "2022-03-10T12:33:26Z",
             "owner": "screetsec",
             "repo": "Cybersecurity-Indonesia",
-            "stars": 388
+            "stars": 389
           }
         },
         {
@@ -597,7 +597,7 @@
             "last_commit": "2026-08-18T14:16:15Z",
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 394886
+            "stars": 394982
           }
         },
         {
@@ -972,7 +972,7 @@
             "last_commit": "2026-07-06T03:02:26Z",
             "owner": "stisla",
             "repo": "stisla",
-            "stars": 3759
+            "stars": 3760
           }
         },
         {
@@ -1149,7 +1149,7 @@
             "last_commit": "2026-07-10T06:36:40Z",
             "owner": "go-shiori",
             "repo": "shiori",
-            "stars": 11595
+            "stars": 11599
           }
         },
         {
@@ -1311,10 +1311,10 @@
             "archived": false,
             "id": 1295447882,
             "language": "Go",
-            "last_commit": "2026-08-18T15:05:50Z",
+            "last_commit": "2026-08-21T15:50:00Z",
             "owner": "NAEOS-foundation",
             "repo": "naeos",
-            "stars": 10
+            "stars": 11
           }
         },
         {
@@ -1446,7 +1446,7 @@
             "last_commit": "2022-11-26T19:43:12Z",
             "owner": "ariya",
             "repo": "phantomjs",
-            "stars": 29449
+            "stars": 29450
           }
         },
         {
@@ -1461,7 +1461,7 @@
             "last_commit": "2026-05-26T22:20:10Z",
             "owner": "giscus",
             "repo": "giscus",
-            "stars": 12043
+            "stars": 12046
           }
         },
         {
@@ -1473,10 +1473,10 @@
             "archived": false,
             "id": 3320710,
             "language": "JavaScript",
-            "last_commit": "2026-08-20T08:31:28Z",
+            "last_commit": "2026-08-22T09:11:12Z",
             "owner": "faisalman",
             "repo": "ua-parser-js",
-            "stars": 10179
+            "stars": 10180
           }
         },
         {
@@ -1491,7 +1491,7 @@
             "last_commit": "2023-04-16T01:17:08Z",
             "owner": "jquery",
             "repo": "esprima",
-            "stars": 7137
+            "stars": 7139
           }
         },
         {
@@ -2079,7 +2079,7 @@
             "last_commit": "2017-01-12T14:05:03Z",
             "owner": "BosNaufal",
             "repo": "vue2-loading-bar",
-            "stars": 263
+            "stars": 264
           }
         },
         {
@@ -3183,7 +3183,7 @@
             "last_commit": "2024-03-16T18:34:03Z",
             "owner": "dikiaap",
             "repo": "minimalist",
-            "stars": 317
+            "stars": 318
           }
         },
         {
@@ -3249,7 +3249,7 @@
             "last_commit": "2026-08-02T14:59:26Z",
             "owner": "IlhamriSKY",
             "repo": "PDDIKTI-kemdikbud-API",
-            "stars": 120
+            "stars": 121
           }
         },
         {
@@ -3507,7 +3507,7 @@
             "last_commit": "2025-12-19T06:16:49Z",
             "owner": "thedev-id",
             "repo": "thedev.id",
-            "stars": 1690
+            "stars": 1691
           }
         },
         {
@@ -3620,7 +3620,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T09:23:18.605Z",
+    "last_updated": "2026-08-22T09:15:11.957Z",
     "original_repository": "GitIndonesia/awesome-indonesia-repo",
     "original_repository_id": 52785444,
     "original_repository_sha": "da6467550cb98773068609f5b59b0e1b599e59de",
