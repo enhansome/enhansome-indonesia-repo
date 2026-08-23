@@ -15,7 +15,7 @@
             "last_commit": "2026-03-05T07:33:10Z",
             "owner": "zetbaitsu",
             "repo": "Compressor",
-            "stars": 7227
+            "stars": 7228
           }
         },
         {
@@ -411,7 +411,7 @@
             "last_commit": "2026-05-28T02:14:37Z",
             "owner": "Kristories",
             "repo": "awesome-guidelines",
-            "stars": 11056
+            "stars": 11059
           }
         },
         {
@@ -426,7 +426,7 @@
             "last_commit": "2026-08-01T02:27:38Z",
             "owner": "farizdotid",
             "repo": "DAFTAR-API-LOKAL-INDONESIA",
-            "stars": 5291
+            "stars": 5290
           }
         },
         {
@@ -501,7 +501,7 @@
             "last_commit": "2022-03-10T12:33:26Z",
             "owner": "screetsec",
             "repo": "Cybersecurity-Indonesia",
-            "stars": 389
+            "stars": 390
           }
         },
         {
@@ -597,7 +597,7 @@
             "last_commit": "2026-08-18T14:16:15Z",
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 394982
+            "stars": 395051
           }
         },
         {
@@ -825,7 +825,7 @@
             "last_commit": "2022-04-11T18:02:50Z",
             "owner": "edwardsamuel",
             "repo": "Wilayah-Administratif-Indonesia",
-            "stars": 959
+            "stars": 960
           }
         },
         {
@@ -1149,7 +1149,7 @@
             "last_commit": "2026-07-10T06:36:40Z",
             "owner": "go-shiori",
             "repo": "shiori",
-            "stars": 11599
+            "stars": 11606
           }
         },
         {
@@ -1311,7 +1311,7 @@
             "archived": false,
             "id": 1295447882,
             "language": "Go",
-            "last_commit": "2026-08-21T15:50:00Z",
+            "last_commit": "2026-08-22T20:05:09Z",
             "owner": "NAEOS-foundation",
             "repo": "naeos",
             "stars": 11
@@ -1446,7 +1446,7 @@
             "last_commit": "2022-11-26T19:43:12Z",
             "owner": "ariya",
             "repo": "phantomjs",
-            "stars": 29450
+            "stars": 29451
           }
         },
         {
@@ -1461,7 +1461,7 @@
             "last_commit": "2026-05-26T22:20:10Z",
             "owner": "giscus",
             "repo": "giscus",
-            "stars": 12046
+            "stars": 12050
           }
         },
         {
@@ -1476,7 +1476,7 @@
             "last_commit": "2026-08-22T09:11:12Z",
             "owner": "faisalman",
             "repo": "ua-parser-js",
-            "stars": 10180
+            "stars": 10181
           }
         },
         {
@@ -2361,7 +2361,7 @@
             "last_commit": "2026-06-12T10:55:27Z",
             "owner": "novalagung",
             "repo": "dasarpemrogramangolang",
-            "stars": 2628
+            "stars": 2627
           }
         },
         {
@@ -3420,7 +3420,7 @@
             "last_commit": "2026-08-03T07:05:48Z",
             "owner": "ruyynn",
             "repo": "GhostIntel",
-            "stars": 148
+            "stars": 150
           }
         }
       ],
@@ -3620,7 +3620,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T09:15:11.957Z",
+    "last_updated": "2026-08-23T09:15:28.768Z",
     "original_repository": "GitIndonesia/awesome-indonesia-repo",
     "original_repository_id": 52785444,
     "original_repository_sha": "da6467550cb98773068609f5b59b0e1b599e59de",
