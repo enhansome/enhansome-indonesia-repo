@@ -1,6 +1,6 @@
 # Awesome Indonesia Repo with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome/) ⭐ 499,420 | 🐛 106 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome/) ⭐ 499,514 | 🐛 106 | 📅 2026-08-21
 [![Gitter](https://img.shields.io/:chat-on_gitter-ED2067.svg)](https://gitter.im/GitIndonesia/awesome-indonesia-repo)
 [![Country](https://img.shields.io/badge/country-indonesia-blue.svg)](#)
 
@@ -82,7 +82,7 @@ This list aims to inspire others and hopefully give encouragement for individual
 ## Awesome List
 
 * [Awesome Guidelines](https://github.com/Kristories/awesome-guidelines) ⭐ 11,063 | 🐛 0 | 🌐 JavaScript | 📅 2026-05-28 - A curated list of high-quality coding style conventions and standards.
-* [Daftar API Lokal Indonesia](https://github.com/farizdotid/DAFTAR-API-LOKAL-INDONESIA) ⭐ 5,290 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-01 - List of Indonesian local APIs.
+* [Daftar API Lokal Indonesia](https://github.com/farizdotid/DAFTAR-API-LOKAL-INDONESIA) ⭐ 5,291 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-01 - List of Indonesian local APIs.
 * [Engineering Blogs](https://github.com/sumodirjo/engineering-blogs) ⭐ 1,678 | 🐛 0 | 📅 2026-04-10 - A curated list of engineering blog of startup and enterprise company.
 * [Awesome Indonesia Telegram Groups](https://github.com/hendisantika/List-All-Programming-Telegram-Group) ⭐ 1,488 | 🐛 1 | 🌐 Crystal | 📅 2025-08-03 - Non-exhaustive list of Indonesian Telegram groups focused on programming.
 * [Awesome CodeIgniter](https://github.com/codeigniter-id/awesome-codeigniter) ⭐ 793 | 🐛 3 | 📅 2024-01-01 - A list of awesome CodeIgniter core, helpers, hooks, language, libraries, and third party.
@@ -96,7 +96,7 @@ This list aims to inspire others and hopefully give encouragement for individual
 
 ## Books
 
-* [Free Programming Books Indonesia](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-id.md) ⭐ 395,119 | 🐛 85 | 🌐 Python | 📅 2026-08-18 - Freely available programming books written in Indonesian.
+* [Free Programming Books Indonesia](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-id.md) ⭐ 395,134 | 🐛 85 | 🌐 Python | 📅 2026-08-18 - Freely available programming books written in Indonesian.
 * [Panduan Lengkap Refactoring](https://github.com/zuramai/refactoring) ⭐ 100 | 🐛 0 | 🌐 Vue | 📅 2024-06-21 - Kumpulan metode refactoring dan cara mengatasi code smells yang berpotensi mengurangi maintainability pada sebuah software.
 * [Buku Git](https://github.com/endymuhardin/buku-git) ⭐ 73 | 🐛 8 | 🌐 TeX | 📅 2020-10-06 - Buku *Version Control* menggunakan `Git`.
 * [E-Library MDC](https://github.com/MuhammadiyahDeveloperClub/E-Library) ⭐ 15 | 🐛 0 | 📅 2020-10-03 - *E-library* yang berisi kumpulan *E-book* tentang dunia IT.
@@ -141,7 +141,7 @@ This list aims to inspire others and hopefully give encouragement for individual
 
 * [Stisla](https://github.com/stisla/stisla) ⭐ 3,760 | 🐛 0 | 🌐 CSS | 📅 2026-07-06 - A free Bootstrap admin template which helps speed up your project and design your own dashboard UI.
 * [Waves](https://github.com/fians/Waves) ⭐ 3,462 | 🐛 38 | 🌐 JavaScript | 📅 2022-12-11 - Click effect inspired by Google's Material Design.
-* [Mazer](https://github.com/zuramai/mazer) ⭐ 3,098 | 🐛 16 | 🌐 HTML | 📅 2025-08-05 - Clean, Elegant, and Free Bootstrap 5 Admin Dashboard Template
+* [Mazer](https://github.com/zuramai/mazer) ⭐ 3,099 | 🐛 16 | 🌐 HTML | 📅 2025-08-05 - Clean, Elegant, and Free Bootstrap 5 Admin Dashboard Template
 * [Bootstrap Markdown](https://github.com/toopay/bootstrap-markdown) ⭐ 1,972 | 🐛 90 | 🌐 JavaScript | 📅 2022-06-24 - Bootstrap plugin for markdown editing.
 * [Marka](https://github.com/fians/marka) ⭐ 1,513 | 🐛 5 | 🌐 CSS | 📅 2015-10-25 - Beautiful transformable icons built for the web.
 * [React Komik](https://github.com/sonnylazuardi/react-komik) ⭐ 374 | 🐛 0 | 🌐 JavaScript | 📅 2017-10-28 - ReactJS based comic strip creator using fabric.js canvas rendering.
@@ -167,7 +167,7 @@ This list aims to inspire others and hopefully give encouragement for individual
 * [PHC Crypto](https://github.com/aldy505/phc-crypto) ⭐ 26 | 🐛 0 | 🌐 Go | 📅 2024-06-27 - Password hashing algorithm based on PHC standard, inspired by Upash package from Node.js.
 * [Godong](https://github.com/novalagung/godong) ⚠️ Archived - Easiest dynamic http route handler for golang
 * [Excel2Json](https://github.com/FerdinaKusumah/excel2json) ⭐ 15 | 🐛 0 | 🌐 Go | 📅 2021-08-31 - Convert your excel or excel datasource to json easily.
-* [NAEOS](https://github.com/NAEOS-foundation/naeos) ⭐ 11 | 🐛 5 | 🌐 Go | 📅 2026-08-22 - Declarative platform engineering system: transforms specifications into validated multi-language project structures.
+* [NAEOS](https://github.com/NAEOS-foundation/naeos) ⭐ 11 | 🐛 7 | 🌐 Go | 📅 2026-08-24 - Declarative platform engineering system: transforms specifications into validated multi-language project structures.
 * [HiberSunda](https://github.com/hiberin/hibersunda) ⭐ 7 | 🐛 0 | 🌐 Go | 📅 2026-06-21 - The API to learn Undak Usuk Basa in Sundanese language.
 * [Imaginative Go](https://github.com/sonyarianto/imaginative-go) ⚠️ Archived - Web to learn Go.
 * [GoTral](https://github.com/codenoid/GoTral) ⭐ 4 | 🐛 2 | 🌐 Go | 📅 2019-12-10 - Go cenTralized config, for distributed software.
@@ -187,7 +187,7 @@ This list aims to inspire others and hopefully give encouragement for individual
 ## JavaScript
 
 * [PhantomJS](https://github.com/ariya/phantomjs) ⚠️ Archived - Scriptable Headless WebKit.
-* [giscus](https://github.com/giscus/giscus) ⭐ 12,052 | 🐛 126 | 🌐 TypeScript | 📅 2026-05-26 - A comments system for any site, static or dynamic, powered by GitHub Discussions.
+* [giscus](https://github.com/giscus/giscus) ⭐ 12,053 | 🐛 126 | 🌐 TypeScript | 📅 2026-05-26 - A comments system for any site, static or dynamic, powered by GitHub Discussions.
 * [UAParser.js](https://github.com/faisalman/ua-parser-js) ⭐ 10,180 | 🐛 14 | 🌐 JavaScript | 📅 2026-08-23 - Lightweight JavaScript-based User-Agent string parser.
 * [Esprima](https://github.com/jquery/esprima) ⭐ 7,139 | 🐛 151 | 🌐 TypeScript | 📅 2023-04-16 - ECMAScript parsing infrastructure for multipurpose analysis.
 * [Kinetic](https://github.com/ariya/kinetic) ⚠️ Archived - Kinetic Scrolling with JavaScript.
@@ -383,11 +383,11 @@ This list aims to inspire others and hopefully give encouragement for individual
 ## OSINT
 
 * [Belati](https://github.com/aancw/Belati) ⚠️ Archived - Collecting Public Data & Public Document from Website.
-* [GhostIntel](https://github.com/ruyynn/GhostIntel) ⭐ 151 | 🐛 2 | 🌐 HTML | 📅 2026-08-03 - OSINT & Recon tool by Indonesian developer. Beginner-friendly, open-source, and actively maintained.
+* [GhostIntel](https://github.com/ruyynn/GhostIntel) ⭐ 152 | 🐛 2 | 🌐 HTML | 📅 2026-08-03 - OSINT & Recon tool by Indonesian developer. Beginner-friendly, open-source, and actively maintained.
 
 ## Natural Language Processing
 
-* [NLP Bahasa Indonesia Resources](https://github.com/louisowen6/NLP_bahasa_resources) ⭐ 572 | 🐛 2 | 📅 2023-02-17 - This repository provides link to useful dataset and another resources for NLP in Bahasa Indonesia.
+* [NLP Bahasa Indonesia Resources](https://github.com/louisowen6/NLP_bahasa_resources) ⭐ 573 | 🐛 2 | 📅 2023-02-17 - This repository provides link to useful dataset and another resources for NLP in Bahasa Indonesia.
 * [Sastrawi](https://github.com/sastrawi/sastrawi) ⭐ 438 | 🐛 16 | 🌐 PHP | 📅 2022-09-06 - High quality stemmer library for Indonesian Language.
 * [PySastrawi](https://github.com/har07/PySastrawi) ⭐ 361 | 🐛 12 | 🌐 Python | 📅 2026-05-21 - Python port of high quality stemmer library for Indonesian Language.
 * [Indonesian NLP resources](https://github.com/kmkurn/id-nlp-resource) ⭐ 288 | 🐛 1 | 📅 2022-01-18 - A list of Indonesian NLP resources related to language modeling, sentiment analysis, and more.
@@ -395,7 +395,7 @@ This list aims to inspire others and hopefully give encouragement for individual
 
 ## Miscellaneous
 
-* [thedev.id](https://github.com/fransallen/thedev.id) ⭐ 1,693 | 🐛 336 | 🌐 HTML | 📅 2025-12-19 - An identity for developers on the web. (Subdomain)
+* [thedev.id](https://github.com/fransallen/thedev.id) ⭐ 1,693 | 🐛 337 | 🌐 HTML | 📅 2025-12-19 - An identity for developers on the web. (Subdomain)
 * [Indonesian AdBlock Rules](https://github.com/ABPindo/indonesianadblockrules) ⭐ 239 | 🐛 0 | 🌐 Adblock Filter List | 📅 2026-08-20 - Compiled ABP rules to block various ads in Indonesian based site.
 * [OpenRetail](https://github.com/rudi-krsoftware/open-retail) ⭐ 196 | 🐛 26 | 🌐 C# | 📅 2023-04-17 - Perangkat lunak open source yang dikembangkan khusus untuk bidang usaha ritel, grosir, toko bangunan, toko komputer, toko buku, counter hp, pos, point of sale, kasir dan bidang usaha lainnya yang sejenis.
 * [Peta Indonesia GeoJSON](https://github.com/ans-4175/peta-indonesia-geojson) ⭐ 80 | 🐛 0 | 📅 2026-08-09 - Provincial GeoJSON data for Indonesia. Useful for making choropleth visualizations for Data Science projects. (by [ans-4175](https://github.com/ans-4175))

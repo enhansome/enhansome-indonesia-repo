@@ -426,7 +426,7 @@
             "last_commit": "2026-08-01T02:27:38Z",
             "owner": "farizdotid",
             "repo": "DAFTAR-API-LOKAL-INDONESIA",
-            "stars": 5290
+            "stars": 5291
           }
         },
         {
@@ -597,7 +597,7 @@
             "last_commit": "2026-08-18T14:16:15Z",
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 395119
+            "stars": 395134
           }
         },
         {
@@ -1002,7 +1002,7 @@
             "last_commit": "2025-08-05T13:45:33Z",
             "owner": "zuramai",
             "repo": "mazer",
-            "stars": 3098
+            "stars": 3099
           }
         },
         {
@@ -1311,7 +1311,7 @@
             "archived": false,
             "id": 1295447882,
             "language": "Go",
-            "last_commit": "2026-08-22T20:05:09Z",
+            "last_commit": "2026-08-24T12:57:07Z",
             "owner": "NAEOS-foundation",
             "repo": "naeos",
             "stars": 11
@@ -1461,7 +1461,7 @@
             "last_commit": "2026-05-26T22:20:10Z",
             "owner": "giscus",
             "repo": "giscus",
-            "stars": 12052
+            "stars": 12053
           }
         },
         {
@@ -3420,7 +3420,7 @@
             "last_commit": "2026-08-03T07:05:48Z",
             "owner": "ruyynn",
             "repo": "GhostIntel",
-            "stars": 151
+            "stars": 152
           }
         }
       ],
@@ -3441,7 +3441,7 @@
             "last_commit": "2023-02-17T06:31:22Z",
             "owner": "louisowen6",
             "repo": "NLP_bahasa_resources",
-            "stars": 572
+            "stars": 573
           }
         },
         {
@@ -3620,7 +3620,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T09:33:32.132Z",
+    "last_updated": "2026-08-24T14:16:46.214Z",
     "original_repository": "GitIndonesia/awesome-indonesia-repo",
     "original_repository_id": 52785444,
     "original_repository_sha": "da6467550cb98773068609f5b59b0e1b599e59de",
