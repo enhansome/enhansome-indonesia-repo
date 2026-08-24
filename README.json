@@ -411,7 +411,7 @@
             "last_commit": "2026-05-28T02:14:37Z",
             "owner": "Kristories",
             "repo": "awesome-guidelines",
-            "stars": 11059
+            "stars": 11063
           }
         },
         {
@@ -597,7 +597,7 @@
             "last_commit": "2026-08-18T14:16:15Z",
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 395051
+            "stars": 395119
           }
         },
         {
@@ -678,7 +678,7 @@
             "last_commit": "2026-01-25T01:00:57Z",
             "owner": "danpros",
             "repo": "htmly",
-            "stars": 1358
+            "stars": 1359
           }
         },
         {
@@ -825,7 +825,7 @@
             "last_commit": "2022-04-11T18:02:50Z",
             "owner": "edwardsamuel",
             "repo": "Wilayah-Administratif-Indonesia",
-            "stars": 960
+            "stars": 961
           }
         },
         {
@@ -1149,7 +1149,7 @@
             "last_commit": "2026-07-10T06:36:40Z",
             "owner": "go-shiori",
             "repo": "shiori",
-            "stars": 11606
+            "stars": 11612
           }
         },
         {
@@ -1446,7 +1446,7 @@
             "last_commit": "2022-11-26T19:43:12Z",
             "owner": "ariya",
             "repo": "phantomjs",
-            "stars": 29451
+            "stars": 29452
           }
         },
         {
@@ -1461,7 +1461,7 @@
             "last_commit": "2026-05-26T22:20:10Z",
             "owner": "giscus",
             "repo": "giscus",
-            "stars": 12050
+            "stars": 12052
           }
         },
         {
@@ -1473,10 +1473,10 @@
             "archived": false,
             "id": 3320710,
             "language": "JavaScript",
-            "last_commit": "2026-08-22T09:11:12Z",
+            "last_commit": "2026-08-23T12:48:23Z",
             "owner": "faisalman",
             "repo": "ua-parser-js",
-            "stars": 10181
+            "stars": 10180
           }
         },
         {
@@ -2568,7 +2568,7 @@
             "last_commit": "2026-07-08T06:32:36Z",
             "owner": "playsms",
             "repo": "playsms",
-            "stars": 878
+            "stars": 879
           }
         },
         {
@@ -3246,7 +3246,7 @@
             "archived": false,
             "id": 360081221,
             "language": "Python",
-            "last_commit": "2026-08-02T14:59:26Z",
+            "last_commit": "2026-08-24T02:52:54Z",
             "owner": "IlhamriSKY",
             "repo": "PDDIKTI-kemdikbud-API",
             "stars": 121
@@ -3420,7 +3420,7 @@
             "last_commit": "2026-08-03T07:05:48Z",
             "owner": "ruyynn",
             "repo": "GhostIntel",
-            "stars": 150
+            "stars": 151
           }
         }
       ],
@@ -3507,7 +3507,7 @@
             "last_commit": "2025-12-19T06:16:49Z",
             "owner": "thedev-id",
             "repo": "thedev.id",
-            "stars": 1691
+            "stars": 1693
           }
         },
         {
@@ -3620,7 +3620,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T09:15:28.768Z",
+    "last_updated": "2026-08-24T09:33:32.132Z",
     "original_repository": "GitIndonesia/awesome-indonesia-repo",
     "original_repository_id": 52785444,
     "original_repository_sha": "da6467550cb98773068609f5b59b0e1b599e59de",
