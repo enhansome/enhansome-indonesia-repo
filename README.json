@@ -15,7 +15,7 @@
             "last_commit": "2026-03-05T07:33:10Z",
             "owner": "zetbaitsu",
             "repo": "Compressor",
-            "stars": 7227
+            "stars": 7226
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2021-09-16T08:30:25Z",
             "owner": "sonnylazuardi",
             "repo": "react-native-credit-card",
-            "stars": 385
+            "stars": 386
           }
         },
         {
@@ -411,7 +411,7 @@
             "last_commit": "2026-05-28T02:14:37Z",
             "owner": "Kristories",
             "repo": "awesome-guidelines",
-            "stars": 11066
+            "stars": 11069
           }
         },
         {
@@ -423,10 +423,10 @@
             "archived": false,
             "id": 96086769,
             "language": "TypeScript",
-            "last_commit": "2026-08-01T02:27:38Z",
+            "last_commit": "2026-08-26T13:58:25Z",
             "owner": "farizdotid",
             "repo": "DAFTAR-API-LOKAL-INDONESIA",
-            "stars": 5293
+            "stars": 5294
           }
         },
         {
@@ -456,7 +456,7 @@
             "last_commit": "2025-08-03T03:05:42Z",
             "owner": "hendisantika",
             "repo": "List-All-Programming-Telegram-Group",
-            "stars": 1488
+            "stars": 1487
           }
         },
         {
@@ -597,7 +597,7 @@
             "last_commit": "2026-08-18T14:16:15Z",
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 395244
+            "stars": 395313
           }
         },
         {
@@ -612,7 +612,7 @@
             "last_commit": "2024-06-21T09:50:08Z",
             "owner": "zuramai",
             "repo": "refactoring",
-            "stars": 100
+            "stars": 99
           }
         },
         {
@@ -1032,7 +1032,7 @@
             "last_commit": "2015-10-25T02:57:48Z",
             "owner": "fians",
             "repo": "marka",
-            "stars": 1513
+            "stars": 1514
           }
         },
         {
@@ -1149,7 +1149,7 @@
             "last_commit": "2026-07-10T06:36:40Z",
             "owner": "go-shiori",
             "repo": "shiori",
-            "stars": 11614
+            "stars": 11616
           }
         },
         {
@@ -1311,7 +1311,7 @@
             "archived": false,
             "id": 1295447882,
             "language": "Go",
-            "last_commit": "2026-08-24T12:57:07Z",
+            "last_commit": "2026-08-26T18:39:16Z",
             "owner": "NAEOS-foundation",
             "repo": "naeos",
             "stars": 11
@@ -1446,7 +1446,7 @@
             "last_commit": "2022-11-26T19:43:12Z",
             "owner": "ariya",
             "repo": "phantomjs",
-            "stars": 29452
+            "stars": 29447
           }
         },
         {
@@ -1461,7 +1461,7 @@
             "last_commit": "2026-05-26T22:20:10Z",
             "owner": "giscus",
             "repo": "giscus",
-            "stars": 12055
+            "stars": 12059
           }
         },
         {
@@ -2361,7 +2361,7 @@
             "last_commit": "2026-06-12T10:55:27Z",
             "owner": "novalagung",
             "repo": "dasarpemrogramangolang",
-            "stars": 2628
+            "stars": 2629
           }
         },
         {
@@ -2583,7 +2583,7 @@
             "last_commit": "2021-10-27T07:32:18Z",
             "owner": "faisalman",
             "repo": "simple-excel-php",
-            "stars": 557
+            "stars": 556
           }
         },
         {
@@ -3420,7 +3420,7 @@
             "last_commit": "2026-08-03T07:05:48Z",
             "owner": "ruyynn",
             "repo": "GhostIntel",
-            "stars": 153
+            "stars": 152
           }
         }
       ],
@@ -3441,7 +3441,7 @@
             "last_commit": "2023-02-17T06:31:22Z",
             "owner": "louisowen6",
             "repo": "NLP_bahasa_resources",
-            "stars": 573
+            "stars": 574
           }
         },
         {
@@ -3507,7 +3507,7 @@
             "last_commit": "2025-12-19T06:16:49Z",
             "owner": "thedev-id",
             "repo": "thedev.id",
-            "stars": 1700
+            "stars": 1701
           }
         },
         {
@@ -3620,9 +3620,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T09:28:05.759Z",
-    "original_repository": "GitIndonesia/awesome-indonesia-repo",
-    "original_repository_id": 52785444,
+    "last_updated": "2026-08-27T11:43:13.599Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 52785444,
+      "language": "Jupyter Notebook",
+      "last_commit": "2026-08-08T16:59:56Z",
+      "owner": "GitIndonesia",
+      "repo": "awesome-indonesia-repo",
+      "stars": 763
+    },
     "original_repository_sha": "da6467550cb98773068609f5b59b0e1b599e59de",
     "enhanced_repository": "enhansome/enhansome-indonesia-repo",
     "enhanced_repository_description": null,
