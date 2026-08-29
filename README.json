@@ -10,12 +10,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An android image compression library.",
+            "homepage": null,
             "id": 61435800,
             "language": "Kotlin",
+            "license": null,
             "last_commit": "2026-03-05T07:33:10Z",
+            "open_issues": 140,
             "owner": "zetbaitsu",
             "repo": "Compressor",
-            "stars": 7228
+            "stars": 7228,
+            "topics": [
+              "android",
+              "android-library",
+              "compress-images",
+              "compression",
+              "compressor",
+              "image-compression",
+              "kotlin",
+              "kotlin-android",
+              "kotlin-coroutines",
+              "kotlin-library",
+              "photos"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -26,12 +43,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Android-StepsView",
+            "homepage": "http://anton46.com",
             "id": 37836606,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2023-08-14T06:17:22Z",
+            "open_issues": 20,
             "owner": "anton46",
             "repo": "Android-StepsView",
-            "stars": 1353
+            "stars": 1353,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -42,12 +64,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Image Picker for Android 🤖",
+            "homepage": null,
             "id": 70986819,
             "language": "Kotlin",
+            "license": "MIT",
             "last_commit": "2024-07-24T01:49:10Z",
+            "open_issues": 65,
             "owner": "esafirm",
             "repo": "android-image-picker",
-            "stars": 1142
+            "stars": 1142,
+            "topics": [
+              "android",
+              "camera",
+              "gallery",
+              "hacktoberfest",
+              "image-picker",
+              "picker-library"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -58,12 +92,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🏃 UI & UX Prototype of redesigned Nike+ Running for React Native 📱+ React Native DOM (Web)  🌏",
+            "homepage": "http://nikerunning.sonnylab.com/",
             "id": 77649566,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-09-16T08:33:34Z",
+            "open_issues": 1,
             "owner": "sonnylazuardi",
             "repo": "react-native-nike-running",
-            "stars": 687
+            "stars": 687,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -74,12 +113,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Android icon pack material dashboard",
+            "homepage": null,
             "id": 73044482,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2020-06-27T07:59:07Z",
+            "open_issues": 45,
             "owner": "danimahardhika",
             "repo": "candybar-library",
-            "stars": 499
+            "stars": 499,
+            "topics": [
+              "android",
+              "android-library",
+              "dashboard",
+              "icon-pack",
+              "library",
+              "material-design",
+              "muzei"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -90,12 +142,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":credit_card: React native credit card display component",
+            "homepage": "https://exp.host/@sonnylazuardi/react-native-credit-card-demos",
             "id": 66424062,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-09-16T08:30:25Z",
+            "open_issues": 8,
             "owner": "sonnylazuardi",
             "repo": "react-native-credit-card",
-            "stars": 386
+            "stars": 386,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -106,12 +163,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Android custom animation view that looks like WhastApp Profile screen style",
+            "homepage": "http://anton46.com",
             "id": 47991341,
             "language": "Java",
+            "license": null,
             "last_commit": "2020-09-30T19:41:43Z",
+            "open_issues": 10,
             "owner": "anton46",
             "repo": "WhatsApp-ProfileCollapsingToolbar",
-            "stars": 374
+            "stars": 374,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -122,12 +184,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Standard CollapsingToolbarLayout with subtitle support",
+            "homepage": "http://hanggrian.com/collapsingtoolbarlayout-subtitle/",
             "id": 78655968,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2025-05-15T11:05:43Z",
+            "open_issues": 3,
             "owner": "hanggrian",
             "repo": "collapsingtoolbarlayout-subtitle",
-            "stars": 285
+            "stars": 285,
+            "topics": [
+              "android-library",
+              "material-design",
+              "subtitle",
+              "toolbar"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -138,12 +210,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ziliun article reader android app built with React Native",
+            "homepage": "http://bit.ly/ziliun",
             "id": 42720310,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2016-01-01T20:37:07Z",
+            "open_issues": 1,
             "owner": "sonnylazuardi",
             "repo": "ziliun-react-native",
-            "stars": 283
+            "stars": 283,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -154,12 +231,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Android Json based wallpaper dashboard library",
+            "homepage": null,
             "id": 80977822,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2019-01-21T01:43:20Z",
+            "open_issues": 24,
             "owner": "danimahardhika",
             "repo": "wallpaperboard",
-            "stars": 252
+            "stars": 252,
+            "topics": [
+              "android",
+              "android-library",
+              "dashboard",
+              "library",
+              "material-design",
+              "muzei",
+              "wallpapers"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -170,12 +260,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Android Color Picker aka AmbilWarna library (\"Pick a Color\" in Indonesian)",
+            "homepage": null,
             "id": 29142599,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2024-04-21T01:23:25Z",
+            "open_issues": 16,
             "owner": "yukuku",
             "repo": "ambilwarna",
-            "stars": 242
+            "stars": 242,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -186,12 +281,27 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Android Base MVP Concept with RXJava, Dagger, Event Bus, Retrofit, Glide, OkHTTP",
+            "homepage": null,
             "id": 64722834,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2018-07-18T03:46:52Z",
+            "open_issues": 1,
             "owner": "derohimat",
             "repo": "android-base-mvp",
-            "stars": 148
+            "stars": 148,
+            "topics": [
+              "android",
+              "architecture",
+              "dagger",
+              "example-project",
+              "mvp",
+              "mvp-concept",
+              "okhttp",
+              "rxjava",
+              "sign"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -202,12 +312,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "An upgraded Snackbar for Android that provides more options and easy to use",
+            "homepage": null,
             "id": 83803768,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2017-12-20T11:30:21Z",
+            "open_issues": 5,
             "owner": "danimahardhika",
             "repo": "cafebar",
-            "stars": 143
+            "stars": 143,
+            "topics": [
+              "android",
+              "android-library",
+              "material-components",
+              "material-design",
+              "snackbar",
+              "ui-components"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -218,12 +340,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Android image filter processing using layer drawable and effect factory android.",
+            "homepage": null,
             "id": 37489612,
             "language": "Java",
+            "license": null,
             "last_commit": "2016-09-03T13:39:56Z",
+            "open_issues": 0,
             "owner": "mnafian",
             "repo": "ImageEffectFilter",
-            "stars": 132
+            "stars": 132,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -234,12 +361,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DraggableView is an Android library to make floating draggable view easily using extensions on Kotlin & provided utils class on Java",
+            "homepage": null,
             "id": 168088568,
             "language": "Kotlin",
+            "license": "MIT",
             "last_commit": "2023-07-19T12:05:25Z",
+            "open_issues": 7,
             "owner": "hyuwah",
             "repo": "DraggableView",
-            "stars": 116
+            "stars": 116,
+            "topics": [
+              "android",
+              "android-library",
+              "draggable",
+              "library"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -250,12 +387,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple timer for a more productive way to work and study built with ReactJS",
+            "homepage": "http://tomato-timer.sonnylab.com/",
             "id": 38630224,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2015-08-31T13:17:18Z",
+            "open_issues": 5,
             "owner": "sonnylazuardi",
             "repo": "react-tomato-timer",
-            "stars": 108
+            "stars": 108,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -266,12 +408,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Rx wrapper for Download Manager in Android",
+            "homepage": null,
             "id": 45170729,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2018-07-11T09:00:14Z",
+            "open_issues": 10,
             "owner": "esafirm",
             "repo": "RxDownloader",
-            "stars": 106
+            "stars": 106,
+            "topics": [
+              "downloadmanager",
+              "rx-wrapper"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -282,12 +432,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Smart helper for marker movement in Google Maps and Mapbox",
+            "homepage": null,
             "id": 218959863,
             "language": "Kotlin",
+            "license": "NOASSERTION",
             "last_commit": "2019-12-23T01:38:54Z",
+            "open_issues": 1,
             "owner": "utsmannn",
             "repo": "SmartMarker",
-            "stars": 60
+            "stars": 60,
+            "topics": [
+              "google-maps",
+              "mapbox",
+              "marker",
+              "marker-animation",
+              "marker-tracking"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -298,12 +459,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Zelory standard android apps",
+            "homepage": "http://zetbaitsu.github.io/Benih",
             "id": 38868876,
             "language": "Java",
+            "license": null,
             "last_commit": "2016-06-22T14:22:50Z",
+            "open_issues": 1,
             "owner": "zetbaitsu",
             "repo": "Benih",
-            "stars": 42
+            "stars": 42,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -314,12 +480,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Android library to make form validation easier",
+            "homepage": null,
             "id": 198403755,
             "language": "Kotlin",
+            "license": "MIT",
             "last_commit": "2019-08-30T03:53:00Z",
+            "open_issues": 2,
             "owner": "rizmaulana",
             "repo": "SheenValidator",
-            "stars": 30
+            "stars": 30,
+            "topics": [
+              "androidforms",
+              "edittext",
+              "input",
+              "ui",
+              "validator"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -330,12 +507,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Customizable Item Setting View Android",
+            "homepage": null,
             "id": 106140653,
             "language": "Kotlin",
+            "license": null,
             "last_commit": "2020-11-15T02:24:03Z",
+            "open_issues": 0,
             "owner": "andhikayuana",
             "repo": "YuanaItemSettingView",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "android",
+              "android-library",
+              "android-settings",
+              "android-ui",
+              "custom-view",
+              "java",
+              "kotlin",
+              "kotlin-android"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -346,12 +537,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a pure java navigation framework for Android projects.",
+            "homepage": null,
             "id": 409246851,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2026-05-25T15:01:31Z",
+            "open_issues": 0,
             "owner": "rh-id",
             "repo": "a-navigator",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "android",
+              "android-library",
+              "android-navigation",
+              "android-navigation-java",
+              "navigation"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -362,12 +564,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Image gallery library by using coroutine to help user to choose image (single or multi) from android device without usage of android gallery intent",
+            "homepage": null,
             "id": 184189739,
             "language": "Kotlin",
+            "license": "Apache-2.0",
             "last_commit": "2022-06-27T15:52:53Z",
+            "open_issues": 1,
             "owner": "WennYanto",
             "repo": "android-image-picker",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "coroutines-android",
+              "custom-view",
+              "image-gallery",
+              "image-picker-android",
+              "image-picker-library",
+              "kotlin-android",
+              "kotlin-coroutines",
+              "viewbinding"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -378,12 +594,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create TicTacToe game that is implemented using android custom view",
+            "homepage": null,
             "id": 259083590,
             "language": "Kotlin",
+            "license": null,
             "last_commit": "2020-05-22T10:05:48Z",
+            "open_issues": 0,
             "owner": "WennYanto",
             "repo": "android-tic-tac-toe",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "android",
+              "custom-view",
+              "custom-view-instancestate",
+              "customview",
+              "kotlin",
+              "tictactoe"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -394,12 +622,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is a simple pure java service locator for Android",
+            "homepage": null,
             "id": 406974032,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2024-12-17T02:19:18Z",
+            "open_issues": 0,
             "owner": "rh-id",
             "repo": "a-provider",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "android",
+              "android-lib",
+              "android-library",
+              "provider",
+              "service-locator"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -410,12 +649,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple Android log library",
+            "homepage": null,
             "id": 419740503,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2024-12-17T02:19:46Z",
+            "open_issues": 1,
             "owner": "rh-id",
             "repo": "a-logger",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "android",
+              "android-log",
+              "android-logger",
+              "android-logging",
+              "logger",
+              "logging"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         }
@@ -432,12 +683,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Programming style, best practices, and coding conventions.",
+            "homepage": null,
             "id": 97054975,
             "language": "JavaScript",
+            "license": "CC0-1.0",
             "last_commit": "2026-05-28T02:14:37Z",
+            "open_issues": 0,
             "owner": "Kristories",
             "repo": "awesome-guidelines",
-            "stars": 11073
+            "stars": 11074,
+            "topics": [
+              "awesome",
+              "awesome-guidelines",
+              "awesome-list",
+              "code-quality",
+              "coding-conventions",
+              "guidelines",
+              "hacktoberfest",
+              "style-conventions",
+              "style-guide"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -448,12 +714,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Berisi API tentang Data Indonesia ataupun API yang dibuat oleh developer Indonesia <3",
+            "homepage": "https://farizdotid.github.io/DAFTAR-API-LOKAL-INDONESIA/",
             "id": 96086769,
             "language": "TypeScript",
+            "license": "CC-BY-4.0",
             "last_commit": "2026-08-26T13:58:25Z",
+            "open_issues": 1,
             "owner": "farizdotid",
             "repo": "DAFTAR-API-LOKAL-INDONESIA",
-            "stars": 5295
+            "stars": 5295,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -464,12 +735,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of engineering blogs of startup and enterprise companies",
+            "homepage": "https://github.com/sumodirjo/engineering-blogs",
             "id": 26743136,
             "language": null,
+            "license": "GPL-2.0",
             "last_commit": "2026-04-10T10:44:09Z",
+            "open_issues": 1,
             "owner": "sumodirjo",
             "repo": "engineering-blogs",
-            "stars": 1678
+            "stars": 1678,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -480,12 +756,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "List of All Programming Telegram Group",
+            "homepage": null,
             "id": 87484877,
             "language": "Crystal",
+            "license": "CC0-1.0",
             "last_commit": "2025-08-03T03:05:42Z",
+            "open_issues": 1,
             "owner": "hendisantika",
             "repo": "List-All-Programming-Telegram-Group",
-            "stars": 1488
+            "stars": 1488,
+            "topics": [
+              "android",
+              "group",
+              "groups",
+              "hacktoberfest",
+              "hacktoberfest2021",
+              "indonesia",
+              "intellij",
+              "java",
+              "kotlin",
+              "programming-language",
+              "python",
+              "telegram-group",
+              "user"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -496,12 +791,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A list of awesome Codeigniter core, helpers, hooks, language, libraries, third party and other cool resources for CodeIgniter :fire:",
+            "homepage": "http://codeigniter-id.github.io/#/awesome-ci",
             "id": 44095474,
             "language": null,
+            "license": null,
             "last_commit": "2024-01-01T15:55:48Z",
+            "open_issues": 3,
             "owner": "codeigniter-id",
             "repo": "awesome-codeigniter",
-            "stars": 793
+            "stars": 793,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -512,12 +812,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of amazingly awesome repository created and contributed by Indonesian people.",
+            "homepage": null,
             "id": 52785444,
             "language": "Jupyter Notebook",
+            "license": "CC-BY-4.0",
             "last_commit": "2026-08-08T16:59:56Z",
+            "open_issues": 9,
             "owner": "GitIndonesia",
             "repo": "awesome-indonesia-repo",
-            "stars": 763
+            "stars": 763,
+            "topics": [
+              "awesome-list",
+              "hacktoberfest",
+              "indonesia",
+              "repository"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -528,12 +838,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kumpulan Course Video pembalajaran tentang Cyber Security & Hacking secara GRATIS, repositori ini akan membantu kita dalam proses pembelajaran untuk menjadi seorang IT Security, Pentester, Security Engineer, Security Operation Center dan masih banyak lagi yang di dalam ruang lingkup Information Security. Jika ingin berkontribusi ke repository ini, silahkan tekan tombol \"Pull request\".",
+            "homepage": null,
             "id": 291246803,
             "language": null,
+            "license": null,
             "last_commit": "2022-03-10T12:33:26Z",
+            "open_issues": 1,
             "owner": "screetsec",
             "repo": "Cybersecurity-Indonesia",
-            "stars": 392
+            "stars": 392,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -544,12 +859,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Kumpulan tulisan NLP Bahasa Indonesia",
+            "homepage": null,
             "id": 22301530,
             "language": null,
+            "license": null,
             "last_commit": "2016-10-25T14:40:41Z",
+            "open_issues": 6,
             "owner": "sastrawi",
             "repo": "nlp-bahasa-indonesia",
-            "stars": 189
+            "stars": 189,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -560,12 +880,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Daftar lowongan kerja IT yang ada di Indonesia",
+            "homepage": null,
             "id": 345029287,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-02-19T02:17:08Z",
+            "open_issues": 0,
             "owner": "satyawikananda",
             "repo": "awesome-loker-it-indonesia",
-            "stars": 158
+            "stars": 158,
+            "topics": [
+              "awesome",
+              "indonesia",
+              "lowongan-kerja",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -576,12 +906,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Para developer keren asal Indonesia yang bisa diundang ke acara komunitas dan konferensi sebagai pembicara atau narasumber",
+            "homepage": null,
             "id": 212050588,
             "language": null,
+            "license": null,
             "last_commit": "2023-08-16T00:02:28Z",
+            "open_issues": 1,
             "owner": "rizafahmi",
             "repo": "awesome-speakers-id",
-            "stars": 145
+            "stars": 145,
+            "topics": [
+              "awesome-list",
+              "community",
+              "speakers"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -592,12 +931,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "\"Awesome list\" of Indonesian programming resources. / Daftar bahan belajar pemrograman berbahasa Indonesia.",
+            "homepage": "https://amuritna.github.io/belajar-ngoding-bhs-indo/",
             "id": 166521654,
             "language": null,
+            "license": null,
             "last_commit": "2024-05-29T14:14:22Z",
+            "open_issues": 0,
             "owner": "amuritna",
             "repo": "belajar-ngoding-bhs-indo",
-            "stars": 53
+            "stars": 53,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "bahasa-indonesia",
+              "hacktoberfest",
+              "indonesian",
+              "komunitas-pemrogram-indonesia",
+              "terjemahan"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -608,12 +960,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome List of Docker Compose Collection",
+            "homepage": null,
             "id": 280514410,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2022-10-02T15:15:40Z",
+            "open_issues": 0,
             "owner": "makiraid",
             "repo": "docker-compose-collection",
-            "stars": 24
+            "stars": 24,
+            "topics": [
+              "awesome-list",
+              "docker",
+              "docker-compose",
+              "hacktoberfest",
+              "hacktoberfest2024"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         }
@@ -630,12 +993,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":books: Freely available programming books",
+            "homepage": "https://ebookfoundation.github.io/free-programming-books/",
             "id": 13491895,
             "language": "Python",
+            "license": "CC-BY-4.0",
             "last_commit": "2026-08-18T14:16:15Z",
+            "open_issues": 92,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 395457
+            "stars": 395483,
+            "topics": [
+              "books",
+              "education",
+              "hacktoberfest",
+              "list",
+              "resource"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -646,12 +1020,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Complete Refactoring Guide and Code Smells (Bahasa Indonesia)",
+            "homepage": "https://refactoring.saugi.me",
             "id": 523243759,
             "language": "Vue",
+            "license": null,
             "last_commit": "2024-06-21T09:50:08Z",
+            "open_issues": 0,
             "owner": "zuramai",
             "repo": "refactoring",
-            "stars": 99
+            "stars": 99,
+            "topics": [
+              "best-practices",
+              "code-review",
+              "indonesia",
+              "java",
+              "reengineering",
+              "refactoring"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -662,12 +1048,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Version Control menggunakan Git",
+            "homepage": null,
             "id": 1643774,
             "language": "TeX",
+            "license": null,
             "last_commit": "2020-10-06T19:14:55Z",
+            "open_issues": 8,
             "owner": "endymuhardin",
             "repo": "buku-git",
-            "stars": 73
+            "stars": 73,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -678,12 +1069,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kumpulan E-Book buat bahan belajar",
+            "homepage": null,
             "id": 70473415,
             "language": null,
+            "license": null,
             "last_commit": "2020-10-03T09:52:26Z",
+            "open_issues": 0,
             "owner": "MuhammadiyahDeveloperClub",
             "repo": "E-Library",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -694,12 +1090,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Buku pembahasan detil tentang cara kerja dan internal JVM",
+            "homepage": null,
             "id": 105510991,
             "language": null,
+            "license": null,
             "last_commit": "2017-10-04T10:40:13Z",
+            "open_issues": 0,
             "owner": "bliblidotcom",
             "repo": "jvm-handbook",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         }
@@ -716,12 +1117,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple and fast databaseless PHP blogging platform, and Flat-File CMS",
+            "homepage": "https://www.htmly.com",
             "id": 15427713,
             "language": "PHP",
+            "license": "GPL-2.0",
             "last_commit": "2026-01-25T01:00:57Z",
+            "open_issues": 53,
             "owner": "danpros",
             "repo": "htmly",
-            "stars": 1360
+            "stars": 1360,
+            "topics": [
+              "blog",
+              "blog-engine",
+              "cms",
+              "flat-file",
+              "htmly",
+              "markdown",
+              "php",
+              "website"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -732,12 +1147,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Minimalist content management system.",
+            "homepage": "https://mecha-cms.com",
             "id": 19169655,
             "language": "PHP",
+            "license": "GPL-3.0",
             "last_commit": "2026-05-16T05:45:02Z",
+            "open_issues": 0,
             "owner": "mecha-cms",
             "repo": "mecha",
-            "stars": 189
+            "stars": 189,
+            "topics": [
+              "apache",
+              "cms",
+              "file",
+              "flat",
+              "markdown",
+              "minimal",
+              "php",
+              "small",
+              "stable",
+              "tiny"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -748,12 +1179,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pusaka CMS is a file-based Content Management System built on top of CodeIgniter Framework",
+            "homepage": "http://pusakacms.github.io/",
             "id": 22332151,
             "language": "PHP",
+            "license": null,
             "last_commit": "2017-08-17T10:01:30Z",
+            "open_issues": 9,
             "owner": "codepolitanlab",
             "repo": "pusakacms",
-            "stars": 71
+            "stars": 71,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -764,12 +1200,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Learning Management from Nusantara built with Laravel",
+            "homepage": null,
             "id": 25825450,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2021-06-25T02:41:07Z",
+            "open_issues": 41,
             "owner": "laravel-indonesia",
             "repo": "lentera",
-            "stars": 44
+            "stars": 44,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -780,12 +1221,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PopojiCMS - Buat Sendiri Rasa Webmu",
+            "homepage": "http://www.popojicms.org",
             "id": 59028362,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2020-10-03T08:40:14Z",
+            "open_issues": 5,
             "owner": "PopojiCMS",
             "repo": "PopojiCMS",
-            "stars": 42
+            "stars": 42,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -796,12 +1242,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Elybin CMS - Sistem menejemen konten gratis (open source) yang berfokus kepada kegunaan, kecepatan dan kemudahan. Indonesian Product ",
+            "homepage": "https://www.elybin.github.io",
             "id": 27725303,
             "language": "PHP",
+            "license": "GPL-2.0",
             "last_commit": "2021-11-20T08:40:52Z",
+            "open_issues": 0,
             "owner": "elybin",
             "repo": "ElybinCMS",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -812,12 +1263,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fiyo CMS",
+            "homepage": null,
             "id": 23863421,
             "language": "PHP",
+            "license": "NOASSERTION",
             "last_commit": "2018-01-07T23:01:45Z",
+            "open_issues": 13,
             "owner": "FiyoCMS",
             "repo": "FiyoCMS",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         }
@@ -834,12 +1290,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🌳 Sebuat daftar kurasi dari akun, situs web, atau halaman peduli bumi yang tersebar di internet. 🌲 Selamatkan manusia dari perubahan iklim.",
+            "homepage": null,
             "id": 298499990,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2021-04-18T19:32:38Z",
+            "open_issues": 4,
             "owner": "Hadaanallah",
             "repo": "BUMI",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "awesome-list",
+              "bumi",
+              "carbon-reduction",
+              "climate-change",
+              "climate-crisis",
+              "curated-list",
+              "iklim",
+              "keberlanjutan",
+              "lingkungan-hidup",
+              "perubahan-iklim",
+              "renewable-energy",
+              "sustainability"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -850,12 +1324,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Web Covid-19 Speech Recognition - website for update information of covid-19 in province Indonesia with speech recognition",
+            "homepage": "https://covid19.oriadesoft.com/",
             "id": 254765977,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2020-06-13T09:36:06Z",
+            "open_issues": 0,
             "owner": "vierilusen",
             "repo": "Covid19-SpeechRecognition",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "climate-change",
+              "covid-19",
+              "speech-recognition"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         }
@@ -872,12 +1355,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Data Provinsi, Kota/Kabupaten, Kecamatan, dan Kelurahan/Desa di Indonesia",
+            "homepage": null,
             "id": 21912118,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-04-11T18:02:50Z",
+            "open_issues": 27,
             "owner": "edwardsamuel",
             "repo": "Wilayah-Administratif-Indonesia",
-            "stars": 961
+            "stars": 961,
+            "topics": [
+              "dataset",
+              "indonesia"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -888,12 +1379,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Untuk get data quran dari api web kemenag https://quran.kemenag.go.id/",
+            "homepage": null,
             "id": 267798474,
             "language": "PHP",
+            "license": null,
             "last_commit": "2020-05-29T07:51:13Z",
+            "open_issues": 0,
             "owner": "fikimaul",
             "repo": "get-data-quran-kemenag",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         }
@@ -910,12 +1406,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Panada is a high performance PHP development framework, yet simple.  Not only in contexts about how to use it, but it also how the core system run it.",
+            "homepage": "https://panada.github.io",
             "id": 713148,
             "language": "PHP",
+            "license": "NOASSERTION",
             "last_commit": "2016-08-03T10:35:18Z",
+            "open_issues": 5,
             "owner": "panada",
             "repo": "panada",
-            "stars": 127
+            "stars": 127,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -926,12 +1427,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Laravel-Flavoured Nodejs Framework",
+            "homepage": "https://lunox.js.org",
             "id": 426904325,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-07-09T04:38:16Z",
+            "open_issues": 3,
             "owner": "kodepandai",
             "repo": "lunox",
-            "stars": 73
+            "stars": 73,
+            "topics": [
+              "artisan",
+              "laravel",
+              "lunox",
+              "mvc",
+              "nodejs",
+              "polka",
+              "reactjs",
+              "svelte",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -942,12 +1458,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "EmeraldBox is a boilerplate framework for developing python web applications with database access. The framework is based on Flask, a python microframework based on werkzeug, jinja2 and good intentions.",
+            "homepage": null,
             "id": 5932710,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2015-11-04T07:34:56Z",
+            "open_issues": 0,
             "owner": "femmerling",
             "repo": "EmeraldBox",
-            "stars": 57
+            "stars": 57,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -958,12 +1479,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A frontend framework that can help you write performant complex web feature with low dev time and resource cost.",
+            "homepage": null,
             "id": 152055440,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-10-18T05:41:50Z",
+            "open_issues": 3,
             "owner": "ScarletsFiction",
             "repo": "ScarletsFrame",
-            "stars": 29
+            "stars": 29,
+            "topics": [
+              "api",
+              "asset-loader",
+              "data-binding",
+              "dom-binding",
+              "frontend-framework",
+              "hot-reload",
+              "html",
+              "i18n",
+              "javascript",
+              "router",
+              "scarletsframe",
+              "shared-models",
+              "two-way-databinding",
+              "virtual-scroll"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -974,12 +1515,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Framework for quick PHP WEB, API and Console App development *scaffolds and generators included.",
+            "homepage": "https://pukoframework.github.io",
             "id": 65143717,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-08-04T07:56:43Z",
+            "open_issues": 4,
             "owner": "Velliz",
             "repo": "pukoframework",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "composer",
+              "framework",
+              "mvc",
+              "php7",
+              "psr-4"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -990,12 +1542,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A rewrited Scarlets framework for website based on PHP",
+            "homepage": "https://scarlets-php.herokuapp.com",
             "id": 143214434,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2020-12-25T14:13:10Z",
+            "open_issues": 0,
             "owner": "ScarletsFiction",
             "repo": "Scarlets",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "backend",
+              "cli",
+              "console",
+              "fast",
+              "framework",
+              "php",
+              "php-command",
+              "scarletsfiction",
+              "simple"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -1006,12 +1573,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "IGOS Nusantara SDK (Software Development Kit)",
+            "homepage": "ignsdk.web.id",
             "id": 14094648,
             "language": "JavaScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2013-11-03T13:37:51Z",
+            "open_issues": 0,
             "owner": "igos-nusantara",
             "repo": "ignsdk-qt",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         }
@@ -1028,12 +1600,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Component library built on constraint.",
+            "homepage": "https://stisla.dev",
             "id": 161147480,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2026-07-06T03:02:26Z",
+            "open_issues": 0,
             "owner": "stisla",
             "repo": "stisla",
-            "stars": 3760
+            "stars": 3760,
+            "topics": [
+              "admin",
+              "bootstrap",
+              "stisla",
+              "tailwind",
+              "template",
+              "ui"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -1044,12 +1628,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Click effect inspired by Google's Material Design",
+            "homepage": "http://fians.github.io/Waves/",
             "id": 21818328,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-12-11T04:37:25Z",
+            "open_issues": 38,
             "owner": "fians",
             "repo": "Waves",
-            "stars": 3462
+            "stars": 3462,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -1060,12 +1649,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Free and Open-source Bootstrap 5 Admin Dashboard Template and Landing Page ",
+            "homepage": "http://zuramai.github.io/mazer",
             "id": 330968158,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2025-08-05T13:45:33Z",
+            "open_issues": 16,
             "owner": "zuramai",
             "repo": "mazer",
-            "stars": 3099
+            "stars": 3099,
+            "topics": [
+              "admin-dashboard",
+              "bootstrap",
+              "bootstrap5",
+              "bootstrap5-template",
+              "dashboard",
+              "free-template",
+              "hacktoberfest",
+              "scss",
+              "template"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -1076,12 +1680,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bootstrap plugin for markdown editing",
+            "homepage": null,
             "id": 8905877,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2022-06-24T15:27:37Z",
+            "open_issues": 90,
             "owner": "refactory-id",
             "repo": "bootstrap-markdown",
-            "stars": 1972
+            "stars": 1972,
+            "topics": [
+              "bootstrap-markdown",
+              "javascript"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -1092,12 +1704,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Beautiful transformable icons built for the web.",
+            "homepage": "http://fian.my.id/marka/",
             "id": 22310064,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2015-10-25T02:57:48Z",
+            "open_issues": 5,
             "owner": "fians",
             "repo": "marka",
-            "stars": 1514
+            "stars": 1514,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -1108,12 +1725,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":speech_balloon: ReactJS based comic strip creator using fabric.js canvas rendering",
+            "homepage": "http://sonny.js.org/react-komik/",
             "id": 46861975,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-10-28T04:29:57Z",
+            "open_issues": 0,
             "owner": "sonnylazuardi",
             "repo": "react-komik",
-            "stars": 374
+            "stars": 374,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         }
@@ -1130,12 +1752,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Multiplayer word chaining game using angular.js and firebase",
+            "homepage": "http://wordchain.sonnylab.com",
             "id": 19421439,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-11-28T01:38:33Z",
+            "open_issues": 0,
             "owner": "sonnylazuardi",
             "repo": "wordchain",
-            "stars": 80
+            "stars": 80,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -1146,12 +1773,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Voucher Game Online berbasis Mobile App dengan React-Native. DEMO https://youtu.be/ANmcLgEo8Xo",
+            "homepage": null,
             "id": 148631854,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-12-10T21:42:19Z",
+            "open_issues": 15,
             "owner": "DeVoresyah",
             "repo": "ZStore",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "mobile-app",
+              "online-shop",
+              "react-native"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -1162,12 +1798,27 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Discord music bot made with discord.js",
+            "homepage": null,
             "id": 407819681,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-12-31T17:36:07Z",
+            "open_issues": 0,
             "owner": "mbayue",
             "repo": "keking-bot",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "discord",
+              "discord-bot",
+              "discord-js",
+              "distube",
+              "distubejs",
+              "hacktoberfest",
+              "hacktoberfest2022",
+              "hacktoberfest2023",
+              "music-bot"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -1178,12 +1829,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Game desktop like Tic Tac Toe with java language programming.",
+            "homepage": null,
             "id": 27967715,
             "language": "Java",
+            "license": null,
             "last_commit": "2014-12-15T07:53:46Z",
+            "open_issues": 1,
             "owner": "mgilangjanuar",
             "repo": "KatanyaGomoku",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -1194,12 +1850,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ini proyek belajar",
+            "homepage": null,
             "id": 260981501,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-03-05T10:14:34Z",
+            "open_issues": 5,
             "owner": "Slamedia",
             "repo": "whatsapp-bot",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         }
@@ -1216,12 +1877,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple bookmark manager built with Go",
+            "homepage": null,
             "id": 118617559,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-07-10T06:36:40Z",
+            "open_issues": 115,
             "owner": "go-shiori",
             "repo": "shiori",
-            "stars": 11619
+            "stars": 11619,
+            "topics": [
+              "bookmark-manager",
+              "command-line",
+              "go",
+              "golang",
+              "hacktoberfest",
+              "web-interface"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -1232,12 +1905,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "API blueprint toolkit",
+            "homepage": null,
             "id": 68568514,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-01-15T07:49:46Z",
+            "open_issues": 64,
             "owner": "bukalapak",
             "repo": "snowboard",
-            "stars": 772
+            "stars": 772,
+            "topics": [
+              "api-blueprint",
+              "app"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -1248,12 +1929,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "⚙️ Golang functional utility library with syntactic sugar. It's like lodash, but for Go",
+            "homepage": "https://pkg.go.dev/github.com/novalagung/gubrak/v2",
             "id": 124531976,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-05-02T11:30:59Z",
+            "open_issues": 0,
             "owner": "novalagung",
             "repo": "gubrak",
-            "stars": 513
+            "stars": 513,
+            "topics": [
+              "functional-programming",
+              "go",
+              "golang",
+              "utility-library"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -1264,12 +1955,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Payment Connector for Midtrans and Xendit. Sample site that is using this payment proxy is https://imrenagi.com/donate",
+            "homepage": null,
             "id": 266835235,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2023-07-18T11:14:50Z",
+            "open_issues": 15,
             "owner": "imrenagi",
             "repo": "go-payment",
-            "stars": 404
+            "stars": 404,
+            "topics": [
+              "alfamart",
+              "bank",
+              "credit-card",
+              "dana",
+              "gopay",
+              "linkaja",
+              "midtrans",
+              "ovo",
+              "payment",
+              "payment-gateway",
+              "payment-module",
+              "virtual-account",
+              "xendit"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -1280,12 +1990,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Developer-Friendly Automation Orchestrator",
+            "homepage": null,
             "id": 125713393,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2024-02-09T07:49:58Z",
+            "open_issues": 22,
             "owner": "gojek",
             "repo": "proctor",
-            "stars": 127
+            "stars": 127,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -1296,12 +2011,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Go library that pluralizes and singularizes English nouns.",
+            "homepage": null,
             "id": 12501466,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2020-11-18T09:16:23Z",
+            "open_issues": 9,
             "owner": "gedex",
             "repo": "inflector",
-            "stars": 81
+            "stars": 81,
+            "topics": [
+              "go",
+              "inflector",
+              "pluralization",
+              "singularizes-english-nouns"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -1312,12 +2037,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 375881191,
             "language": "Go",
+            "license": null,
             "last_commit": "2021-12-04T05:27:40Z",
+            "open_issues": 0,
             "owner": "imrenagi",
             "repo": "design-pattern",
-            "stars": 51
+            "stars": 51,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -1328,12 +2058,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "🐈 💻  Simple File Share Service where the file is completely deleted after download.",
+            "homepage": null,
             "id": 257495178,
             "language": "CSS",
+            "license": "BSD-3-Clause",
             "last_commit": "2023-05-11T12:19:45Z",
+            "open_issues": 4,
             "owner": "codenoid",
             "repo": "file.io",
-            "stars": 50
+            "stars": 50,
+            "topics": [
+              "file-serving",
+              "file-sharing",
+              "in-memory",
+              "key-value"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -1344,12 +2084,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hashing algorithms simplified (supports Argon2, Bcrypt, Scrypt, and PBKDF2)",
+            "homepage": null,
             "id": 370675071,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2024-06-27T11:15:43Z",
+            "open_issues": 0,
             "owner": "aldy505",
             "repo": "phc-crypto",
-            "stars": 26
+            "stars": 26,
+            "topics": [
+              "argon2",
+              "bcrypt",
+              "crypto",
+              "cryptography",
+              "go",
+              "golang",
+              "hash",
+              "pbkdf2",
+              "phc",
+              "scrypt"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -1360,12 +2116,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Easiest dynamic http route handler for golang",
+            "homepage": "http://novalagung.com/godong/",
             "id": 38810374,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2016-11-25T02:12:25Z",
+            "open_issues": 0,
             "owner": "novalagung",
             "repo": "godong",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -1376,12 +2137,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Excel to json so easily, read from local source or remote source",
+            "homepage": null,
             "id": 301166851,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2021-08-31T03:56:09Z",
+            "open_issues": 0,
             "owner": "FerdinaKusumah",
             "repo": "excel2json",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "csv2json",
+              "csvtojson",
+              "excel2json",
+              "excelreader",
+              "excelto"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -1392,12 +2164,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1295447882,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T18:39:16Z",
+            "open_issues": 7,
             "owner": "NAEOS-foundation",
             "repo": "naeos",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -1408,12 +2185,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "API to get Sundanese Undak Usuk Basa",
+            "homepage": "https://hibersunda.vercel.app",
             "id": 535075813,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-06-21T21:24:13Z",
+            "open_issues": 0,
             "owner": "hiberin",
             "repo": "hibersunda",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -1424,12 +2206,29 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Status: Work in Progress - A beautiful open source website that created with Go. It contains many Go working samples code that useful for web and non-web application. It mainly demonstrate what Go can achieve. You can contribute!",
+            "homepage": null,
             "id": 155538658,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2019-12-04T15:21:38Z",
+            "open_issues": 1,
             "owner": "sonyarianto",
             "repo": "imaginative-go",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "code-samples",
+              "docker",
+              "docker-compose",
+              "dockerfile",
+              "easy-to-use",
+              "go",
+              "go-by-example",
+              "golang",
+              "learning-by-doing",
+              "learning-golang",
+              "web-app"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -1440,12 +2239,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Golang Centralized Configuration management (LIBRARY)",
+            "homepage": null,
             "id": 217096545,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2019-12-10T09:50:39Z",
+            "open_issues": 1,
             "owner": "codenoid",
             "repo": "GoTral",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "centralized-configuration",
+              "configuration-management",
+              "golang-library",
+              "hacktoberfest",
+              "hacktoberfest2019"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -1456,12 +2266,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Unzip all zip files",
+            "homepage": null,
             "id": 32148172,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2016-10-31T09:03:24Z",
+            "open_issues": 0,
             "owner": "gedex",
             "repo": "unzipall",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -1472,12 +2287,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a simple tool based on go to migrate git repository, currently teleport only support migration from gitlab to bitbucket",
+            "homepage": null,
             "id": 242188676,
             "language": "Go",
+            "license": null,
             "last_commit": "2023-01-19T19:01:24Z",
+            "open_issues": 3,
             "owner": "muhammadmuhlas",
             "repo": "teleport",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "bitbucket",
+              "gitlab",
+              "go",
+              "golang",
+              "migrate",
+              "migration",
+              "teleport",
+              "tools"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         }
@@ -1494,12 +2323,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "mini ebook - belajar bahasa pemrograman Rust",
+            "homepage": "https://belajar-rust.vercel.app/",
             "id": 273511871,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2020-08-31T07:27:14Z",
+            "open_issues": 1,
             "owner": "evilfactorylabs",
             "repo": "belajar-rust",
-            "stars": 28
+            "stars": 28,
+            "topics": [
+              "ebook",
+              "rust",
+              "rust-lang"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -1510,12 +2348,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "E2E Solution for Distributed Cold-Data Storage",
+            "homepage": null,
             "id": 219421367,
             "language": "Rust",
+            "license": null,
             "last_commit": "2020-03-19T13:21:18Z",
+            "open_issues": 0,
             "owner": "codenoid",
             "repo": "Fido",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "distributed-storage",
+              "distributed-systems"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         }
@@ -1532,12 +2378,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Scriptable Headless Browser",
+            "homepage": "http://phantomjs.org",
             "id": 1200050,
             "language": "C++",
+            "license": "BSD-3-Clause",
             "last_commit": "2022-11-26T19:43:12Z",
+            "open_issues": 14,
             "owner": "ariya",
             "repo": "phantomjs",
-            "stars": 29446
+            "stars": 29446,
+            "topics": [
+              "automation",
+              "headless",
+              "headless-browser",
+              "phantomjs"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -1548,12 +2404,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A commenting system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:",
+            "homepage": "https://giscus.app",
             "id": 351958053,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-05-26T22:20:10Z",
+            "open_issues": 127,
             "owner": "giscus",
             "repo": "giscus",
-            "stars": 12064
+            "stars": 12063,
+            "topics": [
+              "blog",
+              "comment-system",
+              "comments",
+              "comments-widget",
+              "giscus",
+              "github",
+              "github-discussions",
+              "hacktoberfest",
+              "javascript",
+              "nextjs",
+              "react",
+              "reactjs",
+              "utterances",
+              "widget"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -1564,12 +2440,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "UAParser.js - The Essential Web Development Tool for User-Agent Detection. Detect Browsers, OS, Devices, Bots, Apps, AI Crawlers, and more. Run in Browser (client-side) or Node.js (server-side).",
+            "homepage": "https://uaparser.dev/",
             "id": 3320710,
             "language": "JavaScript",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-24T15:56:44Z",
+            "open_issues": 15,
             "owner": "faisalman",
             "repo": "ua-parser-js",
-            "stars": 10186
+            "stars": 10186,
+            "topics": [
+              "analytics",
+              "bot-detection",
+              "browser-detection",
+              "client-hints",
+              "device-detection",
+              "mobile-detection",
+              "user-agent",
+              "user-agent-parser"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -1580,12 +2470,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ECMAScript parsing infrastructure for multipurpose analysis",
+            "homepage": "http://esprima.org",
             "id": 2833537,
             "language": "TypeScript",
+            "license": "BSD-2-Clause",
             "last_commit": "2023-04-16T01:17:08Z",
+            "open_issues": 151,
             "owner": "jquery",
             "repo": "esprima",
-            "stars": 7140
+            "stars": 7140,
+            "topics": [
+              "ast",
+              "ecmascript",
+              "esprima",
+              "javascript",
+              "parser",
+              "parsing"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -1596,12 +2498,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Kinetic Scrolling with JavaScript",
+            "homepage": "http://ariya.github.io/kinetic/",
             "id": 11943662,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2019-05-30T12:23:01Z",
+            "open_issues": 0,
             "owner": "ariya",
             "repo": "kinetic",
-            "stars": 810
+            "stars": 810,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -1612,12 +2519,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "jQuery / Zepto plugin to emulate Matt D. Smith's floating placeholder text",
+            "homepage": "http://blog.mahardi.me/2013/10/14/jvfloatjs---the-experiment-with-form-accessbility-and-ux-in-html5/",
             "id": 13506336,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2015-07-23T10:16:41Z",
+            "open_issues": 8,
             "owner": "maman",
             "repo": "JVFloat.js",
-            "stars": 656
+            "stars": 656,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -1628,12 +2540,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generating color name captured from real-world",
+            "homepage": "https://colorgpt.vercel.app/",
             "id": 268032431,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2023-11-01T08:10:58Z",
+            "open_issues": 6,
             "owner": "sonnylazuardi",
             "repo": "colorGPT",
-            "stars": 576
+            "stars": 576,
+            "topics": [
+              "color",
+              "copy",
+              "paste",
+              "plugins"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -1644,12 +2566,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🌏 Create React App companion for universal app. No eject, zero config, Streaming SSR with Suspense. React 18 ready",
+            "homepage": "https://codesandbox.io/s/cra-universal-demo-9wnwb7",
             "id": 100356302,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-09-26T10:15:52Z",
+            "open_issues": 12,
             "owner": "antonybudianto",
             "repo": "cra-universal",
-            "stars": 422
+            "stars": 422,
+            "topics": [
+              "cli",
+              "create-react-app",
+              "react",
+              "server-side-rendering",
+              "ssr",
+              "universal",
+              "zero-config"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -1660,12 +2595,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a Realtime Javascript Boilerplate base on Meteor Js Framework ",
+            "homepage": null,
             "id": 23915279,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2015-10-26T11:53:16Z",
+            "open_issues": 31,
             "owner": "radiegtya",
             "repo": "meteoris2",
-            "stars": 241
+            "stars": 241,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -1676,12 +2616,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Calx.js - headless spreadsheet calculation engine (previously jQuery Calx)",
+            "homepage": "http://www.xsanisty.com/project/calx2",
             "id": 6827693,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-08-05T05:55:59Z",
+            "open_issues": 35,
             "owner": "xsanisty",
             "repo": "calx.js",
-            "stars": 199
+            "stars": 199,
+            "topics": [
+              "calculation-form",
+              "excel",
+              "formula",
+              "html",
+              "javascript",
+              "jquery",
+              "jquery-plugin",
+              "spreadsheet"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -1692,12 +2646,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Audio visualizer for YouTube, YT Music, Spotify, and SoundCloud with musical notes.",
+            "homepage": null,
             "id": 177758255,
             "language": "JavaScript",
+            "license": "LGPL-3.0",
             "last_commit": "2026-07-09T14:08:56Z",
+            "open_issues": 11,
             "owner": "mfcc64",
             "repo": "youtube-musical-spectrum",
-            "stars": 197
+            "stars": 197,
+            "topics": [
+              "audio-visualizer",
+              "browser-extension",
+              "chrome-extension",
+              "constant-q-transform",
+              "firefox-addon",
+              "firefox-extension",
+              "musical-notes",
+              "spectrogram",
+              "waterfall",
+              "web-audio",
+              "webassembly"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -1708,12 +2679,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Aksara Design System, from Kata.ai.",
+            "homepage": "https://aksara.kata.ai/",
             "id": 133833318,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2023-03-06T15:47:12Z",
+            "open_issues": 28,
             "owner": "kata-ai",
             "repo": "aksara-ui",
-            "stars": 194
+            "stars": 194,
+            "topics": [
+              "aksara-ui",
+              "component-library",
+              "design-system",
+              "react",
+              "typescript",
+              "ui-kit"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -1724,12 +2707,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SimpleExcel.js - WIP client-side script to parse / convert / write XML / CSV / TSV / HTML / JSON / etc formats.",
+            "homepage": "http://faisalman.github.io/simple-excel-js/",
             "id": 8705965,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-11-25T11:53:10Z",
+            "open_issues": 14,
             "owner": "faisalman",
             "repo": "simple-excel-js",
-            "stars": 186
+            "stars": 186,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -1740,12 +2728,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🏄 Framework-agnostic CSRF middleware for modern Node.js",
+            "homepage": "https://tinyhttp.v1rtl.site/mw/malibu",
             "id": 377820797,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-06-08T20:50:34Z",
+            "open_issues": 1,
             "owner": "tinyhttp",
             "repo": "malibu",
-            "stars": 164
+            "stars": 164,
+            "topics": [
+              "csrf",
+              "esm",
+              "http",
+              "middleware",
+              "nodejs",
+              "security",
+              "session",
+              "tinyhttp"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -1756,12 +2758,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple Progressive Web App Built with React Js. https://bosnaufal.github.io/react-simple-pwa",
+            "homepage": null,
             "id": 68382830,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-10-28T18:04:09Z",
+            "open_issues": 1,
             "owner": "BosNaufal",
             "repo": "react-simple-pwa",
-            "stars": 112
+            "stars": 112,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -1772,12 +2779,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Product Hunt Command Line Interface",
+            "homepage": "https://www.producthunt.com/posts/phunt",
             "id": 49832671,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-11-15T16:45:40Z",
+            "open_issues": 0,
             "owner": "Kristories",
             "repo": "phunt",
-            "stars": 108
+            "stars": 108,
+            "topics": [
+              "command-line",
+              "javascript",
+              "producthunt"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -1788,12 +2804,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "HTML5 media streamer library for playing music, video, playlist, or even live streaming microphone & camera with node server",
+            "homepage": null,
             "id": 159006610,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-09-01T15:04:36Z",
+            "open_issues": 10,
             "owner": "ScarletsFiction",
             "repo": "SFMediaStream",
-            "stars": 103
+            "stars": 103,
+            "topics": [
+              "audio",
+              "camera",
+              "html5",
+              "library",
+              "live",
+              "microphone",
+              "music",
+              "nodejs",
+              "player",
+              "playlist",
+              "stream",
+              "video"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -1804,12 +2838,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Unified REST + GraphQL API for nhentai and other doujinshi",
+            "homepage": "https://sinkaroid.github.io/jandapress",
             "id": 499356658,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-21T20:24:08Z",
+            "open_issues": 6,
             "owner": "sinkaroid",
             "repo": "jandapress",
-            "stars": 73
+            "stars": 73,
+            "topics": [
+              "3hentai",
+              "asmhentai",
+              "hentai2read",
+              "hentaifox",
+              "nhentai",
+              "pururin",
+              "simply-hentai"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -1820,12 +2867,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Subreddit API but proxied and NSFW only..",
+            "homepage": "https://sinkaroid.github.io/cabul",
             "id": 351224015,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2022-06-30T23:53:45Z",
+            "open_issues": 0,
             "owner": "sinkaroid",
             "repo": "cabul",
-            "stars": 60
+            "stars": 60,
+            "topics": [
+              "nsfw",
+              "reddit",
+              "reddit-api"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -1836,12 +2892,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome Social Media Share Button With Share Count",
+            "homepage": null,
             "id": 23591229,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-05-19T22:18:03Z",
+            "open_issues": 6,
             "owner": "bachors",
             "repo": "jQuery-Awesome-Sosmed-Share-Button",
-            "stars": 59
+            "stars": 59,
+            "topics": [
+              "button",
+              "css",
+              "html",
+              "ibacor",
+              "jquery-plugin",
+              "share",
+              "share-counts",
+              "social-buttons",
+              "social-network"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -1852,12 +2923,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🎬 Your daily dose of movie updates",
+            "homepage": "https://movion.hiwijaya.dev",
             "id": 230770071,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-02-13T19:04:56Z",
+            "open_issues": 11,
             "owner": "hiwijaya",
             "repo": "movion",
-            "stars": 58
+            "stars": 58,
+            "topics": [
+              "reactjs",
+              "tmdb"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -1868,12 +2947,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Convert/transliterate Latin script into Javanese script, also known as Aksara Jawa or Carakan.",
+            "homepage": "https://carakan.js.org/",
             "id": 292542867,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-09-16T05:11:48Z",
+            "open_issues": 0,
             "owner": "masnormen",
             "repo": "carakanjs",
-            "stars": 42
+            "stars": 42,
+            "topics": [
+              "aksara",
+              "aksara-jawa",
+              "carakan",
+              "hacktoberfest",
+              "javanese",
+              "javascript",
+              "jawa",
+              "transliteration"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -1884,12 +2977,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📍 Modul Node.js yang mengandung data kode wilayah desa/kelurahan, kecamatan, kabupaten/kota, provinsi, kode pos, koordinat, elevasi, dan geometri area seluruh Indonesia. ",
+            "homepage": null,
             "id": 547260182,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-11-26T16:55:18Z",
+            "open_issues": 1,
             "owner": "drizki",
             "repo": "geografis",
-            "stars": 35
+            "stars": 35,
+            "topics": [
+              "geojson-data",
+              "indonesia-area",
+              "indonesia-data-set",
+              "json",
+              "kode-pos",
+              "kode-wilayah",
+              "kode-wilayah-indonesia",
+              "kodepos",
+              "postalcode",
+              "wilayah-indonesia",
+              "zipcode"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -1900,12 +3010,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lightweight utilities that can make easier to access application storage in client browser.",
+            "homepage": "https://sutanlab.js.org/simple-webstorage",
             "id": 175548376,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-08-28T09:43:38Z",
+            "open_issues": 10,
             "owner": "gadingnst",
             "repo": "simple-webstorage",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "javascript",
+              "javascript-library",
+              "javascript-utility",
+              "local-storage",
+              "npm-package",
+              "session-cookie",
+              "web-storage"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -1916,12 +3039,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple JSON value normalization to make everything goes right.",
+            "homepage": "https://medium.com/@adityakresna/podengjs-for-a-simple-json-value-normalization-with-nodejs-8150aa35f963",
             "id": 130351775,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-03-10T00:07:53Z",
+            "open_issues": 11,
             "owner": "slaveofcode",
             "repo": "podeng",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "javascript-library",
+              "json",
+              "nodejs",
+              "normalization",
+              "validation"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -1932,12 +3066,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Client-side cross-tab communication with same domain",
+            "homepage": null,
             "id": 142738501,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2020-01-29T18:36:47Z",
+            "open_issues": 0,
             "owner": "ScarletsFiction",
             "repo": "SFIntercom",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "broadcast",
+              "browser",
+              "cross-tab-communication",
+              "javascript",
+              "js"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -1948,12 +3093,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Nodejs with Multi Thread",
+            "homepage": null,
             "id": 109224809,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-03-14T10:46:47Z",
+            "open_issues": 0,
             "owner": "lukluk",
             "repo": "iyem",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -1964,12 +3114,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Indonesian territory data in JavaScript",
+            "homepage": "https://cdn.jsdelivr.net/gh/codenoid/Data-Wilayah.js/wilayah.js",
             "id": 218033438,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-12-30T06:05:14Z",
+            "open_issues": 0,
             "owner": "codenoid",
             "repo": "Data-Wilayah.js",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "indonesia",
+              "javascript",
+              "wilayah-indonesia"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -1980,12 +3139,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Bookmark manager that keep you simple with beautiful UI",
+            "homepage": "https://bukumark.js.org",
             "id": 738505961,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2024-09-08T10:40:12Z",
+            "open_issues": 0,
             "owner": "w3teal",
             "repo": "Bukumark",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "beautiful",
+              "bookmarks",
+              "bookmarks-export",
+              "bookmarks-manager",
+              "bukumark",
+              "hacktoberfest2024"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -1996,12 +3167,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A searchable Jakarta’s public transportation routes",
+            "homepage": "https://widatama.github.io/angkot",
             "id": 76784757,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-17T14:20:18Z",
+            "open_issues": 0,
             "owner": "widatama",
             "repo": "angkot",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "jakarta",
+              "react",
+              "transportation-routes"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -2012,12 +3192,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A growth increments for your Discord bots",
+            "homepage": "https://disgrow.js.org",
             "id": 508484115,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-01-17T17:17:58Z",
+            "open_issues": 0,
             "owner": "sinkaroid",
             "repo": "disgrow",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -2028,12 +3213,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An easy to use SQL or IndexedDB library for Browser and Nodejs",
+            "homepage": null,
             "id": 142844417,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-07-07T17:26:06Z",
+            "open_issues": 0,
             "owner": "ScarletsFiction",
             "repo": "SFDatabase-js",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "browser",
+              "database",
+              "indexeddb",
+              "mysqljs",
+              "nodejs",
+              "sql",
+              "websql"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -2044,12 +3242,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Serberries is a Nodejs live webserver that able to live refresh your script on the realtime",
+            "homepage": null,
             "id": 143511228,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2020-01-05T12:56:59Z",
+            "open_issues": 0,
             "owner": "ScarletsFiction",
             "repo": "Serberries",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "livereload",
+              "nodejs",
+              "realtime",
+              "server"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -2060,12 +3268,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Extends functionality of modern browser FileSystem's API (For Chrome & Cordova)",
+            "homepage": null,
             "id": 162084019,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-12-17T09:00:51Z",
+            "open_issues": 0,
             "owner": "ScarletsFiction",
             "repo": "SFFileSystem",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "cordova",
+              "file",
+              "html5",
+              "storage",
+              "website"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -2076,12 +3295,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open Source Show Data Museum In Indonesia via Command-CLI With API",
+            "homepage": "https://www.npmjs.com/package/museum-id",
             "id": 254597419,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2020-04-16T01:07:52Z",
+            "open_issues": 0,
             "owner": "maulana20",
             "repo": "museum-id",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -2092,12 +3316,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kolam talenta pekerja teknologi berkualitas di tanah air yang siap direkrut.",
+            "homepage": "https://carikerja.deeptech.id",
             "id": 264375165,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-10-11T10:18:45Z",
+            "open_issues": 12,
             "owner": "rizafahmi",
             "repo": "carikerja",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         }
@@ -2114,12 +3343,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AndKasir merupakan aplikasi open source yang dibangun dengan bahasa pemrograman Java untuk kebutuhan retail perusahaan menengah dalam mengatur aktifitas barang masuk dan keluar. konsultasi isu, instalasi dan penambahan fitur silahkan kirim email ke irwan@andriawan.com",
+            "homepage": null,
             "id": 92071617,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2026-01-16T15:24:01Z",
+            "open_issues": 2,
             "owner": "andriawan",
             "repo": "AndKasir",
-            "stars": 46
+            "stars": 46,
+            "topics": [
+              "java",
+              "kasir",
+              "point-of-sale"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         }
@@ -2136,12 +3374,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":star: Gulp Angular Starter using TypeScript (Updated to 4.4.3)",
+            "homepage": "https://antonybudianto.github.io/angular-starter/",
             "id": 47677112,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-09-25T14:18:51Z",
+            "open_issues": 1,
             "owner": "antonybudianto",
             "repo": "angular-starter",
-            "stars": 513
+            "stars": 513,
+            "topics": [
+              "angular",
+              "gulp",
+              "starter"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -2152,12 +3399,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":star2: Angular Webpack Starter with AoT compilation, Lazy-loading, Tree-shaking, and Hot Module Reload (Updated to 4.1.0!)",
+            "homepage": "http://angular-webpack-starter.surge.sh/",
             "id": 68525238,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-07-12T09:44:49Z",
+            "open_issues": 3,
             "owner": "antonybudianto",
             "repo": "angular-webpack-starter",
-            "stars": 88
+            "stars": 88,
+            "topics": [
+              "angular",
+              "starter",
+              "starter-kit",
+              "typescript",
+              "webpack"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -2168,12 +3426,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This package makes it easy for typescript users for access the parse database via httpclient",
+            "homepage": null,
             "id": 179978399,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2019-04-09T06:24:09Z",
+            "open_issues": 0,
             "owner": "aacassandra",
             "repo": "aac-parsetypescript",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         }
@@ -2190,12 +3453,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mini Online Shop Built With Vue JS",
+            "homepage": "https://bosnaufal.github.io/vue-mini-shop",
             "id": 54734381,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2016-05-04T00:25:55Z",
+            "open_issues": 2,
             "owner": "BosNaufal",
             "repo": "vue-mini-shop",
-            "stars": 265
+            "stars": 265,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -2206,12 +3474,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simplest Youtube Like Loading Bar Component For Vue 2. http://bosnaufal.github.io/vue2-loading-bar/ ",
+            "homepage": null,
             "id": 71417301,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-01-12T14:05:03Z",
+            "open_issues": 4,
             "owner": "BosNaufal",
             "repo": "vue2-loading-bar",
-            "stars": 264
+            "stars": 264,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -2222,12 +3495,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "⚠️ Vue 2 Simple Alert Component (SweetAlert Inspired)",
+            "homepage": "https://vue2-simplert.gitbook.io/docs/",
             "id": 81601276,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-06-21T19:53:40Z",
+            "open_issues": 14,
             "owner": "mazipan",
             "repo": "vue2-simplert",
-            "stars": 213
+            "stars": 213,
+            "topics": [
+              "vue-alert",
+              "vue-popup",
+              "vue-sweatalert",
+              "vue2-alert",
+              "vue2-popup",
+              "vue2-simplert",
+              "vue2-sweatalert"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -2238,12 +3524,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Autocomplete Component for Vue.Js",
+            "homepage": null,
             "id": 49848391,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-09-07T00:29:01Z",
+            "open_issues": 4,
             "owner": "BosNaufal",
             "repo": "vue-autocomplete",
-            "stars": 203
+            "stars": 203,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -2254,12 +3545,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple Progressive Web App Built with Vue Js. https://bosnaufal.github.io/vue-simple-pwa",
+            "homepage": null,
             "id": 67319583,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2017-10-30T23:48:01Z",
+            "open_issues": 0,
             "owner": "BosNaufal",
             "repo": "vue-simple-pwa",
-            "stars": 194
+            "stars": 194,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -2270,12 +3566,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Youtube Like Loading Bar Component for Vue.js",
+            "homepage": null,
             "id": 50669938,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2016-10-21T19:13:51Z",
+            "open_issues": 0,
             "owner": "BosNaufal",
             "repo": "vue-loading-bar",
-            "stars": 136
+            "stars": 136,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -2286,12 +3587,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vuejs + SoundCloud demo app, for JogjaJS 4th meet up.",
+            "homepage": "https://mul14.github.io/vue-soundcloud",
             "id": 55181456,
             "language": "HTML",
+            "license": null,
             "last_commit": "2017-05-17T06:32:01Z",
+            "open_issues": 0,
             "owner": "mul14",
             "repo": "vue-soundcloud",
-            "stars": 74
+            "stars": 74,
+            "topics": [
+              "vue",
+              "vue-soundcloud",
+              "vuejs"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -2302,12 +3612,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "🐙🔍 VueJS 2 Github Explorer Using API v3",
+            "homepage": "https://mazipan.github.io/explore-github/",
             "id": 95075557,
             "language": "Vue",
+            "license": "MIT",
             "last_commit": "2020-06-13T02:03:48Z",
+            "open_issues": 2,
             "owner": "mazipan",
             "repo": "explore-github",
-            "stars": 58
+            "stars": 58,
+            "topics": [
+              "explore-github",
+              "github",
+              "github-api",
+              "github-explorer"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -2318,12 +3638,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "You want Trello clone? Say no more.",
+            "homepage": "https://kurnyaannn-vuello.netlify.app/",
             "id": 466483500,
             "language": "Vue",
+            "license": null,
             "last_commit": "2023-03-06T04:01:24Z",
+            "open_issues": 9,
             "owner": "kurnyaannn",
             "repo": "vuello",
-            "stars": 20
+            "stars": 20,
+            "topics": [
+              "tailwindcss",
+              "trello-clone",
+              "vite",
+              "vuejs"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -2334,12 +3664,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple Vue 2 Starter for single page application with Vuex and Vue Router ",
+            "homepage": null,
             "id": 69743703,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2016-10-25T19:57:40Z",
+            "open_issues": 0,
             "owner": "BosNaufal",
             "repo": "vue2-starter",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -2350,12 +3685,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Visualize your discord bots growth into chartable web-app & statistics with ease",
+            "homepage": "https://graph.scathachbot.xyz",
             "id": 508141483,
             "language": "Vue",
+            "license": "MIT",
             "last_commit": "2023-01-17T17:19:38Z",
+            "open_issues": 0,
             "owner": "sinkaroid",
             "repo": "disgrowth",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "chartjs",
+              "discord-bot",
+              "vue"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -2366,12 +3710,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Location based daily salat schedule",
+            "homepage": "https://widatama.github.io/salat-time",
             "id": 51691184,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-11T03:20:55Z",
+            "open_issues": 1,
             "owner": "widatama",
             "repo": "salat-time",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "geolocation",
+              "salat",
+              "vue"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -2382,12 +3735,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tic tac toe game implemented with vue js",
+            "homepage": "http://widatama.github.io/tic-tac-vue/",
             "id": 60942404,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-17T14:15:13Z",
+            "open_issues": 0,
             "owner": "widatama",
             "repo": "tic-tac-vue",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "game",
+              "tic-tac-toe",
+              "vue"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -2398,12 +3760,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A single player guess the number game",
+            "homepage": "https://widatama.github.io/guess-the-number/",
             "id": 115793316,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-18T06:38:45Z",
+            "open_issues": 0,
             "owner": "widatama",
             "repo": "guess-the-number",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "game",
+              "pwa",
+              "service-worker",
+              "vue"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         }
@@ -2420,12 +3792,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":beach_umbrella: Klisé is a minimalist Jekyll theme for running a personal site or blog, light & dark mode support. (https://klise.vercel.app)",
+            "homepage": "https://klise.vercel.app",
             "id": 173528743,
             "language": "SCSS",
+            "license": "MIT",
             "last_commit": "2024-08-05T09:59:27Z",
+            "open_issues": 23,
             "owner": "piharpi",
             "repo": "jekyll-klise",
-            "stars": 1064
+            "stars": 1064,
+            "topics": [
+              "blog",
+              "gh-pages",
+              "jekyll",
+              "jekyll-blog",
+              "jekyll-site",
+              "jekyll-theme",
+              "minimalist-jekyll-theme",
+              "netlify",
+              "now-sh",
+              "personal-site",
+              "ruby",
+              "starter",
+              "theme"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -2436,12 +3827,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":coffee: Free and open-source Jekyll theme",
+            "homepage": "https://agusmakmun.github.io",
             "id": 56501309,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2025-06-02T02:35:58Z",
+            "open_issues": 19,
             "owner": "agusmakmun",
             "repo": "agusmakmun.github.io",
-            "stars": 445
+            "stars": 445,
+            "topics": [
+              "github-pages",
+              "jekyll",
+              "jekyll-theme"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -2452,12 +3852,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Geek theme for Jekyll.",
+            "homepage": "https://mangan.pages.dev",
             "id": 38481022,
             "language": "SCSS",
+            "license": "MIT",
             "last_commit": "2024-01-07T02:21:06Z",
+            "open_issues": 0,
             "owner": "dikiaap",
             "repo": "mangan",
-            "stars": 49
+            "stars": 49,
+            "topics": [
+              "geek-theme",
+              "jekyll",
+              "jekyll-theme"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -2468,12 +3877,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Jekyll Blog Starter Kit.",
+            "homepage": "https://sutanlab.js.org/jekyll-starter-blog",
             "id": 170818320,
             "language": "HTML",
+            "license": null,
             "last_commit": "2026-06-24T19:52:52Z",
+            "open_issues": 12,
             "owner": "gadingnst",
             "repo": "jekyll-starter-blog",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "blog",
+              "jekyll",
+              "jekyll-blog",
+              "jekyll-theme",
+              "markdown",
+              "static-blog",
+              "static-site"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -2484,12 +3906,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":+1: Jekyll themes use Material Design Lite",
+            "homepage": "http://tigefa4u.github.io/jekmdl",
             "id": 48865277,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2017-02-02T06:20:37Z",
+            "open_issues": 0,
             "owner": "tigefa4u",
             "repo": "jekmdl",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         }
@@ -2506,12 +3933,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📖 Source Code Website/Ebook Dasar Pemrograman Golang",
+            "homepage": "https://dasarpemrogramangolang.novalagung.com/",
             "id": 44715517,
             "language": "Go",
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2026-06-12T10:55:27Z",
+            "open_issues": 50,
             "owner": "novalagung",
             "repo": "dasarpemrogramangolang",
-            "stars": 2629
+            "stars": 2629,
+            "topics": [
+              "book",
+              "ebook",
+              "go",
+              "golang",
+              "learning",
+              "source-code",
+              "tutorial"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -2522,12 +3962,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pedoman Umum Ejaan Bahasa Indonesia",
+            "homepage": "https://ivanlanin.github.io/puebi",
             "id": 62427213,
             "language": null,
+            "license": null,
             "last_commit": "2023-05-11T19:13:05Z",
+            "open_issues": 4,
             "owner": "ivanlanin",
             "repo": "puebi",
-            "stars": 192
+            "stars": 192,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -2538,12 +3983,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tutorial Git dalam Bahasa Indonesia",
+            "homepage": null,
             "id": 1219185,
             "language": null,
+            "license": null,
             "last_commit": "2023-10-02T04:22:01Z",
+            "open_issues": 18,
             "owner": "endymuhardin",
             "repo": "belajarGit",
-            "stars": 179
+            "stars": 179,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -2554,12 +4004,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🇮🇩 Dokumentasi resmi Vue.js dalam Bahasa Indonesia, diterjemahkan oleh komunitas Vue.js Indonesia",
+            "homepage": "https://docs.vuejs.id/",
             "id": 121602448,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-07-02T02:13:09Z",
+            "open_issues": 6,
             "owner": "vuejs-id",
             "repo": "docs",
-            "stars": 148
+            "stars": 148,
+            "topics": [
+              "hacktoberfest",
+              "hacktoberfest2020",
+              "vue",
+              "vuejs"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -2570,12 +4030,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Repositori untuk belajar pemrograman Dart dalam bahasa Indonesia",
+            "homepage": null,
             "id": 404983969,
             "language": "Dart",
+            "license": "MIT",
             "last_commit": "2022-10-03T11:20:39Z",
+            "open_issues": 11,
             "owner": "bellshade",
             "repo": "Dart",
-            "stars": 60
+            "stars": 60,
+            "topics": [
+              "dart",
+              "flutter",
+              "hacktoberfest",
+              "indonesia"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -2586,12 +4056,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Introduction to ruby in Bahasa Indonesia",
+            "homepage": null,
             "id": 3864940,
             "language": null,
+            "license": null,
             "last_commit": "2017-10-03T13:32:20Z",
+            "open_issues": 2,
             "owner": "xinuc",
             "repo": "ruby_basic",
-            "stars": 34
+            "stars": 34,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -2602,12 +4077,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kumpulan materi, soal, dan solusi Lab dan Tugas Pemrograman mata kuliah Dasar-Dasar Pemrograman 1 (DDP 1) dari Tarung (Fasilkom UI 2017) untuk publik.",
+            "homepage": null,
             "id": 105432114,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2019-10-18T08:22:37Z",
+            "open_issues": 3,
             "owner": "laymonage",
             "repo": "TarungLabDDP1",
-            "stars": 27
+            "stars": 27,
+            "topics": [
+              "indonesian",
+              "learning",
+              "problem-set",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -2618,12 +4103,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "python 101, python beginner workshop material",
+            "homepage": null,
             "id": 9477556,
             "language": null,
+            "license": null,
             "last_commit": "2019-06-10T08:21:11Z",
+            "open_issues": 0,
             "owner": "sakti",
             "repo": "python101",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         }
@@ -2640,12 +4130,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Manokwari desktop shell for GNOME 3",
+            "homepage": "http://manokwari.blankonlinux.or.id/",
             "id": 4345910,
             "language": "Vala",
+            "license": "GPL-2.0",
             "last_commit": "2018-09-01T23:27:33Z",
+            "open_issues": 24,
             "owner": "BlankOn",
             "repo": "manokwari",
-            "stars": 122
+            "stars": 122,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -2656,12 +4151,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "KBBI Offline Remake with Qt",
+            "homepage": null,
             "id": 71753898,
             "language": "HTML",
+            "license": "GPL-3.0",
             "last_commit": "2019-05-23T06:00:07Z",
+            "open_issues": 1,
             "owner": "bgli",
             "repo": "kbbi-qt",
-            "stars": 71
+            "stars": 71,
+            "topics": [
+              "hacktoberfest",
+              "qt",
+              "qt5"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -2672,12 +4176,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A command line app to check cgv blitz movie seats",
+            "homepage": null,
             "id": 57937107,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-10-03T14:11:01Z",
+            "open_issues": 2,
             "owner": "sonnylazuardi",
             "repo": "blitz-cli",
-            "stars": 61
+            "stars": 61,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -2688,12 +4197,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Quite dark Plank theme.",
+            "homepage": "https://git.io/frost",
             "id": 42368447,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2023-03-15T03:57:08Z",
+            "open_issues": 0,
             "owner": "dikiaap",
             "repo": "frost-plank-theme",
-            "stars": 47
+            "stars": 47,
+            "topics": [
+              "dark-theme",
+              "plank",
+              "plank-theme",
+              "theme"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -2704,12 +4223,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Aplikasi ini adalah aplikasi kamus berbasis CLI dikembangkan dengan C++",
+            "homepage": null,
             "id": 115871117,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2020-07-13T10:49:02Z",
+            "open_issues": 0,
             "owner": "andriawan",
             "repo": "AndKamus",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "c-plus-plus",
+              "cli",
+              "cpp",
+              "dictionary",
+              "kamus"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         }
@@ -2726,12 +4256,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "playSMS is a web interface for SMS gateways and bulk SMS services",
+            "homepage": "https://www.playsms.org",
             "id": 971832,
             "language": "PHP",
+            "license": "GPL-3.0",
             "last_commit": "2026-07-08T06:32:36Z",
+            "open_issues": 79,
             "owner": "playsms",
             "repo": "playsms",
-            "stars": 881
+            "stars": 881,
+            "topics": [
+              "communication",
+              "jasmin",
+              "kannel",
+              "mobile-phones",
+              "php",
+              "playsms",
+              "sms",
+              "sms-bulk",
+              "sms-gateway",
+              "sms-gateways"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -2742,12 +4288,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simplexcel.php - Easily read / parse / convert / write between Microsoft Excel XML / CSV / TSV / HTML / JSON / etc spreadsheet tabular file formats",
+            "homepage": "http://faisalman.github.io/simple-excel-php",
             "id": 1474816,
             "language": "PHP",
+            "license": null,
             "last_commit": "2021-10-27T07:32:18Z",
+            "open_issues": 14,
             "owner": "faisalman",
             "repo": "simple-excel-php",
-            "stars": 556
+            "stars": 556,
+            "topics": [
+              "csv-converter",
+              "excel-converter",
+              "excel-reader",
+              "excel-writer",
+              "html-converter",
+              "json-converter",
+              "xlsx-converter",
+              "xlsx-reader"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -2758,12 +4318,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MikroTik Hotspot Monitor V3 [MikroTik API PHP]",
+            "homepage": "https://laksa19.github.io",
             "id": 145409458,
             "language": "PHP",
+            "license": "GPL-2.0",
             "last_commit": "2024-01-17T09:59:47Z",
+            "open_issues": 33,
             "owner": "laksa19",
             "repo": "mikhmonv3",
-            "stars": 471
+            "stars": 471,
+            "topics": [
+              "hotspot",
+              "hotspot-user-management",
+              "mikrotik",
+              "mikrotik-api",
+              "mikrotik-hotspot",
+              "mikrotik-routeros-api"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -2774,12 +4346,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Un-Official OVO API Wrapper",
+            "homepage": null,
             "id": 161379866,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-08-02T19:02:03Z",
+            "open_issues": 11,
             "owner": "lintangtimur",
             "repo": "ovoid",
-            "stars": 165
+            "stars": 165,
+            "topics": [
+              "api",
+              "indonesia",
+              "ovoid",
+              "payment-gateway",
+              "wrapper"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -2790,12 +4373,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generate user avatar using name initials letter.",
+            "homepage": null,
             "id": 49253471,
             "language": "PHP",
+            "license": null,
             "last_commit": "2024-01-28T03:27:25Z",
+            "open_issues": 4,
             "owner": "yohangdev",
             "repo": "letter-avatar",
-            "stars": 126
+            "stars": 126,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -2806,12 +4394,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Let's start by simple design templates' framework together with the famous bootstrap sexy , and makes it easy to work on PHP language , which is well known as a powerful elephant",
+            "homepage": "https://github.com/Harazaki/PHP-BOOTSTRAP",
             "id": 28337006,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2018-04-18T16:51:13Z",
+            "open_issues": 0,
             "owner": "Harazaki",
             "repo": "PHP-BOOTSTRAP",
-            "stars": 101
+            "stars": 101,
+            "topics": [
+              "bootstrap",
+              "framework",
+              "php",
+              "php-bootstrap",
+              "php-framework"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -2822,12 +4421,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SLiMS 8 Akasia official source code repository",
+            "homepage": null,
             "id": 51739378,
             "language": "PHP",
+            "license": "GPL-3.0",
             "last_commit": "2022-07-05T11:57:32Z",
+            "open_issues": 72,
             "owner": "slims",
             "repo": "slims8_akasia",
-            "stars": 89
+            "stars": 89,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -2838,12 +4442,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Convert numbers into words in Indonesian language",
+            "homepage": "https://packagist.org/packages/nasution/terbilang",
             "id": 26421625,
             "language": "PHP",
+            "license": "WTFPL",
             "last_commit": "2022-03-25T11:45:10Z",
+            "open_issues": 1,
             "owner": "mul14",
             "repo": "terbilang-php",
-            "stars": 65
+            "stars": 65,
+            "topics": [
+              "convert-numbers",
+              "indonesian-language",
+              "php",
+              "terbilang"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -2854,12 +4468,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "PHP Indonesia - Membership Application - Reloaded",
+            "homepage": "http://membership.phpindonesia.or.id/",
             "id": 45049731,
             "language": "PHP",
+            "license": null,
             "last_commit": "2023-07-10T14:57:25Z",
+            "open_issues": 6,
             "owner": "phpindonesia",
             "repo": "phpindonesia.or.id-membership2",
-            "stars": 35
+            "stars": 35,
+            "topics": [
+              "application",
+              "membership-management",
+              "phpindonesia",
+              "project",
+              "slim-framework"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -2870,12 +4495,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple wrapper for cURL",
+            "homepage": null,
             "id": 84311864,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2021-11-11T22:30:13Z",
+            "open_issues": 3,
             "owner": "andhikayuana",
             "repo": "curl-lib",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "composer",
+              "curl",
+              "curl-library",
+              "curlphp",
+              "php-library",
+              "php-package",
+              "wrapper"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -2886,12 +4524,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pub/Sub Redis for php",
+            "homepage": null,
             "id": 273145358,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2020-06-19T08:25:56Z",
+            "open_issues": 0,
             "owner": "RioRizkyRainey",
             "repo": "pubsub-redis-php",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -2902,12 +4545,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Spellchecker in PHP with suggestion",
+            "homepage": null,
             "id": 167755903,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2019-02-22T06:52:20Z",
+            "open_issues": 0,
             "owner": "RioRizkyRainey",
             "repo": "PHP-Spellchecker",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -2918,12 +4566,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dir & Sensitive File Scanner (PHP Version)",
+            "homepage": null,
             "id": 248476400,
             "language": "PHP",
+            "license": null,
             "last_commit": "2020-03-19T11:09:26Z",
+            "open_issues": 0,
             "owner": "0xbillyyy",
             "repo": "ScanDir",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -2934,12 +4587,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "website that includes list, login and profile features",
+            "homepage": null,
             "id": 318369041,
             "language": "PHP",
+            "license": null,
             "last_commit": "2020-12-09T09:50:21Z",
+            "open_issues": 0,
             "owner": "fadelmvi",
             "repo": "telukmart",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -2950,12 +4608,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rusher CRUD ( PHP )",
+            "homepage": null,
             "id": 344449660,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2021-10-17T03:11:53Z",
+            "open_issues": 1,
             "owner": "ICWR-TEAM",
             "repo": "R-CRUD",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         }
@@ -2972,12 +4635,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A lighweight and easy-to-use ORM for CodeIgniter",
+            "homepage": "http://www.taufanaditya.com/gas-orm/",
             "id": 2627982,
             "language": "PHP",
+            "license": null,
             "last_commit": "2015-08-07T08:21:34Z",
+            "open_issues": 13,
             "owner": "toopay",
             "repo": "gas-orm",
-            "stars": 110
+            "stars": 110,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -2988,12 +4656,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple App Question Answer like Stackoverflow usng MySQL and PHP CodeIgniter",
+            "homepage": null,
             "id": 45791305,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2017-05-31T19:27:34Z",
+            "open_issues": 1,
             "owner": "SunDi3yansyah",
             "repo": "SunQA",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "codeigniter",
+              "mysql",
+              "php",
+              "qa",
+              "questions-and-answers",
+              "stackoverflow"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -3004,12 +4684,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " Pustaka ini berisi demo mengomentari / memposting secara realtime menggunakan CodeIgniter + Ratchet Websocket + Apache dengan Koneksi Aman.",
+            "homepage": null,
             "id": 147620730,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2018-09-21T06:55:04Z",
+            "open_issues": 0,
             "owner": "aacassandra",
             "repo": "CodeIgniter-Websocket-Apache-Secure",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         }
@@ -3026,12 +4711,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Plug n play avatar, turn name, email, and any other string into beautiful avatar (or gravatar), effortless. ",
+            "homepage": null,
             "id": 44089758,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-08-06T15:54:23Z",
+            "open_issues": 1,
             "owner": "laravolt",
             "repo": "avatar",
-            "stars": 1982
+            "stars": 1982,
+            "topics": [
+              "avatar",
+              "gravatar",
+              "laravel-package",
+              "php",
+              "php-library"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -3042,12 +4738,28 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Laravel CRUD Generator, Make an Advanced Web Application Quickly",
+            "homepage": "http://crudbooster.com",
             "id": 61110134,
             "language": null,
+            "license": null,
             "last_commit": "2025-02-09T05:49:32Z",
+            "open_issues": 760,
             "owner": "crocodic-studio",
             "repo": "crudbooster",
-            "stars": 1763
+            "stars": 1763,
+            "topics": [
+              "admin-area",
+              "admin-panel",
+              "crud",
+              "crud-generator",
+              "crudbooster",
+              "laravel",
+              "laravel-admin",
+              "laravel-crud-generator",
+              "laravel-framework",
+              "php-crud-generator"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -3058,12 +4770,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Package Laravel yang berisi data Provinsi, Kabupaten/Kota, dan Kecamatan/Desa di seluruh Indonesia.",
+            "homepage": null,
             "id": 63410706,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-03-03T06:32:45Z",
+            "open_issues": 5,
             "owner": "laravolt",
             "repo": "indonesia",
-            "stars": 675
+            "stars": 675,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -3074,12 +4791,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Project management software for freelancers or agencies, built with Laravel.",
+            "homepage": null,
             "id": 111558421,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-07-12T02:55:30Z",
+            "open_issues": 6,
             "owner": "nafiesl",
             "repo": "free-pmo",
-            "stars": 462
+            "stars": 462,
+            "topics": [
+              "freelancer",
+              "laravel",
+              "pmo",
+              "project-management",
+              "tdd-workflow",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -3090,12 +4819,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Laravel 5 Admin",
+            "homepage": "https://packagist.org/packages/pingpong/admin",
             "id": 16302403,
             "language": "JavaScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2016-12-26T03:42:30Z",
+            "open_issues": 22,
             "owner": "pingpong-labs",
             "repo": "admin",
-            "stars": 429
+            "stars": 429,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -3106,12 +4840,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Package Laravel wilayah Indonesia | Data Provinsi, Kabupaten/Kota, Kecamatan dan Kelurahan/Desa seluruh Indonesia.",
+            "homepage": "https://packagist.org/packages/azishapidin/indoregion",
             "id": 90970565,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2023-12-05T04:41:11Z",
+            "open_issues": 3,
             "owner": "azishapidin",
             "repo": "indoregion",
-            "stars": 273
+            "stars": 273,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -3122,12 +4861,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fully documented & tested Laravel 9 RESTful books API scraped from Gramedia.",
+            "homepage": "https://laravel-books-db.herokuapp.com/",
             "id": 454732828,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2023-05-27T12:39:13Z",
+            "open_issues": 9,
             "owner": "yusuftaufiq",
             "repo": "laravel-books-api",
-            "stars": 69
+            "stars": 69,
+            "topics": [
+              "docker",
+              "laravel9",
+              "php81",
+              "restful-api",
+              "web-scraping"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -3138,12 +4888,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple file uploader for Laravel 5.",
+            "homepage": null,
             "id": 75953427,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2018-11-10T11:50:47Z",
+            "open_issues": 0,
             "owner": "rymanalu",
             "repo": "laravel-simple-uploader",
-            "stars": 55
+            "stars": 55,
+            "topics": [
+              "file",
+              "laravel",
+              "php",
+              "upload",
+              "uploader"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -3154,12 +4915,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[READ ONLY] Semantic-UI form helper",
+            "homepage": "https://laravolt.dev",
             "id": 45816079,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2022-06-02T13:23:23Z",
+            "open_issues": 1,
             "owner": "laravolt",
             "repo": "semantic-form",
-            "stars": 51
+            "stars": 51,
+            "topics": [
+              "form-builder",
+              "laravel-package",
+              "semantic-ui"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -3170,12 +4940,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Contoh aplikasi CRUD dengan Laravel 5.2",
+            "homepage": "https://leanpub.com/bukularavel",
             "id": 49355976,
             "language": "PHP",
+            "license": null,
             "last_commit": "2016-02-16T06:44:11Z",
+            "open_issues": 0,
             "owner": "rawaludin",
             "repo": "approcket-preproject",
-            "stars": 44
+            "stars": 44,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -3186,12 +4961,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "This package is DOKU Payment Gateway Library for Laravel",
+            "homepage": null,
             "id": 66667762,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2017-10-25T04:45:37Z",
+            "open_issues": 7,
             "owner": "crocodic-studio",
             "repo": "dokularavel",
-            "stars": 41
+            "stars": 41,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -3202,12 +4982,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sistem Akademik K13/KTSP Berbasis Web",
+            "homepage": "absis.co.id",
             "id": 52900331,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2017-10-19T12:41:11Z",
+            "open_issues": 1,
             "owner": "smpn1smg",
             "repo": "absis",
-            "stars": 30
+            "stars": 30,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -3218,12 +5003,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Unofficial PDDIKTI API Laravel Package",
+            "homepage": null,
             "id": 866343866,
             "language": "PHP",
+            "license": null,
             "last_commit": "2025-01-09T01:03:32Z",
+            "open_issues": 0,
             "owner": "IlhamriSKY",
             "repo": "PddiktiApi",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -3234,12 +5024,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Laravel 5 Model Factory Generator",
+            "homepage": null,
             "id": 85916595,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2017-09-02T17:54:40Z",
+            "open_issues": 3,
             "owner": "rymanalu",
             "repo": "factory-generator",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "factory",
+              "laravel",
+              "laravel-model",
+              "model"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -3250,12 +5050,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Laravel Get Timezone by City package provides a simple way to retrieve timezone information for cities around the world. It utilizes Carbon for date and time manipulation.",
+            "homepage": null,
             "id": 758136155,
             "language": "PHP",
+            "license": null,
             "last_commit": "2024-10-02T06:31:58Z",
+            "open_issues": 0,
             "owner": "IlhamriSKY",
             "repo": "laravel-timezone-by-city",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -3266,12 +5071,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Circuit Breaker pattern implementation in Laravel 5.",
+            "homepage": null,
             "id": 75812030,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2016-12-08T09:44:16Z",
+            "open_issues": 0,
             "owner": "rymanalu",
             "repo": "laravel-circuit-breaker",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -3282,12 +5092,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This package automatically inserts/updates creator, editor and destroyer on your table.",
+            "homepage": null,
             "id": 146013826,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2018-10-16T10:53:45Z",
+            "open_issues": 0,
             "owner": "RioRizkyRainey",
             "repo": "LaraCed",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         }
@@ -3304,12 +5119,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Starter Application built on Slim Framework in MVC (and HMVC) environment ",
+            "homepage": "http://www.xsanisty.com/project/slim-starter",
             "id": 17584253,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-10-04T05:12:26Z",
+            "open_issues": 14,
             "owner": "xsanisty",
             "repo": "SlimBoard",
-            "stars": 285
+            "stars": 285,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -3320,12 +5140,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Boilerplate for getting started with Slim Framework",
+            "homepage": null,
             "id": 52575051,
             "language": "PHP",
+            "license": null,
             "last_commit": "2020-11-19T02:48:41Z",
+            "open_issues": 0,
             "owner": "zhiephie",
             "repo": "boilerplate-slim3",
-            "stars": 23
+            "stars": 23,
+            "topics": [
+              "boilerplate",
+              "php",
+              "slim-framework"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         }
@@ -3342,12 +5171,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A PHP based, free, and open source farming management system.",
+            "homepage": "http://gettania.org",
             "id": 93205883,
             "language": "CSS",
+            "license": "Apache-2.0",
             "last_commit": "2018-04-13T02:12:47Z",
+            "open_issues": 7,
             "owner": "usetania",
             "repo": "tania",
-            "stars": 543
+            "stars": 543,
+            "topics": [
+              "agriculture",
+              "farm",
+              "farming",
+              "php",
+              "symfony",
+              "symfony3",
+              "tania"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -3358,12 +5200,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Yet Another Symfony Admin Generator [Use: https://github.com/SymfonyId/SymfonyIdAdminBundle]",
+            "homepage": null,
             "id": 32443001,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-03-17T02:03:59Z",
+            "open_issues": 5,
             "owner": "SymfonyId",
             "repo": "AdminBundle",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         }
@@ -3380,12 +5227,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Material Color Scheme Darker for Vim.",
+            "homepage": "https://git.io/minimalist",
             "id": 75380963,
             "language": "Vim Script",
+            "license": "MIT",
             "last_commit": "2024-03-16T18:34:03Z",
+            "open_issues": 0,
             "owner": "dikiaap",
             "repo": "minimalist",
-            "stars": 318
+            "stars": 318,
+            "topics": [
+              "airline-themes",
+              "material-design",
+              "material-theme",
+              "material-ui",
+              "minimalist",
+              "vim",
+              "vim-colors",
+              "vim-colorscheme"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -3396,12 +5257,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This plugin allows you to send notifications to Slack channels when certain events in WordPress occur.",
+            "homepage": "http://gedex.web.id/wp-slack/",
             "id": 18675661,
             "language": "PHP",
+            "license": "GPL-2.0",
             "last_commit": "2020-09-01T11:17:43Z",
+            "open_issues": 27,
             "owner": "gedex",
             "repo": "wp-slack",
-            "stars": 127
+            "stars": 127,
+            "topics": [
+              "php",
+              "slack",
+              "wordpress",
+              "wordpress-plugin"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -3412,12 +5283,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "mpv integration with Discord Rich Presence",
+            "homepage": "https://noaione.github.io/release",
             "id": 132126075,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2023-02-27T05:30:37Z",
+            "open_issues": 3,
             "owner": "noaione",
             "repo": "mpv-discordRPC",
-            "stars": 63
+            "stars": 63,
+            "topics": [
+              "discord",
+              "discord-rich-presence",
+              "lua",
+              "mpv",
+              "scripts"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -3428,12 +5310,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Plugin Vscode yang menyediakan kalender liturgi harian Katolik, kumpulan doa, informasi orang kudus, akses Alkitab, dan pengingat doa harian",
+            "homepage": "https://marketplace.visualstudio.com/items?itemName=ilhamriSKY.doa-harian-katolik",
             "id": 888556556,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-11-15T05:58:24Z",
+            "open_issues": 0,
             "owner": "IlhamriSKY",
             "repo": "Doa-Harian-Katolik",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         }
@@ -3450,12 +5337,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Unofficial Python 3 API wrapper to retrieve data from PDDIKTI Kemdikbudristek.",
+            "homepage": "https://pddikti.kemdiktisaintek.go.id/",
             "id": 360081221,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-24T02:52:54Z",
+            "open_issues": 0,
             "owner": "IlhamriSKY",
             "repo": "PDDIKTI-kemdikbud-API",
-            "stars": 121
+            "stars": 121,
+            "topics": [
+              "api-wrapper",
+              "package",
+              "python3"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -3466,12 +5362,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hand signals recognition using Convolutional Neural Network implemented in TensorFlow",
+            "homepage": null,
             "id": 78265068,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-04-20T14:03:23Z",
+            "open_issues": 0,
             "owner": "pyk",
             "repo": "hsr",
-            "stars": 110
+            "stars": 110,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -3482,12 +5383,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Python module that fetches a page of a word/phrase from the Online Indonesian Dictionary (https://kbbi.kemdikbud.go.id).",
+            "homepage": "https://pypi.org/project/kbbi",
             "id": 112719134,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-09-12T15:57:13Z",
+            "open_issues": 1,
             "owner": "laymonage",
             "repo": "kbbi-python",
-            "stars": 86
+            "stars": 86,
+            "topics": [
+              "indonesian-language",
+              "nlp-resources"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -3498,12 +5407,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A robust doujinshi downloader, uncompromising in efficiency",
+            "homepage": "https://crates.io/crates/tomoe",
             "id": 471296629,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-28T05:34:43Z",
+            "open_issues": 2,
             "owner": "sinkaroid",
             "repo": "tomoe",
-            "stars": 41
+            "stars": 41,
+            "topics": [
+              "doujinshi",
+              "hentaifox",
+              "nhentai",
+              "pururin"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -3514,12 +5433,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python bindings for booru imageboards",
+            "homepage": "https://sinkaroid.github.io/booru",
             "id": 478922793,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-06-22T22:53:24Z",
+            "open_issues": 4,
             "owner": "sinkaroid",
             "repo": "booru",
-            "stars": 34
+            "stars": 34,
+            "topics": [
+              "booru",
+              "danbooru",
+              "gelbooru",
+              "rule34"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -3530,12 +5459,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Face recognition using python sanic",
+            "homepage": null,
             "id": 158088160,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-10-03T23:51:01Z",
+            "open_issues": 1,
             "owner": "FerdinaKusumah",
             "repo": "face-recognition-webservice",
-            "stars": 19
+            "stars": 19,
+            "topics": [
+              "face-recognition",
+              "face-recognition-python",
+              "face-recognition-webservice",
+              "python",
+              "python-face-recognition",
+              "python-sanic",
+              "sanic",
+              "simple-machine-learning"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -3546,12 +5489,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Word Graph utility built with NLTK and TextBlob",
+            "homepage": null,
             "id": 12041957,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2013-08-16T19:15:20Z",
+            "open_issues": 0,
             "owner": "tistaharahap",
             "repo": "WordGraph",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -3562,12 +5510,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python library for Jandapress",
+            "homepage": "https://sinkaroid.github.io/janda",
             "id": 470216349,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-06-11T21:03:58Z",
+            "open_issues": 0,
             "owner": "sinkaroid",
             "repo": "janda",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -3578,12 +5531,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Convert your excel as api",
+            "homepage": null,
             "id": 251503333,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-05-23T04:44:58Z",
+            "open_issues": 2,
             "owner": "FerdinaKusumah",
             "repo": "excel2api",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "excel2api",
+              "exceltoapi",
+              "python-csv",
+              "python-excel",
+              "python-excel-to-api",
+              "python3"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -3594,12 +5559,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🔒Generate Random Password & Wordlist",
+            "homepage": null,
             "id": 188506969,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-05-01T13:02:51Z",
+            "open_issues": 0,
             "owner": "hrtywhy",
             "repo": "Random-Password-Generator",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "encryption",
+              "gui",
+              "python",
+              "tkinter-graphic-interface"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         }
@@ -3616,12 +5591,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "The Traditional Swiss Army Knife for OSINT",
+            "homepage": null,
             "id": 77137256,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2021-06-10T22:41:08Z",
+            "open_issues": 10,
             "owner": "aancw",
             "repo": "Belati",
-            "stars": 566
+            "stars": 566,
+            "topics": [
+              "document-scrapper",
+              "email-harvesting",
+              "osint"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -3632,12 +5616,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GhostIntel is a Python-based OSINT framework for digital investigation using public data such as username, email, domain, IP address, and phone number.",
+            "homepage": null,
             "id": 1159740737,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2026-08-03T07:05:48Z",
+            "open_issues": 2,
             "owner": "ruyynn",
             "repo": "GhostIntel",
-            "stars": 156
+            "stars": 156,
+            "topics": [
+              "awesome-osint",
+              "cybersecurity",
+              "email-osint",
+              "email-validation",
+              "ethical-hacking",
+              "indonesia-osint",
+              "ip-osint",
+              "osint",
+              "osint-framework",
+              "osint-indonesia",
+              "osint-reconnaissance",
+              "osint-tool",
+              "phone-number-lookup",
+              "phone-osint",
+              "python",
+              "reconnaissance",
+              "ruyynn",
+              "username-osint",
+              "username-search"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         }
@@ -3654,12 +5663,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Curated List of Dataset and Usable Library Resources for NLP in Bahasa Indonesia",
+            "homepage": null,
             "id": 251623447,
             "language": null,
+            "license": "MIT",
             "last_commit": "2023-02-17T06:31:22Z",
+            "open_issues": 2,
             "owner": "louisowen6",
             "repo": "NLP_bahasa_resources",
-            "stars": 574
+            "stars": 574,
+            "topics": [
+              "bahasa-indonesia",
+              "corpus",
+              "corpus-linguistics",
+              "dataset",
+              "indonesian",
+              "indonesian-language",
+              "library",
+              "natural-language-processing",
+              "nlp",
+              "nlp-bahasa-resources",
+              "packages",
+              "sentiment-analysis",
+              "sentiment-analysis-dataset"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -3670,12 +5698,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[Inactive] High quality stemmer library for Indonesian Language (Bahasa)",
+            "homepage": null,
             "id": 17904577,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2022-09-06T10:33:14Z",
+            "open_issues": 16,
             "owner": "sastrawi",
             "repo": "sastrawi",
-            "stars": 438
+            "stars": 438,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -3686,12 +5719,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Indonesian stemmer. Python port of PHP Sastrawi project.",
+            "homepage": null,
             "id": 49650475,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-05-21T08:23:30Z",
+            "open_issues": 12,
             "owner": "har07",
             "repo": "PySastrawi",
-            "stars": 361
+            "stars": 361,
+            "topics": [
+              "nlp-stemming",
+              "sastrawi-python"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -3702,12 +5743,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A list of Indonesian NLP resources.",
+            "homepage": null,
             "id": 128495314,
             "language": null,
+            "license": null,
             "last_commit": "2022-01-18T08:48:55Z",
+            "open_issues": 1,
             "owner": "kmkurn",
             "repo": "id-nlp-resource",
-            "stars": 288
+            "stars": 288,
+            "topics": [
+              "corpus-linguistics",
+              "indonesian-language",
+              "natural-language-processing"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         }
@@ -3724,12 +5774,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Identity for developers on the web.",
+            "homepage": "https://thedev.id",
             "id": 277789936,
             "language": "HTML",
+            "license": null,
             "last_commit": "2025-12-19T06:16:49Z",
+            "open_issues": 350,
             "owner": "thedev-id",
             "repo": "thedev.id",
-            "stars": 1705
+            "stars": 1705,
+            "topics": [
+              "developer-tools",
+              "dns",
+              "domain",
+              "free-subdomain",
+              "github-pages",
+              "identity",
+              "namespace",
+              "netlify",
+              "vercel"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -3740,12 +5805,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.",
+            "homepage": null,
             "id": 32196209,
             "language": "Adblock Filter List",
-            "last_commit": "2026-08-20T11:15:10Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-28T22:54:17Z",
+            "open_issues": 1,
             "owner": "ABPindo",
             "repo": "indonesianadblockrules",
-            "stars": 240
+            "stars": 240,
+            "topics": [
+              "adblock",
+              "adblock-list",
+              "adblock-plus",
+              "adblocker",
+              "adguard",
+              "easylist",
+              "filterlist",
+              "ublock",
+              "ublock-origin"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -3756,12 +5836,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Perangkat lunak open source yang dikembangkan khusus untuk bidang usaha ritel, grosir, toko bangunan, toko komputer, toko buku, counter hp, pos, point of sale, kasir dan bidang usaha lainnya yang sejenis.",
+            "homepage": "https://www.facebook.com/openretail/",
             "id": 77844051,
             "language": "C#",
+            "license": null,
             "last_commit": "2023-04-17T19:32:14Z",
+            "open_issues": 26,
             "owner": "rudi-krsoftware",
             "repo": "open-retail",
-            "stars": 196
+            "stars": 196,
+            "topics": [
+              "csharp",
+              "dapper",
+              "log4net",
+              "net",
+              "open-retail",
+              "openretail",
+              "point-of-sale",
+              "pos",
+              "syncfusion"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -3772,12 +5867,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Peta GeoJSON Indonesia dengan Kode Provinsi",
+            "homepage": null,
             "id": 153441599,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-08-09T12:30:08Z",
+            "open_issues": 0,
             "owner": "ans-4175",
             "repo": "peta-indonesia-geojson",
-            "stars": 80
+            "stars": 80,
+            "topics": [
+              "geojson",
+              "hacktoberfest",
+              "indonesia",
+              "map",
+              "province"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -3788,12 +5894,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Are you weeb developer looking for free webspace to host your project? Get free subdomain merahputih.moe UwU",
+            "homepage": "https://merahputih.moe",
             "id": 631910953,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-06-07T04:28:37Z",
+            "open_issues": 3,
             "owner": "ScathachGrip",
             "repo": "merahputih.moe",
-            "stars": 39
+            "stars": 39,
+            "topics": [
+              "anime-girls",
+              "cloudflare",
+              "custom-domains",
+              "dns",
+              "indonesia",
+              "subdomain"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -3804,12 +5922,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": ":earth_africa: The most-relevant repositories for all countries and many cities worldwide.",
+            "homepage": null,
             "id": 94680893,
             "language": null,
+            "license": null,
             "last_commit": "2017-11-02T14:29:29Z",
+            "open_issues": 0,
             "owner": "lorey",
             "repo": "top-regional-repositories",
-            "stars": 20
+            "stars": 20,
+            "topics": [
+              "cities",
+              "countries",
+              "github",
+              "top-list"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -3820,12 +5948,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Topojson of Indonesia (Kota-Kabupaten)",
+            "homepage": null,
             "id": 50974037,
             "language": null,
+            "license": "MIT",
             "last_commit": "2024-12-02T05:45:40Z",
+            "open_issues": 0,
             "owner": "tvalentius",
             "repo": "Indonesia-topojson",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -3836,12 +5969,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Static site theme style Mac OSX Lion",
+            "homepage": "http://sundi3yansyah.com/mac/",
             "id": 23269524,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2015-03-06T22:38:50Z",
+            "open_issues": 0,
             "owner": "SunDi3yansyah",
             "repo": "mac-osx-lion-theme",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         }
@@ -3850,15 +5988,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T20:26:53.003Z",
+    "last_updated": "2026-08-29T04:37:50.302Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of amazingly awesome repository created and contributed by Indonesian people.",
+      "homepage": null,
       "id": 52785444,
       "language": "Jupyter Notebook",
+      "license": "CC-BY-4.0",
       "last_commit": "2026-08-08T16:59:56Z",
+      "open_issues": 9,
       "owner": "GitIndonesia",
       "repo": "awesome-indonesia-repo",
-      "stars": 763
+      "stars": 763,
+      "topics": [
+        "awesome-list",
+        "hacktoberfest",
+        "indonesia",
+        "repository"
+      ]
     },
     "original_repository_sha": "da6467550cb98773068609f5b59b0e1b599e59de",
     "enhanced_repository": "enhansome/enhansome-indonesia-repo",
