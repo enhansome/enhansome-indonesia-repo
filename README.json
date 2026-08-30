@@ -723,7 +723,7 @@
             "open_issues": 1,
             "owner": "farizdotid",
             "repo": "DAFTAR-API-LOKAL-INDONESIA",
-            "stars": 5295,
+            "stars": 5296,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -765,7 +765,7 @@
             "open_issues": 1,
             "owner": "hendisantika",
             "repo": "List-All-Programming-Telegram-Group",
-            "stars": 1488,
+            "stars": 1487,
             "topics": [
               "android",
               "group",
@@ -821,7 +821,7 @@
             "open_issues": 9,
             "owner": "GitIndonesia",
             "repo": "awesome-indonesia-repo",
-            "stars": 763,
+            "stars": 764,
             "topics": [
               "awesome-list",
               "hacktoberfest",
@@ -998,11 +998,11 @@
             "id": 13491895,
             "language": "Python",
             "license": "CC-BY-4.0",
-            "last_commit": "2026-08-29T12:26:19Z",
-            "open_issues": 82,
+            "last_commit": "2026-08-30T08:24:39Z",
+            "open_issues": 81,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 395516,
+            "stars": 395578,
             "topics": [
               "books",
               "education",
@@ -1609,7 +1609,7 @@
             "open_issues": 0,
             "owner": "stisla",
             "repo": "stisla",
-            "stars": 3760,
+            "stars": 3761,
             "topics": [
               "admin",
               "bootstrap",
@@ -1658,7 +1658,7 @@
             "open_issues": 16,
             "owner": "zuramai",
             "repo": "mazer",
-            "stars": 3099,
+            "stars": 3098,
             "topics": [
               "admin-dashboard",
               "bootstrap",
@@ -1886,7 +1886,7 @@
             "open_issues": 115,
             "owner": "go-shiori",
             "repo": "shiori",
-            "stars": 11619,
+            "stars": 11617,
             "topics": [
               "bookmark-manager",
               "command-line",
@@ -2387,7 +2387,7 @@
             "open_issues": 14,
             "owner": "ariya",
             "repo": "phantomjs",
-            "stars": 29446,
+            "stars": 29445,
             "topics": [
               "automation",
               "headless",
@@ -2413,7 +2413,7 @@
             "open_issues": 127,
             "owner": "giscus",
             "repo": "giscus",
-            "stars": 12063,
+            "stars": 12066,
             "topics": [
               "blog",
               "comment-system",
@@ -2449,7 +2449,7 @@
             "open_issues": 15,
             "owner": "faisalman",
             "repo": "ua-parser-js",
-            "stars": 10186,
+            "stars": 10184,
             "topics": [
               "analytics",
               "bot-detection",
@@ -2843,7 +2843,7 @@
             "id": 499356658,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-08-29T13:58:40Z",
+            "last_commit": "2026-08-29T16:05:03Z",
             "open_issues": 6,
             "owner": "sinkaroid",
             "repo": "jandapress",
@@ -3352,7 +3352,7 @@
             "open_issues": 2,
             "owner": "andriawan",
             "repo": "AndKasir",
-            "stars": 46,
+            "stars": 48,
             "topics": [
               "java",
               "kasir",
@@ -4265,7 +4265,7 @@
             "open_issues": 79,
             "owner": "playsms",
             "repo": "playsms",
-            "stars": 882,
+            "stars": 881,
             "topics": [
               "communication",
               "jasmin",
@@ -4870,7 +4870,7 @@
             "open_issues": 9,
             "owner": "yusuftaufiq",
             "repo": "laravel-books-api",
-            "stars": 69,
+            "stars": 70,
             "topics": [
               "docker",
               "laravel9",
@@ -5346,7 +5346,7 @@
             "open_issues": 0,
             "owner": "IlhamriSKY",
             "repo": "PDDIKTI-kemdikbud-API",
-            "stars": 121,
+            "stars": 122,
             "topics": [
               "api-wrapper",
               "package",
@@ -5625,7 +5625,7 @@
             "open_issues": 2,
             "owner": "ruyynn",
             "repo": "GhostIntel",
-            "stars": 156,
+            "stars": 155,
             "topics": [
               "awesome-osint",
               "cybersecurity",
@@ -5810,7 +5810,7 @@
             "id": 32196209,
             "language": "Adblock Filter List",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-28T22:54:17Z",
+            "last_commit": "2026-08-30T10:35:22Z",
             "open_issues": 1,
             "owner": "ABPindo",
             "repo": "indonesianadblockrules",
@@ -5988,7 +5988,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T14:02:41.121Z",
+    "last_updated": "2026-08-30T14:01:42.103Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome repository created and contributed by Indonesian people.",
@@ -6000,7 +6000,7 @@
       "open_issues": 9,
       "owner": "GitIndonesia",
       "repo": "awesome-indonesia-repo",
-      "stars": 763,
+      "stars": 764,
       "topics": [
         "awesome-list",
         "hacktoberfest",
