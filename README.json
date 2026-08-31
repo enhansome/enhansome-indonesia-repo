@@ -692,7 +692,7 @@
             "open_issues": 0,
             "owner": "Kristories",
             "repo": "awesome-guidelines",
-            "stars": 11074,
+            "stars": 11076,
             "topics": [
               "awesome",
               "awesome-guidelines",
@@ -723,7 +723,7 @@
             "open_issues": 1,
             "owner": "farizdotid",
             "repo": "DAFTAR-API-LOKAL-INDONESIA",
-            "stars": 5296,
+            "stars": 5295,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -999,10 +999,10 @@
             "language": "Python",
             "license": "CC-BY-4.0",
             "last_commit": "2026-08-30T08:24:39Z",
-            "open_issues": 81,
+            "open_issues": 82,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 395578,
+            "stars": 395656,
             "topics": [
               "books",
               "education",
@@ -1609,7 +1609,7 @@
             "open_issues": 0,
             "owner": "stisla",
             "repo": "stisla",
-            "stars": 3761,
+            "stars": 3763,
             "topics": [
               "admin",
               "bootstrap",
@@ -1886,7 +1886,7 @@
             "open_issues": 115,
             "owner": "go-shiori",
             "repo": "shiori",
-            "stars": 11617,
+            "stars": 11620,
             "topics": [
               "bookmark-manager",
               "command-line",
@@ -2169,7 +2169,7 @@
             "id": 1295447882,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-26T18:39:16Z",
+            "last_commit": "2026-08-31T13:07:19Z",
             "open_issues": 7,
             "owner": "NAEOS-foundation",
             "repo": "naeos",
@@ -2387,7 +2387,7 @@
             "open_issues": 14,
             "owner": "ariya",
             "repo": "phantomjs",
-            "stars": 29445,
+            "stars": 29443,
             "topics": [
               "automation",
               "headless",
@@ -2446,10 +2446,10 @@
             "language": "JavaScript",
             "license": "AGPL-3.0",
             "last_commit": "2026-08-24T15:56:44Z",
-            "open_issues": 15,
+            "open_issues": 17,
             "owner": "faisalman",
             "repo": "ua-parser-js",
-            "stars": 10184,
+            "stars": 10185,
             "topics": [
               "analytics",
               "bot-detection",
@@ -5625,7 +5625,7 @@
             "open_issues": 2,
             "owner": "ruyynn",
             "repo": "GhostIntel",
-            "stars": 155,
+            "stars": 156,
             "topics": [
               "awesome-osint",
               "cybersecurity",
@@ -5707,7 +5707,7 @@
             "open_issues": 16,
             "owner": "sastrawi",
             "repo": "sastrawi",
-            "stars": 438,
+            "stars": 437,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -5783,7 +5783,7 @@
             "open_issues": 349,
             "owner": "thedev-id",
             "repo": "thedev.id",
-            "stars": 1706,
+            "stars": 1705,
             "topics": [
               "developer-tools",
               "dns",
@@ -5988,7 +5988,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T14:01:42.103Z",
+    "last_updated": "2026-08-31T16:26:31.833Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome repository created and contributed by Indonesian people.",
