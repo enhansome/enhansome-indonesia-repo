@@ -692,7 +692,7 @@
             "open_issues": 0,
             "owner": "Kristories",
             "repo": "awesome-guidelines",
-            "stars": 11078,
+            "stars": 11079,
             "topics": [
               "awesome",
               "awesome-guidelines",
@@ -999,10 +999,10 @@
             "language": "Python",
             "license": "CC-BY-4.0",
             "last_commit": "2026-09-01T09:12:19Z",
-            "open_issues": 82,
+            "open_issues": 84,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 395728,
+            "stars": 395796,
             "topics": [
               "books",
               "education",
@@ -1883,10 +1883,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-07-10T06:36:40Z",
-            "open_issues": 115,
+            "open_issues": 116,
             "owner": "go-shiori",
             "repo": "shiori",
-            "stars": 11618,
+            "stars": 11620,
             "topics": [
               "bookmark-manager",
               "command-line",
@@ -2169,7 +2169,7 @@
             "id": 1295447882,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-31T13:07:19Z",
+            "last_commit": "2026-09-02T11:41:29Z",
             "open_issues": 7,
             "owner": "NAEOS-foundation",
             "repo": "naeos",
@@ -2413,7 +2413,7 @@
             "open_issues": 127,
             "owner": "giscus",
             "repo": "giscus",
-            "stars": 12066,
+            "stars": 12067,
             "topics": [
               "blog",
               "comment-system",
@@ -2445,11 +2445,11 @@
             "id": 3320710,
             "language": "JavaScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-08-24T15:56:44Z",
-            "open_issues": 17,
+            "last_commit": "2026-09-01T14:34:53Z",
+            "open_issues": 15,
             "owner": "faisalman",
             "repo": "ua-parser-js",
-            "stars": 10184,
+            "stars": 10187,
             "topics": [
               "analytics",
               "bot-detection",
@@ -3942,7 +3942,7 @@
             "open_issues": 50,
             "owner": "novalagung",
             "repo": "dasarpemrogramangolang",
-            "stars": 2629,
+            "stars": 2630,
             "topics": [
               "book",
               "ebook",
@@ -4779,7 +4779,7 @@
             "open_issues": 5,
             "owner": "laravolt",
             "repo": "indonesia",
-            "stars": 675,
+            "stars": 676,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -5780,10 +5780,10 @@
             "language": "HTML",
             "license": null,
             "last_commit": "2025-12-19T06:16:49Z",
-            "open_issues": 348,
+            "open_issues": 349,
             "owner": "thedev-id",
             "repo": "thedev.id",
-            "stars": 1707,
+            "stars": 1708,
             "topics": [
               "developer-tools",
               "dns",
@@ -5810,7 +5810,7 @@
             "id": 32196209,
             "language": "Adblock Filter List",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-01T03:19:21Z",
+            "last_commit": "2026-09-01T22:31:57Z",
             "open_issues": 1,
             "owner": "ABPindo",
             "repo": "indonesianadblockrules",
@@ -5988,7 +5988,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T13:43:54.601Z",
+    "last_updated": "2026-09-02T13:01:04.122Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome repository created and contributed by Indonesian people.",
