@@ -692,7 +692,7 @@
             "open_issues": 0,
             "owner": "Kristories",
             "repo": "awesome-guidelines",
-            "stars": 11079,
+            "stars": 11083,
             "topics": [
               "awesome",
               "awesome-guidelines",
@@ -723,7 +723,7 @@
             "open_issues": 1,
             "owner": "farizdotid",
             "repo": "DAFTAR-API-LOKAL-INDONESIA",
-            "stars": 5294,
+            "stars": 5295,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -1002,7 +1002,7 @@
             "open_issues": 84,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 395796,
+            "stars": 395880,
             "topics": [
               "books",
               "education",
@@ -2169,7 +2169,7 @@
             "id": 1295447882,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-02T11:41:29Z",
+            "last_commit": "2026-09-02T14:55:09Z",
             "open_issues": 7,
             "owner": "NAEOS-foundation",
             "repo": "naeos",
@@ -2413,7 +2413,7 @@
             "open_issues": 127,
             "owner": "giscus",
             "repo": "giscus",
-            "stars": 12067,
+            "stars": 12072,
             "topics": [
               "blog",
               "comment-system",
@@ -2449,7 +2449,7 @@
             "open_issues": 15,
             "owner": "faisalman",
             "repo": "ua-parser-js",
-            "stars": 10187,
+            "stars": 10186,
             "topics": [
               "analytics",
               "bot-detection",
@@ -3349,7 +3349,7 @@
             "language": "Java",
             "license": "GPL-3.0",
             "last_commit": "2026-01-16T15:24:01Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "andriawan",
             "repo": "AndKasir",
             "stars": 48,
@@ -3942,7 +3942,7 @@
             "open_issues": 50,
             "owner": "novalagung",
             "repo": "dasarpemrogramangolang",
-            "stars": 2630,
+            "stars": 2631,
             "topics": [
               "book",
               "ebook",
@@ -4355,7 +4355,7 @@
             "open_issues": 11,
             "owner": "lintangtimur",
             "repo": "ovoid",
-            "stars": 165,
+            "stars": 166,
             "topics": [
               "api",
               "indonesia",
@@ -4800,7 +4800,7 @@
             "open_issues": 6,
             "owner": "nafiesl",
             "repo": "free-pmo",
-            "stars": 462,
+            "stars": 463,
             "topics": [
               "freelancer",
               "laravel",
@@ -5780,10 +5780,10 @@
             "language": "HTML",
             "license": null,
             "last_commit": "2025-12-19T06:16:49Z",
-            "open_issues": 349,
+            "open_issues": 350,
             "owner": "thedev-id",
             "repo": "thedev.id",
-            "stars": 1708,
+            "stars": 1710,
             "topics": [
               "developer-tools",
               "dns",
@@ -5988,7 +5988,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T13:01:04.122Z",
+    "last_updated": "2026-09-03T13:03:01.670Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome repository created and contributed by Indonesian people.",
