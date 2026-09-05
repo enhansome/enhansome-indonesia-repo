@@ -19,7 +19,7 @@
             "open_issues": 140,
             "owner": "zetbaitsu",
             "repo": "Compressor",
-            "stars": 7224,
+            "stars": 7225,
             "topics": [
               "android",
               "android-library",
@@ -542,7 +542,7 @@
             "id": 409246851,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-05-25T15:01:31Z",
+            "last_commit": "2026-09-04T13:08:07Z",
             "open_issues": 0,
             "owner": "rh-id",
             "repo": "a-navigator",
@@ -627,7 +627,7 @@
             "id": 406974032,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2024-12-17T02:19:18Z",
+            "last_commit": "2026-09-05T07:04:19Z",
             "open_issues": 0,
             "owner": "rh-id",
             "repo": "a-provider",
@@ -723,7 +723,7 @@
             "open_issues": 1,
             "owner": "farizdotid",
             "repo": "DAFTAR-API-LOKAL-INDONESIA",
-            "stars": 5296,
+            "stars": 5297,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -999,10 +999,10 @@
             "language": "Python",
             "license": "CC-BY-4.0",
             "last_commit": "2026-09-01T09:12:19Z",
-            "open_issues": 82,
+            "open_issues": 78,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 395941,
+            "stars": 396010,
             "topics": [
               "books",
               "education",
@@ -1415,7 +1415,7 @@
             "open_issues": 5,
             "owner": "panada",
             "repo": "panada",
-            "stars": 127,
+            "stars": 126,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -1886,7 +1886,7 @@
             "open_issues": 117,
             "owner": "go-shiori",
             "repo": "shiori",
-            "stars": 11622,
+            "stars": 11621,
             "topics": [
               "bookmark-manager",
               "command-line",
@@ -2169,7 +2169,7 @@
             "id": 1295447882,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-03T16:45:55Z",
+            "last_commit": "2026-09-04T17:03:11Z",
             "open_issues": 7,
             "owner": "NAEOS-foundation",
             "repo": "naeos",
@@ -2413,7 +2413,7 @@
             "open_issues": 127,
             "owner": "giscus",
             "repo": "giscus",
-            "stars": 12074,
+            "stars": 12076,
             "topics": [
               "blog",
               "comment-system",
@@ -4451,7 +4451,7 @@
             "open_issues": 1,
             "owner": "mul14",
             "repo": "terbilang-php",
-            "stars": 65,
+            "stars": 64,
             "topics": [
               "convert-numbers",
               "indonesian-language",
@@ -4828,7 +4828,7 @@
             "open_issues": 22,
             "owner": "pingpong-labs",
             "repo": "admin",
-            "stars": 429,
+            "stars": 428,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -5707,7 +5707,7 @@
             "open_issues": 16,
             "owner": "sastrawi",
             "repo": "sastrawi",
-            "stars": 437,
+            "stars": 438,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -5752,7 +5752,7 @@
             "open_issues": 1,
             "owner": "kmkurn",
             "repo": "id-nlp-resource",
-            "stars": 288,
+            "stars": 289,
             "topics": [
               "corpus-linguistics",
               "indonesian-language",
@@ -5988,7 +5988,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T12:58:17.365Z",
+    "last_updated": "2026-09-05T12:10:10.694Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome repository created and contributed by Indonesian people.",
