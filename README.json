@@ -692,7 +692,7 @@
             "open_issues": 0,
             "owner": "Kristories",
             "repo": "awesome-guidelines",
-            "stars": 11085,
+            "stars": 11087,
             "topics": [
               "awesome",
               "awesome-guidelines",
@@ -821,7 +821,7 @@
             "open_issues": 9,
             "owner": "GitIndonesia",
             "repo": "awesome-indonesia-repo",
-            "stars": 764,
+            "stars": 763,
             "topics": [
               "awesome-list",
               "hacktoberfest",
@@ -1002,7 +1002,7 @@
             "open_issues": 78,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 396010,
+            "stars": 396065,
             "topics": [
               "books",
               "education",
@@ -1126,7 +1126,7 @@
             "open_issues": 53,
             "owner": "danpros",
             "repo": "htmly",
-            "stars": 1360,
+            "stars": 1359,
             "topics": [
               "blog",
               "blog-engine",
@@ -2169,7 +2169,7 @@
             "id": 1295447882,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-04T17:03:11Z",
+            "last_commit": "2026-09-05T16:59:54Z",
             "open_issues": 7,
             "owner": "NAEOS-foundation",
             "repo": "naeos",
@@ -2387,7 +2387,7 @@
             "open_issues": 14,
             "owner": "ariya",
             "repo": "phantomjs",
-            "stars": 29439,
+            "stars": 29435,
             "topics": [
               "automation",
               "headless",
@@ -2413,7 +2413,7 @@
             "open_issues": 127,
             "owner": "giscus",
             "repo": "giscus",
-            "stars": 12076,
+            "stars": 12079,
             "topics": [
               "blog",
               "comment-system",
@@ -2479,7 +2479,7 @@
             "open_issues": 151,
             "owner": "jquery",
             "repo": "esprima",
-            "stars": 7139,
+            "stars": 7140,
             "topics": [
               "ast",
               "ecmascript",
@@ -5625,7 +5625,7 @@
             "open_issues": 2,
             "owner": "ruyynn",
             "repo": "GhostIntel",
-            "stars": 156,
+            "stars": 157,
             "topics": [
               "awesome-osint",
               "cybersecurity",
@@ -5780,10 +5780,10 @@
             "language": "HTML",
             "license": null,
             "last_commit": "2025-12-19T06:16:49Z",
-            "open_issues": 351,
+            "open_issues": 353,
             "owner": "thedev-id",
             "repo": "thedev.id",
-            "stars": 1711,
+            "stars": 1713,
             "topics": [
               "developer-tools",
               "dns",
@@ -5814,7 +5814,7 @@
             "open_issues": 1,
             "owner": "ABPindo",
             "repo": "indonesianadblockrules",
-            "stars": 240,
+            "stars": 241,
             "topics": [
               "adblock",
               "adblock-list",
@@ -5988,7 +5988,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T12:10:10.694Z",
+    "last_updated": "2026-09-06T12:24:42.173Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome repository created and contributed by Indonesian people.",
@@ -6000,7 +6000,7 @@
       "open_issues": 9,
       "owner": "GitIndonesia",
       "repo": "awesome-indonesia-repo",
-      "stars": 764,
+      "stars": 763,
       "topics": [
         "awesome-list",
         "hacktoberfest",
