@@ -719,11 +719,11 @@
             "id": 96086769,
             "language": "TypeScript",
             "license": "CC-BY-4.0",
-            "last_commit": "2026-09-01T03:21:01Z",
+            "last_commit": "2026-09-08T12:24:47Z",
             "open_issues": 1,
             "owner": "farizdotid",
             "repo": "DAFTAR-API-LOKAL-INDONESIA",
-            "stars": 5297,
+            "stars": 5298,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -999,10 +999,10 @@
             "language": "Python",
             "license": "CC-BY-4.0",
             "last_commit": "2026-09-06T22:01:27Z",
-            "open_issues": 78,
+            "open_issues": 79,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 396186,
+            "stars": 396252,
             "topics": [
               "books",
               "education",
@@ -1734,7 +1734,7 @@
             "open_issues": 0,
             "owner": "sonnylazuardi",
             "repo": "react-komik",
-            "stars": 374,
+            "stars": 375,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -1886,7 +1886,7 @@
             "open_issues": 117,
             "owner": "go-shiori",
             "repo": "shiori",
-            "stars": 11626,
+            "stars": 11632,
             "topics": [
               "bookmark-manager",
               "command-line",
@@ -1964,7 +1964,7 @@
             "open_issues": 15,
             "owner": "imrenagi",
             "repo": "go-payment",
-            "stars": 404,
+            "stars": 405,
             "topics": [
               "alfamart",
               "bank",
@@ -2169,8 +2169,8 @@
             "id": 1295447882,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-07T12:56:17Z",
-            "open_issues": 9,
+            "last_commit": "2026-09-08T11:51:46Z",
+            "open_issues": 11,
             "owner": "NAEOS-foundation",
             "repo": "naeos",
             "stars": 12,
@@ -2387,7 +2387,7 @@
             "open_issues": 14,
             "owner": "ariya",
             "repo": "phantomjs",
-            "stars": 29438,
+            "stars": 29436,
             "topics": [
               "automation",
               "headless",
@@ -2413,7 +2413,7 @@
             "open_issues": 127,
             "owner": "giscus",
             "repo": "giscus",
-            "stars": 12081,
+            "stars": 12082,
             "topics": [
               "blog",
               "comment-system",
@@ -2479,7 +2479,7 @@
             "open_issues": 151,
             "owner": "jquery",
             "repo": "esprima",
-            "stars": 7140,
+            "stars": 7139,
             "topics": [
               "ast",
               "ecmascript",
@@ -2788,7 +2788,7 @@
             "open_issues": 0,
             "owner": "Kristories",
             "repo": "phunt",
-            "stars": 108,
+            "stars": 107,
             "topics": [
               "command-line",
               "javascript",
@@ -3942,7 +3942,7 @@
             "open_issues": 50,
             "owner": "novalagung",
             "repo": "dasarpemrogramangolang",
-            "stars": 2632,
+            "stars": 2633,
             "topics": [
               "book",
               "ebook",
@@ -4720,7 +4720,7 @@
             "open_issues": 1,
             "owner": "laravolt",
             "repo": "avatar",
-            "stars": 1982,
+            "stars": 1983,
             "topics": [
               "avatar",
               "gravatar",
@@ -4800,7 +4800,7 @@
             "open_issues": 6,
             "owner": "nafiesl",
             "repo": "free-pmo",
-            "stars": 463,
+            "stars": 462,
             "topics": [
               "freelancer",
               "laravel",
@@ -5780,10 +5780,10 @@
             "language": "HTML",
             "license": null,
             "last_commit": "2025-12-19T06:16:49Z",
-            "open_issues": 352,
+            "open_issues": 354,
             "owner": "thedev-id",
             "repo": "thedev.id",
-            "stars": 1715,
+            "stars": 1718,
             "topics": [
               "developer-tools",
               "dns",
@@ -5811,7 +5811,7 @@
             "language": "Adblock Filter List",
             "license": "NOASSERTION",
             "last_commit": "2026-09-04T10:56:17Z",
-            "open_issues": 1,
+            "open_issues": 3,
             "owner": "ABPindo",
             "repo": "indonesianadblockrules",
             "stars": 242,
@@ -5988,7 +5988,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T14:30:37.656Z",
+    "last_updated": "2026-09-08T13:06:49.399Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome repository created and contributed by Indonesian people.",
