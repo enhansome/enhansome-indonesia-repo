@@ -19,7 +19,7 @@
             "open_issues": 140,
             "owner": "zetbaitsu",
             "repo": "Compressor",
-            "stars": 7225,
+            "stars": 7226,
             "topics": [
               "android",
               "android-library",
@@ -692,7 +692,7 @@
             "open_issues": 0,
             "owner": "Kristories",
             "repo": "awesome-guidelines",
-            "stars": 11088,
+            "stars": 11093,
             "topics": [
               "awesome",
               "awesome-guidelines",
@@ -723,7 +723,7 @@
             "open_issues": 1,
             "owner": "farizdotid",
             "repo": "DAFTAR-API-LOKAL-INDONESIA",
-            "stars": 5299,
+            "stars": 5302,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -998,11 +998,11 @@
             "id": 13491895,
             "language": "Python",
             "license": "CC-BY-4.0",
-            "last_commit": "2026-09-06T22:01:27Z",
-            "open_issues": 86,
+            "last_commit": "2026-09-09T20:47:25Z",
+            "open_issues": 82,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 396341,
+            "stars": 396395,
             "topics": [
               "books",
               "education",
@@ -1609,7 +1609,7 @@
             "open_issues": 0,
             "owner": "stisla",
             "repo": "stisla",
-            "stars": 3764,
+            "stars": 3765,
             "topics": [
               "admin",
               "bootstrap",
@@ -1886,7 +1886,7 @@
             "open_issues": 117,
             "owner": "go-shiori",
             "repo": "shiori",
-            "stars": 11633,
+            "stars": 11635,
             "topics": [
               "bookmark-manager",
               "command-line",
@@ -1964,7 +1964,7 @@
             "open_issues": 15,
             "owner": "imrenagi",
             "repo": "go-payment",
-            "stars": 405,
+            "stars": 406,
             "topics": [
               "alfamart",
               "bank",
@@ -2169,7 +2169,7 @@
             "id": 1295447882,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-09T12:08:33Z",
+            "last_commit": "2026-09-10T09:21:13Z",
             "open_issues": 3,
             "owner": "NAEOS-foundation",
             "repo": "naeos",
@@ -2413,7 +2413,7 @@
             "open_issues": 127,
             "owner": "giscus",
             "repo": "giscus",
-            "stars": 12086,
+            "stars": 12090,
             "topics": [
               "blog",
               "comment-system",
@@ -2479,7 +2479,7 @@
             "open_issues": 151,
             "owner": "jquery",
             "repo": "esprima",
-            "stars": 7138,
+            "stars": 7137,
             "topics": [
               "ast",
               "ecmascript",
@@ -3801,7 +3801,7 @@
             "open_issues": 23,
             "owner": "piharpi",
             "repo": "jekyll-klise",
-            "stars": 1063,
+            "stars": 1064,
             "topics": [
               "blog",
               "gh-pages",
@@ -4265,7 +4265,7 @@
             "open_issues": 79,
             "owner": "playsms",
             "repo": "playsms",
-            "stars": 880,
+            "stars": 881,
             "topics": [
               "communication",
               "jasmin",
@@ -5346,7 +5346,7 @@
             "open_issues": 0,
             "owner": "IlhamriSKY",
             "repo": "PDDIKTI-kemdikbud-API",
-            "stars": 122,
+            "stars": 123,
             "topics": [
               "api-wrapper",
               "package",
@@ -5780,10 +5780,10 @@
             "language": "HTML",
             "license": null,
             "last_commit": "2025-12-19T06:16:49Z",
-            "open_issues": 355,
+            "open_issues": 360,
             "owner": "thedev-id",
             "repo": "thedev.id",
-            "stars": 1719,
+            "stars": 1720,
             "topics": [
               "developer-tools",
               "dns",
@@ -5988,7 +5988,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T13:11:58.967Z",
+    "last_updated": "2026-09-10T13:09:45.135Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome repository created and contributed by Indonesian people.",
