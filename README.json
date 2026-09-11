@@ -692,7 +692,7 @@
             "open_issues": 0,
             "owner": "Kristories",
             "repo": "awesome-guidelines",
-            "stars": 11093,
+            "stars": 11094,
             "topics": [
               "awesome",
               "awesome-guidelines",
@@ -723,7 +723,7 @@
             "open_issues": 1,
             "owner": "farizdotid",
             "repo": "DAFTAR-API-LOKAL-INDONESIA",
-            "stars": 5302,
+            "stars": 5304,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -998,11 +998,11 @@
             "id": 13491895,
             "language": "Python",
             "license": "CC-BY-4.0",
-            "last_commit": "2026-09-09T20:47:25Z",
-            "open_issues": 82,
+            "last_commit": "2026-09-10T16:15:02Z",
+            "open_issues": 84,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 396395,
+            "stars": 396515,
             "topics": [
               "books",
               "education",
@@ -1126,7 +1126,7 @@
             "open_issues": 53,
             "owner": "danpros",
             "repo": "htmly",
-            "stars": 1361,
+            "stars": 1362,
             "topics": [
               "blog",
               "blog-engine",
@@ -1658,7 +1658,7 @@
             "open_issues": 16,
             "owner": "zuramai",
             "repo": "mazer",
-            "stars": 3099,
+            "stars": 3100,
             "topics": [
               "admin-dashboard",
               "bootstrap",
@@ -2169,7 +2169,7 @@
             "id": 1295447882,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-10T09:21:13Z",
+            "last_commit": "2026-09-11T10:20:01Z",
             "open_issues": 3,
             "owner": "NAEOS-foundation",
             "repo": "naeos",
@@ -2387,7 +2387,7 @@
             "open_issues": 14,
             "owner": "ariya",
             "repo": "phantomjs",
-            "stars": 29437,
+            "stars": 29440,
             "topics": [
               "automation",
               "headless",
@@ -2413,7 +2413,7 @@
             "open_issues": 127,
             "owner": "giscus",
             "repo": "giscus",
-            "stars": 12090,
+            "stars": 12094,
             "topics": [
               "blog",
               "comment-system",
@@ -4351,11 +4351,11 @@
             "id": 161379866,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-08-02T19:02:03Z",
+            "last_commit": "2026-09-11T12:55:38Z",
             "open_issues": 11,
             "owner": "lintangtimur",
             "repo": "ovoid",
-            "stars": 166,
+            "stars": 167,
             "topics": [
               "api",
               "indonesia",
@@ -5783,7 +5783,7 @@
             "open_issues": 360,
             "owner": "thedev-id",
             "repo": "thedev.id",
-            "stars": 1720,
+            "stars": 1722,
             "topics": [
               "developer-tools",
               "dns",
@@ -5810,7 +5810,7 @@
             "id": 32196209,
             "language": "Adblock Filter List",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-09T11:58:57Z",
+            "last_commit": "2026-09-11T09:24:02Z",
             "open_issues": 1,
             "owner": "ABPindo",
             "repo": "indonesianadblockrules",
@@ -5988,7 +5988,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T13:09:45.135Z",
+    "last_updated": "2026-09-11T13:03:40.873Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome repository created and contributed by Indonesian people.",
