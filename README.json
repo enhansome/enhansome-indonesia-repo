@@ -19,7 +19,7 @@
             "open_issues": 140,
             "owner": "zetbaitsu",
             "repo": "Compressor",
-            "stars": 7226,
+            "stars": 7227,
             "topics": [
               "android",
               "android-library",
@@ -692,7 +692,7 @@
             "open_issues": 0,
             "owner": "Kristories",
             "repo": "awesome-guidelines",
-            "stars": 11094,
+            "stars": 11096,
             "topics": [
               "awesome",
               "awesome-guidelines",
@@ -999,10 +999,10 @@
             "language": "Python",
             "license": "CC-BY-4.0",
             "last_commit": "2026-09-10T16:15:02Z",
-            "open_issues": 84,
+            "open_issues": 85,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 396515,
+            "stars": 396586,
             "topics": [
               "books",
               "education",
@@ -1123,7 +1123,7 @@
             "language": "PHP",
             "license": "GPL-2.0",
             "last_commit": "2026-01-25T01:00:57Z",
-            "open_issues": 53,
+            "open_issues": 54,
             "owner": "danpros",
             "repo": "htmly",
             "stars": 1362,
@@ -1609,7 +1609,7 @@
             "open_issues": 0,
             "owner": "stisla",
             "repo": "stisla",
-            "stars": 3765,
+            "stars": 3764,
             "topics": [
               "admin",
               "bootstrap",
@@ -1637,7 +1637,7 @@
             "open_issues": 38,
             "owner": "fians",
             "repo": "Waves",
-            "stars": 3462,
+            "stars": 3461,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -1883,10 +1883,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-07-10T06:36:40Z",
-            "open_issues": 117,
+            "open_issues": 118,
             "owner": "go-shiori",
             "repo": "shiori",
-            "stars": 11635,
+            "stars": 11637,
             "topics": [
               "bookmark-manager",
               "command-line",
@@ -2169,8 +2169,8 @@
             "id": 1295447882,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-11T10:20:01Z",
-            "open_issues": 3,
+            "last_commit": "2026-09-12T08:55:20Z",
+            "open_issues": 4,
             "owner": "NAEOS-foundation",
             "repo": "naeos",
             "stars": 12,
@@ -2387,7 +2387,7 @@
             "open_issues": 14,
             "owner": "ariya",
             "repo": "phantomjs",
-            "stars": 29440,
+            "stars": 29441,
             "topics": [
               "automation",
               "headless",
@@ -2413,7 +2413,7 @@
             "open_issues": 127,
             "owner": "giscus",
             "repo": "giscus",
-            "stars": 12094,
+            "stars": 12096,
             "topics": [
               "blog",
               "comment-system",
@@ -2449,7 +2449,7 @@
             "open_issues": 15,
             "owner": "faisalman",
             "repo": "ua-parser-js",
-            "stars": 10187,
+            "stars": 10188,
             "topics": [
               "analytics",
               "bot-detection",
@@ -2479,7 +2479,7 @@
             "open_issues": 151,
             "owner": "jquery",
             "repo": "esprima",
-            "stars": 7137,
+            "stars": 7138,
             "topics": [
               "ast",
               "ecmascript",
@@ -5783,7 +5783,7 @@
             "open_issues": 360,
             "owner": "thedev-id",
             "repo": "thedev.id",
-            "stars": 1722,
+            "stars": 1723,
             "topics": [
               "developer-tools",
               "dns",
@@ -5988,7 +5988,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T13:03:40.873Z",
+    "last_updated": "2026-09-12T12:27:06.335Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome repository created and contributed by Indonesian people.",
