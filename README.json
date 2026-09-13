@@ -19,7 +19,7 @@
             "open_issues": 140,
             "owner": "zetbaitsu",
             "repo": "Compressor",
-            "stars": 7227,
+            "stars": 7226,
             "topics": [
               "android",
               "android-library",
@@ -692,7 +692,7 @@
             "open_issues": 0,
             "owner": "Kristories",
             "repo": "awesome-guidelines",
-            "stars": 11096,
+            "stars": 11098,
             "topics": [
               "awesome",
               "awesome-guidelines",
@@ -821,7 +821,7 @@
             "open_issues": 9,
             "owner": "GitIndonesia",
             "repo": "awesome-indonesia-repo",
-            "stars": 763,
+            "stars": 764,
             "topics": [
               "awesome-list",
               "hacktoberfest",
@@ -998,11 +998,11 @@
             "id": 13491895,
             "language": "Python",
             "license": "CC-BY-4.0",
-            "last_commit": "2026-09-10T16:15:02Z",
-            "open_issues": 85,
+            "last_commit": "2026-09-13T01:04:12Z",
+            "open_issues": 80,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 396586,
+            "stars": 396664,
             "topics": [
               "books",
               "education",
@@ -1658,7 +1658,7 @@
             "open_issues": 16,
             "owner": "zuramai",
             "repo": "mazer",
-            "stars": 3100,
+            "stars": 3102,
             "topics": [
               "admin-dashboard",
               "bootstrap",
@@ -1883,10 +1883,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-07-10T06:36:40Z",
-            "open_issues": 118,
+            "open_issues": 119,
             "owner": "go-shiori",
             "repo": "shiori",
-            "stars": 11637,
+            "stars": 11639,
             "topics": [
               "bookmark-manager",
               "command-line",
@@ -2169,7 +2169,7 @@
             "id": 1295447882,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-12T08:55:20Z",
+            "last_commit": "2026-09-13T10:24:58Z",
             "open_issues": 4,
             "owner": "NAEOS-foundation",
             "repo": "naeos",
@@ -2387,7 +2387,7 @@
             "open_issues": 14,
             "owner": "ariya",
             "repo": "phantomjs",
-            "stars": 29441,
+            "stars": 29436,
             "topics": [
               "automation",
               "headless",
@@ -2413,7 +2413,7 @@
             "open_issues": 127,
             "owner": "giscus",
             "repo": "giscus",
-            "stars": 12096,
+            "stars": 12098,
             "topics": [
               "blog",
               "comment-system",
@@ -2449,7 +2449,7 @@
             "open_issues": 15,
             "owner": "faisalman",
             "repo": "ua-parser-js",
-            "stars": 10188,
+            "stars": 10189,
             "topics": [
               "analytics",
               "bot-detection",
@@ -5780,7 +5780,7 @@
             "language": "HTML",
             "license": null,
             "last_commit": "2025-12-19T06:16:49Z",
-            "open_issues": 360,
+            "open_issues": 362,
             "owner": "thedev-id",
             "repo": "thedev.id",
             "stars": 1723,
@@ -5810,7 +5810,7 @@
             "id": 32196209,
             "language": "Adblock Filter List",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-11T09:24:02Z",
+            "last_commit": "2026-09-13T04:57:05Z",
             "open_issues": 1,
             "owner": "ABPindo",
             "repo": "indonesianadblockrules",
@@ -5988,7 +5988,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T12:27:06.335Z",
+    "last_updated": "2026-09-13T13:29:30.707Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome repository created and contributed by Indonesian people.",
@@ -6000,7 +6000,7 @@
       "open_issues": 9,
       "owner": "GitIndonesia",
       "repo": "awesome-indonesia-repo",
-      "stars": 763,
+      "stars": 764,
       "topics": [
         "awesome-list",
         "hacktoberfest",
