@@ -19,7 +19,7 @@
             "open_issues": 140,
             "owner": "zetbaitsu",
             "repo": "Compressor",
-            "stars": 7226,
+            "stars": 7227,
             "topics": [
               "android",
               "android-library",
@@ -692,7 +692,7 @@
             "open_issues": 0,
             "owner": "Kristories",
             "repo": "awesome-guidelines",
-            "stars": 11098,
+            "stars": 11099,
             "topics": [
               "awesome",
               "awesome-guidelines",
@@ -723,7 +723,7 @@
             "open_issues": 1,
             "owner": "farizdotid",
             "repo": "DAFTAR-API-LOKAL-INDONESIA",
-            "stars": 5304,
+            "stars": 5303,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -998,11 +998,11 @@
             "id": 13491895,
             "language": "Python",
             "license": "CC-BY-4.0",
-            "last_commit": "2026-09-13T01:04:12Z",
+            "last_commit": "2026-09-14T14:39:47Z",
             "open_issues": 80,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 396664,
+            "stars": 396744,
             "topics": [
               "books",
               "education",
@@ -1609,7 +1609,7 @@
             "open_issues": 0,
             "owner": "stisla",
             "repo": "stisla",
-            "stars": 3764,
+            "stars": 3763,
             "topics": [
               "admin",
               "bootstrap",
@@ -1886,7 +1886,7 @@
             "open_issues": 119,
             "owner": "go-shiori",
             "repo": "shiori",
-            "stars": 11639,
+            "stars": 11640,
             "topics": [
               "bookmark-manager",
               "command-line",
@@ -2169,8 +2169,8 @@
             "id": 1295447882,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-13T10:24:58Z",
-            "open_issues": 4,
+            "last_commit": "2026-09-14T12:58:33Z",
+            "open_issues": 14,
             "owner": "NAEOS-foundation",
             "repo": "naeos",
             "stars": 12,
@@ -2413,7 +2413,7 @@
             "open_issues": 127,
             "owner": "giscus",
             "repo": "giscus",
-            "stars": 12098,
+            "stars": 12100,
             "topics": [
               "blog",
               "comment-system",
@@ -4355,7 +4355,7 @@
             "open_issues": 11,
             "owner": "lintangtimur",
             "repo": "ovoid",
-            "stars": 167,
+            "stars": 168,
             "topics": [
               "api",
               "indonesia",
@@ -4716,8 +4716,8 @@
             "id": 44089758,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-08-06T15:54:23Z",
-            "open_issues": 1,
+            "last_commit": "2026-09-14T04:10:01Z",
+            "open_issues": 0,
             "owner": "laravolt",
             "repo": "avatar",
             "stars": 1983,
@@ -4796,7 +4796,7 @@
             "id": 111558421,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-09-04T08:18:53Z",
+            "last_commit": "2026-09-14T02:41:21Z",
             "open_issues": 6,
             "owner": "nafiesl",
             "repo": "free-pmo",
@@ -5988,7 +5988,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T13:29:30.707Z",
+    "last_updated": "2026-09-14T15:18:23.118Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome repository created and contributed by Indonesian people.",
