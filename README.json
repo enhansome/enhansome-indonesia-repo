@@ -692,7 +692,7 @@
             "open_issues": 0,
             "owner": "Kristories",
             "repo": "awesome-guidelines",
-            "stars": 11102,
+            "stars": 11106,
             "topics": [
               "awesome",
               "awesome-guidelines",
@@ -723,7 +723,7 @@
             "open_issues": 1,
             "owner": "farizdotid",
             "repo": "DAFTAR-API-LOKAL-INDONESIA",
-            "stars": 5303,
+            "stars": 5304,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -818,7 +818,7 @@
             "language": "Jupyter Notebook",
             "license": "CC-BY-4.0",
             "last_commit": "2026-08-08T16:59:56Z",
-            "open_issues": 9,
+            "open_issues": 10,
             "owner": "GitIndonesia",
             "repo": "awesome-indonesia-repo",
             "stars": 764,
@@ -847,7 +847,7 @@
             "open_issues": 1,
             "owner": "screetsec",
             "repo": "Cybersecurity-Indonesia",
-            "stars": 395,
+            "stars": 398,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -998,11 +998,11 @@
             "id": 13491895,
             "language": "Python",
             "license": "CC-BY-4.0",
-            "last_commit": "2026-09-14T14:39:47Z",
+            "last_commit": "2026-09-15T15:54:40Z",
             "open_issues": 81,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 396814,
+            "stars": 396950,
             "topics": [
               "books",
               "education",
@@ -1886,7 +1886,7 @@
             "open_issues": 119,
             "owner": "go-shiori",
             "repo": "shiori",
-            "stars": 11642,
+            "stars": 11644,
             "topics": [
               "bookmark-manager",
               "command-line",
@@ -2169,7 +2169,7 @@
             "id": 1295447882,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-15T12:57:31Z",
+            "last_commit": "2026-09-16T11:51:40Z",
             "open_issues": 6,
             "owner": "NAEOS-foundation",
             "repo": "naeos",
@@ -2387,7 +2387,7 @@
             "open_issues": 14,
             "owner": "ariya",
             "repo": "phantomjs",
-            "stars": 29435,
+            "stars": 29433,
             "topics": [
               "automation",
               "headless",
@@ -2413,7 +2413,7 @@
             "open_issues": 127,
             "owner": "giscus",
             "repo": "giscus",
-            "stars": 12100,
+            "stars": 12105,
             "topics": [
               "blog",
               "comment-system",
@@ -5346,7 +5346,7 @@
             "open_issues": 0,
             "owner": "IlhamriSKY",
             "repo": "PDDIKTI-kemdikbud-API",
-            "stars": 123,
+            "stars": 124,
             "topics": [
               "api-wrapper",
               "package",
@@ -5780,10 +5780,10 @@
             "language": "HTML",
             "license": null,
             "last_commit": "2025-12-19T06:16:49Z",
-            "open_issues": 363,
+            "open_issues": 368,
             "owner": "thedev-id",
             "repo": "thedev.id",
-            "stars": 1725,
+            "stars": 1726,
             "topics": [
               "developer-tools",
               "dns",
@@ -5988,7 +5988,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T13:55:04.470Z",
+    "last_updated": "2026-09-16T13:47:22.454Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome repository created and contributed by Indonesian people.",
@@ -5997,7 +5997,7 @@
       "language": "Jupyter Notebook",
       "license": "CC-BY-4.0",
       "last_commit": "2026-08-08T16:59:56Z",
-      "open_issues": 9,
+      "open_issues": 10,
       "owner": "GitIndonesia",
       "repo": "awesome-indonesia-repo",
       "stars": 764,
