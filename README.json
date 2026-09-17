@@ -692,7 +692,7 @@
             "open_issues": 0,
             "owner": "Kristories",
             "repo": "awesome-guidelines",
-            "stars": 11106,
+            "stars": 11107,
             "topics": [
               "awesome",
               "awesome-guidelines",
@@ -889,7 +889,7 @@
             "open_issues": 0,
             "owner": "satyawikananda",
             "repo": "awesome-loker-it-indonesia",
-            "stars": 157,
+            "stars": 156,
             "topics": [
               "awesome",
               "indonesia",
@@ -1002,7 +1002,7 @@
             "open_issues": 81,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 396950,
+            "stars": 397034,
             "topics": [
               "books",
               "education",
@@ -1658,7 +1658,7 @@
             "open_issues": 16,
             "owner": "zuramai",
             "repo": "mazer",
-            "stars": 3102,
+            "stars": 3104,
             "topics": [
               "admin-dashboard",
               "bootstrap",
@@ -1886,7 +1886,7 @@
             "open_issues": 119,
             "owner": "go-shiori",
             "repo": "shiori",
-            "stars": 11644,
+            "stars": 11643,
             "topics": [
               "bookmark-manager",
               "command-line",
@@ -2169,7 +2169,7 @@
             "id": 1295447882,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-16T11:51:40Z",
+            "last_commit": "2026-09-17T10:35:05Z",
             "open_issues": 6,
             "owner": "NAEOS-foundation",
             "repo": "naeos",
@@ -2387,7 +2387,7 @@
             "open_issues": 14,
             "owner": "ariya",
             "repo": "phantomjs",
-            "stars": 29433,
+            "stars": 29436,
             "topics": [
               "automation",
               "headless",
@@ -2413,7 +2413,7 @@
             "open_issues": 127,
             "owner": "giscus",
             "repo": "giscus",
-            "stars": 12105,
+            "stars": 12108,
             "topics": [
               "blog",
               "comment-system",
@@ -2446,10 +2446,10 @@
             "language": "JavaScript",
             "license": "AGPL-3.0",
             "last_commit": "2026-09-01T14:34:53Z",
-            "open_issues": 15,
+            "open_issues": 14,
             "owner": "faisalman",
             "repo": "ua-parser-js",
-            "stars": 10190,
+            "stars": 10189,
             "topics": [
               "analytics",
               "bot-detection",
@@ -2843,7 +2843,7 @@
             "id": 499356658,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-08-29T16:05:03Z",
+            "last_commit": "2026-09-17T00:32:02Z",
             "open_issues": 6,
             "owner": "sinkaroid",
             "repo": "jandapress",
@@ -3942,7 +3942,7 @@
             "open_issues": 50,
             "owner": "novalagung",
             "repo": "dasarpemrogramangolang",
-            "stars": 2634,
+            "stars": 2635,
             "topics": [
               "book",
               "ebook",
@@ -5346,7 +5346,7 @@
             "open_issues": 0,
             "owner": "IlhamriSKY",
             "repo": "PDDIKTI-kemdikbud-API",
-            "stars": 124,
+            "stars": 126,
             "topics": [
               "api-wrapper",
               "package",
@@ -5600,7 +5600,7 @@
             "open_issues": 10,
             "owner": "aancw",
             "repo": "Belati",
-            "stars": 567,
+            "stars": 568,
             "topics": [
               "document-scrapper",
               "email-harvesting",
@@ -5625,7 +5625,7 @@
             "open_issues": 2,
             "owner": "ruyynn",
             "repo": "GhostIntel",
-            "stars": 158,
+            "stars": 161,
             "topics": [
               "awesome-osint",
               "cybersecurity",
@@ -5672,7 +5672,7 @@
             "open_issues": 2,
             "owner": "louisowen6",
             "repo": "NLP_bahasa_resources",
-            "stars": 574,
+            "stars": 573,
             "topics": [
               "bahasa-indonesia",
               "corpus",
@@ -5728,7 +5728,7 @@
             "open_issues": 12,
             "owner": "har07",
             "repo": "PySastrawi",
-            "stars": 361,
+            "stars": 362,
             "topics": [
               "nlp-stemming",
               "sastrawi-python"
@@ -5783,7 +5783,7 @@
             "open_issues": 368,
             "owner": "thedev-id",
             "repo": "thedev.id",
-            "stars": 1726,
+            "stars": 1727,
             "topics": [
               "developer-tools",
               "dns",
@@ -5988,7 +5988,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T13:47:22.454Z",
+    "last_updated": "2026-09-17T13:50:04.806Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome repository created and contributed by Indonesian people.",
