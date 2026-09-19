@@ -692,7 +692,7 @@
             "open_issues": 0,
             "owner": "Kristories",
             "repo": "awesome-guidelines",
-            "stars": 11108,
+            "stars": 11111,
             "topics": [
               "awesome",
               "awesome-guidelines",
@@ -723,7 +723,7 @@
             "open_issues": 1,
             "owner": "farizdotid",
             "repo": "DAFTAR-API-LOKAL-INDONESIA",
-            "stars": 5318,
+            "stars": 5328,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -765,7 +765,7 @@
             "open_issues": 1,
             "owner": "hendisantika",
             "repo": "List-All-Programming-Telegram-Group",
-            "stars": 1487,
+            "stars": 1488,
             "topics": [
               "android",
               "group",
@@ -999,10 +999,10 @@
             "language": "Python",
             "license": "CC-BY-4.0",
             "last_commit": "2026-09-15T15:54:40Z",
-            "open_issues": 81,
+            "open_issues": 80,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 397089,
+            "stars": 397202,
             "topics": [
               "books",
               "education",
@@ -1126,7 +1126,7 @@
             "open_issues": 54,
             "owner": "danpros",
             "repo": "htmly",
-            "stars": 1362,
+            "stars": 1363,
             "topics": [
               "blog",
               "blog-engine",
@@ -1886,7 +1886,7 @@
             "open_issues": 119,
             "owner": "go-shiori",
             "repo": "shiori",
-            "stars": 11643,
+            "stars": 11642,
             "topics": [
               "bookmark-manager",
               "command-line",
@@ -2169,8 +2169,8 @@
             "id": 1295447882,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-18T09:55:37Z",
-            "open_issues": 5,
+            "last_commit": "2026-09-19T09:02:53Z",
+            "open_issues": 6,
             "owner": "NAEOS-foundation",
             "repo": "naeos",
             "stars": 12,
@@ -2387,7 +2387,7 @@
             "open_issues": 14,
             "owner": "ariya",
             "repo": "phantomjs",
-            "stars": 29433,
+            "stars": 29434,
             "topics": [
               "automation",
               "headless",
@@ -2449,7 +2449,7 @@
             "open_issues": 14,
             "owner": "faisalman",
             "repo": "ua-parser-js",
-            "stars": 10189,
+            "stars": 10188,
             "topics": [
               "analytics",
               "bot-detection",
@@ -2479,7 +2479,7 @@
             "open_issues": 151,
             "owner": "jquery",
             "repo": "esprima",
-            "stars": 7140,
+            "stars": 7139,
             "topics": [
               "ast",
               "ecmascript",
@@ -3801,7 +3801,7 @@
             "open_issues": 23,
             "owner": "piharpi",
             "repo": "jekyll-klise",
-            "stars": 1064,
+            "stars": 1062,
             "topics": [
               "blog",
               "gh-pages",
@@ -3942,7 +3942,7 @@
             "open_issues": 50,
             "owner": "novalagung",
             "repo": "dasarpemrogramangolang",
-            "stars": 2636,
+            "stars": 2637,
             "topics": [
               "book",
               "ebook",
@@ -4265,7 +4265,7 @@
             "open_issues": 79,
             "owner": "playsms",
             "repo": "playsms",
-            "stars": 882,
+            "stars": 883,
             "topics": [
               "communication",
               "jasmin",
@@ -4747,7 +4747,7 @@
             "open_issues": 760,
             "owner": "crocodic-studio",
             "repo": "crudbooster",
-            "stars": 1763,
+            "stars": 1762,
             "topics": [
               "admin-area",
               "admin-panel",
@@ -5346,7 +5346,7 @@
             "open_issues": 0,
             "owner": "IlhamriSKY",
             "repo": "PDDIKTI-kemdikbud-API",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "api-wrapper",
               "package",
@@ -5780,10 +5780,10 @@
             "language": "HTML",
             "license": null,
             "last_commit": "2025-12-19T06:16:49Z",
-            "open_issues": 369,
+            "open_issues": 371,
             "owner": "thedev-id",
             "repo": "thedev.id",
-            "stars": 1729,
+            "stars": 1734,
             "topics": [
               "developer-tools",
               "dns",
@@ -5810,7 +5810,7 @@
             "id": 32196209,
             "language": "Adblock Filter List",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-15T04:14:05Z",
+            "last_commit": "2026-09-19T09:45:27Z",
             "open_issues": 1,
             "owner": "ABPindo",
             "repo": "indonesianadblockrules",
@@ -5988,7 +5988,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T13:12:05.003Z",
+    "last_updated": "2026-09-19T12:43:28.160Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome repository created and contributed by Indonesian people.",
