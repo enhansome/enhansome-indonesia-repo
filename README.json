@@ -688,11 +688,11 @@
             "id": 97054975,
             "language": "JavaScript",
             "license": "CC0-1.0",
-            "last_commit": "2026-05-28T02:14:37Z",
-            "open_issues": 1,
+            "last_commit": "2026-09-28T05:01:18Z",
+            "open_issues": 0,
             "owner": "Kristories",
             "repo": "awesome-guidelines",
-            "stars": 11129,
+            "stars": 11136,
             "topics": [
               "awesome",
               "awesome-guidelines",
@@ -723,7 +723,7 @@
             "open_issues": 2,
             "owner": "farizdotid",
             "repo": "DAFTAR-API-LOKAL-INDONESIA",
-            "stars": 5329,
+            "stars": 5330,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -765,7 +765,7 @@
             "open_issues": 1,
             "owner": "hendisantika",
             "repo": "List-All-Programming-Telegram-Group",
-            "stars": 1490,
+            "stars": 1491,
             "topics": [
               "android",
               "group",
@@ -847,7 +847,7 @@
             "open_issues": 1,
             "owner": "screetsec",
             "repo": "Cybersecurity-Indonesia",
-            "stars": 405,
+            "stars": 406,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -999,10 +999,10 @@
             "language": "Python",
             "license": "CC-BY-4.0",
             "last_commit": "2026-09-24T12:26:41Z",
-            "open_issues": 86,
+            "open_issues": 91,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 397938,
+            "stars": 398069,
             "topics": [
               "books",
               "education",
@@ -1126,7 +1126,7 @@
             "open_issues": 54,
             "owner": "danpros",
             "repo": "htmly",
-            "stars": 1363,
+            "stars": 1364,
             "topics": [
               "blog",
               "blog-engine",
@@ -1886,7 +1886,7 @@
             "open_issues": 119,
             "owner": "go-shiori",
             "repo": "shiori",
-            "stars": 11653,
+            "stars": 11654,
             "topics": [
               "bookmark-manager",
               "command-line",
@@ -2169,8 +2169,8 @@
             "id": 1295447882,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-27T14:20:42Z",
-            "open_issues": 51,
+            "last_commit": "2026-09-28T16:58:28Z",
+            "open_issues": 46,
             "owner": "NAEOS-foundation",
             "repo": "naeos",
             "stars": 11,
@@ -2387,7 +2387,7 @@
             "open_issues": 14,
             "owner": "ariya",
             "repo": "phantomjs",
-            "stars": 29437,
+            "stars": 29436,
             "topics": [
               "automation",
               "headless",
@@ -2413,7 +2413,7 @@
             "open_issues": 127,
             "owner": "giscus",
             "repo": "giscus",
-            "stars": 12121,
+            "stars": 12127,
             "topics": [
               "blog",
               "comment-system",
@@ -2445,11 +2445,11 @@
             "id": 3320710,
             "language": "JavaScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-23T14:47:41Z",
+            "last_commit": "2026-09-28T13:38:17Z",
             "open_issues": 15,
             "owner": "faisalman",
             "repo": "ua-parser-js",
-            "stars": 10189,
+            "stars": 10191,
             "topics": [
               "analytics",
               "bot-detection",
@@ -3942,7 +3942,7 @@
             "open_issues": 50,
             "owner": "novalagung",
             "repo": "dasarpemrogramangolang",
-            "stars": 2635,
+            "stars": 2637,
             "topics": [
               "book",
               "ebook",
@@ -4324,7 +4324,7 @@
             "language": "PHP",
             "license": "GPL-2.0",
             "last_commit": "2024-01-17T09:59:47Z",
-            "open_issues": 37,
+            "open_issues": 38,
             "owner": "laksa19",
             "repo": "mikhmonv3",
             "stars": 470,
@@ -5646,7 +5646,7 @@
             "open_issues": 2,
             "owner": "ruyynn",
             "repo": "GhostIntel",
-            "stars": 165,
+            "stars": 167,
             "topics": [
               "awesome-osint",
               "cybersecurity",
@@ -5801,10 +5801,10 @@
             "language": "HTML",
             "license": null,
             "last_commit": "2025-12-19T06:16:49Z",
-            "open_issues": 386,
+            "open_issues": 385,
             "owner": "thedev-id",
             "repo": "thedev.id",
-            "stars": 1743,
+            "stars": 1745,
             "topics": [
               "developer-tools",
               "dns",
@@ -6009,7 +6009,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T14:21:32.924Z",
+    "last_updated": "2026-09-28T17:05:33.207Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome repository created and contributed by Indonesian people.",
