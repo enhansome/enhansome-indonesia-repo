@@ -692,7 +692,7 @@
             "open_issues": 0,
             "owner": "Kristories",
             "repo": "awesome-guidelines",
-            "stars": 11136,
+            "stars": 11139,
             "topics": [
               "awesome",
               "awesome-guidelines",
@@ -741,10 +741,10 @@
             "language": null,
             "license": "GPL-2.0",
             "last_commit": "2026-04-10T10:44:09Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "sumodirjo",
             "repo": "engineering-blogs",
-            "stars": 1677,
+            "stars": 1678,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -1002,7 +1002,7 @@
             "open_issues": 91,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 398069,
+            "stars": 398145,
             "topics": [
               "books",
               "education",
@@ -1637,7 +1637,7 @@
             "open_issues": 38,
             "owner": "fians",
             "repo": "Waves",
-            "stars": 3460,
+            "stars": 3459,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -1658,7 +1658,7 @@
             "open_issues": 16,
             "owner": "zuramai",
             "repo": "mazer",
-            "stars": 3105,
+            "stars": 3106,
             "topics": [
               "admin-dashboard",
               "bootstrap",
@@ -1886,7 +1886,7 @@
             "open_issues": 119,
             "owner": "go-shiori",
             "repo": "shiori",
-            "stars": 11654,
+            "stars": 11655,
             "topics": [
               "bookmark-manager",
               "command-line",
@@ -2169,8 +2169,8 @@
             "id": 1295447882,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-28T16:58:28Z",
-            "open_issues": 46,
+            "last_commit": "2026-09-29T15:06:56Z",
+            "open_issues": 14,
             "owner": "NAEOS-foundation",
             "repo": "naeos",
             "stars": 11,
@@ -2387,7 +2387,7 @@
             "open_issues": 14,
             "owner": "ariya",
             "repo": "phantomjs",
-            "stars": 29436,
+            "stars": 29438,
             "topics": [
               "automation",
               "headless",
@@ -2413,7 +2413,7 @@
             "open_issues": 127,
             "owner": "giscus",
             "repo": "giscus",
-            "stars": 12127,
+            "stars": 12129,
             "topics": [
               "blog",
               "comment-system",
@@ -2445,11 +2445,11 @@
             "id": 3320710,
             "language": "JavaScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-28T13:38:17Z",
+            "last_commit": "2026-09-29T05:34:12Z",
             "open_issues": 15,
             "owner": "faisalman",
             "repo": "ua-parser-js",
-            "stars": 10191,
+            "stars": 10192,
             "topics": [
               "analytics",
               "bot-detection",
@@ -5801,10 +5801,10 @@
             "language": "HTML",
             "license": null,
             "last_commit": "2025-12-19T06:16:49Z",
-            "open_issues": 385,
+            "open_issues": 386,
             "owner": "thedev-id",
             "repo": "thedev.id",
-            "stars": 1745,
+            "stars": 1746,
             "topics": [
               "developer-tools",
               "dns",
@@ -6009,7 +6009,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T17:05:33.207Z",
+    "last_updated": "2026-09-29T15:10:05.688Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome repository created and contributed by Indonesian people.",
