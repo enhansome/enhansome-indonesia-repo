@@ -692,7 +692,7 @@
             "open_issues": 0,
             "owner": "Kristories",
             "repo": "awesome-guidelines",
-            "stars": 11139,
+            "stars": 11145,
             "topics": [
               "awesome",
               "awesome-guidelines",
@@ -723,7 +723,7 @@
             "open_issues": 2,
             "owner": "farizdotid",
             "repo": "DAFTAR-API-LOKAL-INDONESIA",
-            "stars": 5330,
+            "stars": 5331,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -765,7 +765,7 @@
             "open_issues": 1,
             "owner": "hendisantika",
             "repo": "List-All-Programming-Telegram-Group",
-            "stars": 1491,
+            "stars": 1493,
             "topics": [
               "android",
               "group",
@@ -999,10 +999,10 @@
             "language": "Python",
             "license": "CC-BY-4.0",
             "last_commit": "2026-09-24T12:26:41Z",
-            "open_issues": 91,
+            "open_issues": 94,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 398145,
+            "stars": 398193,
             "topics": [
               "books",
               "education",
@@ -1126,7 +1126,7 @@
             "open_issues": 54,
             "owner": "danpros",
             "repo": "htmly",
-            "stars": 1364,
+            "stars": 1363,
             "topics": [
               "blog",
               "blog-engine",
@@ -1364,7 +1364,7 @@
             "open_issues": 27,
             "owner": "edwardsamuel",
             "repo": "Wilayah-Administratif-Indonesia",
-            "stars": 961,
+            "stars": 959,
             "topics": [
               "dataset",
               "indonesia"
@@ -1436,7 +1436,7 @@
             "open_issues": 3,
             "owner": "kodepandai",
             "repo": "lunox",
-            "stars": 73,
+            "stars": 72,
             "topics": [
               "artisan",
               "laravel",
@@ -1609,7 +1609,7 @@
             "open_issues": 0,
             "owner": "stisla",
             "repo": "stisla",
-            "stars": 3764,
+            "stars": 3763,
             "topics": [
               "admin",
               "bootstrap",
@@ -1713,7 +1713,7 @@
             "open_issues": 5,
             "owner": "fians",
             "repo": "marka",
-            "stars": 1514,
+            "stars": 1513,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -1886,7 +1886,7 @@
             "open_issues": 119,
             "owner": "go-shiori",
             "repo": "shiori",
-            "stars": 11655,
+            "stars": 11657,
             "topics": [
               "bookmark-manager",
               "command-line",
@@ -1964,7 +1964,7 @@
             "open_issues": 15,
             "owner": "imrenagi",
             "repo": "go-payment",
-            "stars": 406,
+            "stars": 405,
             "topics": [
               "alfamart",
               "bank",
@@ -2169,8 +2169,8 @@
             "id": 1295447882,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-29T15:06:56Z",
-            "open_issues": 14,
+            "last_commit": "2026-09-30T14:50:26Z",
+            "open_issues": 16,
             "owner": "NAEOS-foundation",
             "repo": "naeos",
             "stars": 11,
@@ -2440,7 +2440,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "UAParser.js - The Essential Web Development Tool for User-Agent Detection. Detect Browsers, OS, Devices, Bots, Apps, AI Crawlers, and more. Run in Browser (client-side) or Node.js (server-side).",
+            "description": "UAParser.js: The Go-To User-Agent Tool for Teams That Build the Web. Detect Browsers, OS, Devices, Bots, Apps, AI Crawlers, and more. Run in Browser or Node",
             "homepage": "https://uaparser.dev/",
             "id": 3320710,
             "language": "JavaScript",
@@ -2449,7 +2449,7 @@
             "open_issues": 15,
             "owner": "faisalman",
             "repo": "ua-parser-js",
-            "stars": 10192,
+            "stars": 10193,
             "topics": [
               "analytics",
               "bot-detection",
@@ -2479,7 +2479,7 @@
             "open_issues": 151,
             "owner": "jquery",
             "repo": "esprima",
-            "stars": 7139,
+            "stars": 7141,
             "topics": [
               "ast",
               "ecmascript",
@@ -3554,7 +3554,7 @@
             "open_issues": 0,
             "owner": "BosNaufal",
             "repo": "vue-simple-pwa",
-            "stars": 194,
+            "stars": 193,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -4427,7 +4427,7 @@
             "language": "PHP",
             "license": "GPL-3.0",
             "last_commit": "2022-07-05T11:57:32Z",
-            "open_issues": 72,
+            "open_issues": 74,
             "owner": "slims",
             "repo": "slims8_akasia",
             "stars": 89,
@@ -4800,7 +4800,7 @@
             "open_issues": 6,
             "owner": "nafiesl",
             "repo": "free-pmo",
-            "stars": 462,
+            "stars": 461,
             "topics": [
               "freelancer",
               "laravel",
@@ -5801,10 +5801,10 @@
             "language": "HTML",
             "license": null,
             "last_commit": "2025-12-19T06:16:49Z",
-            "open_issues": 386,
+            "open_issues": 388,
             "owner": "thedev-id",
             "repo": "thedev.id",
-            "stars": 1746,
+            "stars": 1748,
             "topics": [
               "developer-tools",
               "dns",
@@ -6009,7 +6009,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T15:10:05.688Z",
+    "last_updated": "2026-09-30T15:25:26.392Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome repository created and contributed by Indonesian people.",
