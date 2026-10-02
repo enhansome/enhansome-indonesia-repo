@@ -19,7 +19,7 @@
             "open_issues": 140,
             "owner": "zetbaitsu",
             "repo": "Compressor",
-            "stars": 7228,
+            "stars": 7227,
             "topics": [
               "android",
               "android-library",
@@ -765,7 +765,7 @@
             "open_issues": 1,
             "owner": "hendisantika",
             "repo": "List-All-Programming-Telegram-Group",
-            "stars": 1493,
+            "stars": 1494,
             "topics": [
               "android",
               "group",
@@ -818,7 +818,7 @@
             "language": "Jupyter Notebook",
             "license": "CC-BY-4.0",
             "last_commit": "2026-09-26T11:40:22Z",
-            "open_issues": 9,
+            "open_issues": 10,
             "owner": "GitIndonesia",
             "repo": "awesome-indonesia-repo",
             "stars": 764,
@@ -999,10 +999,10 @@
             "language": "Python",
             "license": "CC-BY-4.0",
             "last_commit": "2026-09-24T12:26:41Z",
-            "open_issues": 100,
+            "open_issues": 102,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 398258,
+            "stars": 398314,
             "topics": [
               "books",
               "education",
@@ -1152,7 +1152,7 @@
             "id": 19169655,
             "language": "PHP",
             "license": "GPL-3.0",
-            "last_commit": "2026-05-16T05:45:02Z",
+            "last_commit": "2026-10-02T06:54:56Z",
             "open_issues": 0,
             "owner": "mecha-cms",
             "repo": "mecha",
@@ -1609,7 +1609,7 @@
             "open_issues": 0,
             "owner": "stisla",
             "repo": "stisla",
-            "stars": 3763,
+            "stars": 3762,
             "topics": [
               "admin",
               "bootstrap",
@@ -1886,7 +1886,7 @@
             "open_issues": 119,
             "owner": "go-shiori",
             "repo": "shiori",
-            "stars": 11661,
+            "stars": 11662,
             "topics": [
               "bookmark-manager",
               "command-line",
@@ -2169,8 +2169,8 @@
             "id": 1295447882,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T15:27:50Z",
-            "open_issues": 8,
+            "last_commit": "2026-10-02T14:41:31Z",
+            "open_issues": 13,
             "owner": "NAEOS-foundation",
             "repo": "naeos",
             "stars": 11,
@@ -2194,7 +2194,7 @@
             "open_issues": 0,
             "owner": "hiberin",
             "repo": "hibersunda",
-            "stars": 7,
+            "stars": 8,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -2413,7 +2413,7 @@
             "open_issues": 127,
             "owner": "giscus",
             "repo": "giscus",
-            "stars": 12132,
+            "stars": 12138,
             "topics": [
               "blog",
               "comment-system",
@@ -2449,7 +2449,7 @@
             "open_issues": 15,
             "owner": "faisalman",
             "repo": "ua-parser-js",
-            "stars": 10194,
+            "stars": 10197,
             "topics": [
               "analytics",
               "bot-detection",
@@ -2549,7 +2549,7 @@
             "open_issues": 6,
             "owner": "sonnylazuardi",
             "repo": "colorGPT",
-            "stars": 576,
+            "stars": 575,
             "topics": [
               "color",
               "copy",
@@ -2847,7 +2847,7 @@
             "open_issues": 6,
             "owner": "sinkaroid",
             "repo": "jandapress",
-            "stars": 72,
+            "stars": 73,
             "topics": [
               "3hentai",
               "asmhentai",
@@ -5646,7 +5646,7 @@
             "open_issues": 2,
             "owner": "ruyynn",
             "repo": "GhostIntel",
-            "stars": 167,
+            "stars": 168,
             "topics": [
               "awesome-osint",
               "cybersecurity",
@@ -5801,10 +5801,10 @@
             "language": "HTML",
             "license": null,
             "last_commit": "2025-12-19T06:16:49Z",
-            "open_issues": 389,
+            "open_issues": 390,
             "owner": "thedev-id",
             "repo": "thedev.id",
-            "stars": 1749,
+            "stars": 1752,
             "topics": [
               "developer-tools",
               "dns",
@@ -6009,7 +6009,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T15:46:06.762Z",
+    "last_updated": "2026-10-02T15:07:26.348Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome repository created and contributed by Indonesian people.",
@@ -6018,7 +6018,7 @@
       "language": "Jupyter Notebook",
       "license": "CC-BY-4.0",
       "last_commit": "2026-09-26T11:40:22Z",
-      "open_issues": 9,
+      "open_issues": 10,
       "owner": "GitIndonesia",
       "repo": "awesome-indonesia-repo",
       "stars": 764,
