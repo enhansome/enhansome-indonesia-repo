@@ -692,7 +692,7 @@
             "open_issues": 0,
             "owner": "Kristories",
             "repo": "awesome-guidelines",
-            "stars": 11147,
+            "stars": 11148,
             "topics": [
               "awesome",
               "awesome-guidelines",
@@ -802,32 +802,6 @@
             "repo": "awesome-codeigniter",
             "stars": 792,
             "topics": []
-          },
-          "first_seen": "2026-08-28T20:26:53.003Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Indonesia Repo",
-          "description": "A curated list of awesome and amazing repositories created by Indonesians.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A curated list of amazingly awesome repository created and contributed by Indonesian people.",
-            "homepage": null,
-            "id": 52785444,
-            "language": "Jupyter Notebook",
-            "license": "CC-BY-4.0",
-            "last_commit": "2026-09-26T11:40:22Z",
-            "open_issues": 10,
-            "owner": "GitIndonesia",
-            "repo": "awesome-indonesia-repo",
-            "stars": 764,
-            "topics": [
-              "awesome-list",
-              "hacktoberfest",
-              "indonesia",
-              "repository"
-            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -998,11 +972,11 @@
             "id": 13491895,
             "language": "Python",
             "license": "CC-BY-4.0",
-            "last_commit": "2026-09-24T12:26:41Z",
-            "open_issues": 102,
+            "last_commit": "2026-10-02T19:35:16Z",
+            "open_issues": 85,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 398314,
+            "stars": 398351,
             "topics": [
               "books",
               "education",
@@ -1126,7 +1100,7 @@
             "open_issues": 54,
             "owner": "danpros",
             "repo": "htmly",
-            "stars": 1364,
+            "stars": 1363,
             "topics": [
               "blog",
               "blog-engine",
@@ -1153,7 +1127,7 @@
             "language": "PHP",
             "license": "GPL-3.0",
             "last_commit": "2026-10-02T06:54:56Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "mecha-cms",
             "repo": "mecha",
             "stars": 189,
@@ -1637,7 +1611,7 @@
             "open_issues": 38,
             "owner": "fians",
             "repo": "Waves",
-            "stars": 3459,
+            "stars": 3458,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -1886,7 +1860,7 @@
             "open_issues": 119,
             "owner": "go-shiori",
             "repo": "shiori",
-            "stars": 11662,
+            "stars": 11663,
             "topics": [
               "bookmark-manager",
               "command-line",
@@ -2169,8 +2143,8 @@
             "id": 1295447882,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T14:41:31Z",
-            "open_issues": 13,
+            "last_commit": "2026-10-02T15:36:53Z",
+            "open_issues": 14,
             "owner": "NAEOS-foundation",
             "repo": "naeos",
             "stars": 11,
@@ -2413,7 +2387,7 @@
             "open_issues": 127,
             "owner": "giscus",
             "repo": "giscus",
-            "stars": 12138,
+            "stars": 12137,
             "topics": [
               "blog",
               "comment-system",
@@ -2440,7 +2414,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "UAParser.js: The Go-To User-Agent Tool for Teams That Build the Web. Detect Browsers, OS, Devices, Bots, Apps, AI Crawlers, and more. Run in Browser or Node",
+            "description": "UAParser.js: The Essential Web Development Tool for User-Agent Detection. Detect Browsers, OS, Devices, Bots, Apps, AI Crawlers, and more. Run in Browser or Node",
             "homepage": "https://uaparser.dev/",
             "id": 3320710,
             "language": "JavaScript",
@@ -2549,7 +2523,7 @@
             "open_issues": 6,
             "owner": "sonnylazuardi",
             "repo": "colorGPT",
-            "stars": 575,
+            "stars": 574,
             "topics": [
               "color",
               "copy",
@@ -4427,7 +4401,7 @@
             "language": "PHP",
             "license": "GPL-3.0",
             "last_commit": "2022-07-05T11:57:32Z",
-            "open_issues": 72,
+            "open_issues": 76,
             "owner": "slims",
             "repo": "slims8_akasia",
             "stars": 89,
@@ -5646,7 +5620,7 @@
             "open_issues": 2,
             "owner": "ruyynn",
             "repo": "GhostIntel",
-            "stars": 168,
+            "stars": 169,
             "topics": [
               "awesome-osint",
               "cybersecurity",
@@ -5801,10 +5775,10 @@
             "language": "HTML",
             "license": null,
             "last_commit": "2025-12-19T06:16:49Z",
-            "open_issues": 390,
+            "open_issues": 392,
             "owner": "thedev-id",
             "repo": "thedev.id",
-            "stars": 1752,
+            "stars": 1753,
             "topics": [
               "developer-tools",
               "dns",
@@ -5831,11 +5805,11 @@
             "id": 32196209,
             "language": "Adblock Filter List",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-01T03:52:10Z",
+            "last_commit": "2026-10-03T00:01:02Z",
             "open_issues": 0,
             "owner": "ABPindo",
             "repo": "indonesianadblockrules",
-            "stars": 242,
+            "stars": 243,
             "topics": [
               "adblock",
               "adblock-list",
@@ -6009,7 +5983,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T15:07:26.348Z",
+    "last_updated": "2026-10-03T04:50:02.869Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome repository created and contributed by Indonesian people.",
