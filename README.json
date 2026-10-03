@@ -692,7 +692,7 @@
             "open_issues": 0,
             "owner": "Kristories",
             "repo": "awesome-guidelines",
-            "stars": 11148,
+            "stars": 11150,
             "topics": [
               "awesome",
               "awesome-guidelines",
@@ -723,7 +723,7 @@
             "open_issues": 2,
             "owner": "farizdotid",
             "repo": "DAFTAR-API-LOKAL-INDONESIA",
-            "stars": 5331,
+            "stars": 5330,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -973,10 +973,10 @@
             "language": "Python",
             "license": "CC-BY-4.0",
             "last_commit": "2026-10-02T19:35:16Z",
-            "open_issues": 85,
+            "open_issues": 86,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 398351,
+            "stars": 398385,
             "topics": [
               "books",
               "education",
@@ -1126,7 +1126,7 @@
             "id": 19169655,
             "language": "PHP",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-02T06:54:56Z",
+            "last_commit": "2026-10-03T08:54:52Z",
             "open_issues": 1,
             "owner": "mecha-cms",
             "repo": "mecha",
@@ -1632,7 +1632,7 @@
             "open_issues": 16,
             "owner": "zuramai",
             "repo": "mazer",
-            "stars": 3106,
+            "stars": 3107,
             "topics": [
               "admin-dashboard",
               "bootstrap",
@@ -2143,8 +2143,8 @@
             "id": 1295447882,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T15:36:53Z",
-            "open_issues": 14,
+            "last_commit": "2026-10-03T10:39:33Z",
+            "open_issues": 26,
             "owner": "NAEOS-foundation",
             "repo": "naeos",
             "stars": 11,
@@ -2387,7 +2387,7 @@
             "open_issues": 127,
             "owner": "giscus",
             "repo": "giscus",
-            "stars": 12137,
+            "stars": 12138,
             "topics": [
               "blog",
               "comment-system",
@@ -5778,7 +5778,7 @@
             "open_issues": 392,
             "owner": "thedev-id",
             "repo": "thedev.id",
-            "stars": 1753,
+            "stars": 1752,
             "topics": [
               "developer-tools",
               "dns",
@@ -5805,7 +5805,7 @@
             "id": 32196209,
             "language": "Adblock Filter List",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-03T00:01:02Z",
+            "last_commit": "2026-10-03T10:06:00Z",
             "open_issues": 0,
             "owner": "ABPindo",
             "repo": "indonesianadblockrules",
@@ -5983,7 +5983,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:50:02.869Z",
+    "last_updated": "2026-10-03T13:59:25.364Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome repository created and contributed by Indonesian people.",
