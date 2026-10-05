@@ -19,7 +19,7 @@
             "open_issues": 140,
             "owner": "zetbaitsu",
             "repo": "Compressor",
-            "stars": 7227,
+            "stars": 7228,
             "topics": [
               "android",
               "android-library",
@@ -101,7 +101,7 @@
             "open_issues": 1,
             "owner": "sonnylazuardi",
             "repo": "react-native-nike-running",
-            "stars": 687,
+            "stars": 686,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -692,7 +692,7 @@
             "open_issues": 0,
             "owner": "Kristories",
             "repo": "awesome-guidelines",
-            "stars": 11151,
+            "stars": 11152,
             "topics": [
               "awesome",
               "awesome-guidelines",
@@ -723,7 +723,7 @@
             "open_issues": 2,
             "owner": "farizdotid",
             "repo": "DAFTAR-API-LOKAL-INDONESIA",
-            "stars": 5330,
+            "stars": 5329,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -972,11 +972,11 @@
             "id": 13491895,
             "language": "Python",
             "license": "CC-BY-4.0",
-            "last_commit": "2026-10-02T19:35:16Z",
-            "open_issues": 87,
+            "last_commit": "2026-10-05T17:28:36Z",
+            "open_issues": 80,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 398457,
+            "stars": 398529,
             "topics": [
               "books",
               "education",
@@ -1338,7 +1338,7 @@
             "open_issues": 27,
             "owner": "edwardsamuel",
             "repo": "Wilayah-Administratif-Indonesia",
-            "stars": 959,
+            "stars": 960,
             "topics": [
               "dataset",
               "indonesia"
@@ -1663,7 +1663,7 @@
             "open_issues": 90,
             "owner": "refactory-id",
             "repo": "bootstrap-markdown",
-            "stars": 1972,
+            "stars": 1971,
             "topics": [
               "bootstrap-markdown",
               "javascript"
@@ -1857,10 +1857,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-07-10T06:36:40Z",
-            "open_issues": 119,
+            "open_issues": 120,
             "owner": "go-shiori",
             "repo": "shiori",
-            "stars": 11662,
+            "stars": 11661,
             "topics": [
               "bookmark-manager",
               "command-line",
@@ -2143,8 +2143,8 @@
             "id": 1295447882,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-04T14:26:46Z",
-            "open_issues": 17,
+            "last_commit": "2026-10-05T16:38:27Z",
+            "open_issues": 34,
             "owner": "NAEOS-foundation",
             "repo": "naeos",
             "stars": 11,
@@ -2361,7 +2361,7 @@
             "open_issues": 14,
             "owner": "ariya",
             "repo": "phantomjs",
-            "stars": 29439,
+            "stars": 29440,
             "topics": [
               "automation",
               "headless",
@@ -2387,7 +2387,7 @@
             "open_issues": 127,
             "owner": "giscus",
             "repo": "giscus",
-            "stars": 12137,
+            "stars": 12140,
             "topics": [
               "blog",
               "comment-system",
@@ -2662,7 +2662,7 @@
             "open_issues": 28,
             "owner": "kata-ai",
             "repo": "aksara-ui",
-            "stars": 193,
+            "stars": 192,
             "topics": [
               "aksara-ui",
               "component-library",
@@ -2821,7 +2821,7 @@
             "open_issues": 6,
             "owner": "sinkaroid",
             "repo": "jandapress",
-            "stars": 73,
+            "stars": 75,
             "topics": [
               "3hentai",
               "asmhentai",
@@ -5775,10 +5775,10 @@
             "language": "HTML",
             "license": null,
             "last_commit": "2025-12-19T06:16:49Z",
-            "open_issues": 396,
+            "open_issues": 401,
             "owner": "thedev-id",
             "repo": "thedev.id",
-            "stars": 1755,
+            "stars": 1759,
             "topics": [
               "developer-tools",
               "dns",
@@ -5983,7 +5983,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T14:27:50.628Z",
+    "last_updated": "2026-10-05T17:29:28.288Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome repository created and contributed by Indonesian people.",
