@@ -692,7 +692,7 @@
             "open_issues": 0,
             "owner": "Kristories",
             "repo": "awesome-guidelines",
-            "stars": 11153,
+            "stars": 11155,
             "topics": [
               "awesome",
               "awesome-guidelines",
@@ -976,7 +976,7 @@
             "open_issues": 81,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 398580,
+            "stars": 398599,
             "topics": [
               "books",
               "education",
@@ -1100,7 +1100,7 @@
             "open_issues": 54,
             "owner": "danpros",
             "repo": "htmly",
-            "stars": 1363,
+            "stars": 1364,
             "topics": [
               "blog",
               "blog-engine",
@@ -1126,7 +1126,7 @@
             "id": 19169655,
             "language": "PHP",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-03T08:54:52Z",
+            "last_commit": "2026-10-06T14:31:38Z",
             "open_issues": 1,
             "owner": "mecha-cms",
             "repo": "mecha",
@@ -2143,7 +2143,7 @@
             "id": 1295447882,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T09:04:30Z",
+            "last_commit": "2026-10-06T15:22:58Z",
             "open_issues": 32,
             "owner": "NAEOS-foundation",
             "repo": "naeos",
@@ -2361,7 +2361,7 @@
             "open_issues": 14,
             "owner": "ariya",
             "repo": "phantomjs",
-            "stars": 29440,
+            "stars": 29439,
             "topics": [
               "automation",
               "headless",
@@ -2387,7 +2387,7 @@
             "open_issues": 127,
             "owner": "giscus",
             "repo": "giscus",
-            "stars": 12141,
+            "stars": 12140,
             "topics": [
               "blog",
               "comment-system",
@@ -2420,10 +2420,10 @@
             "language": "JavaScript",
             "license": "AGPL-3.0",
             "last_commit": "2026-09-29T05:34:12Z",
-            "open_issues": 15,
+            "open_issues": 16,
             "owner": "faisalman",
             "repo": "ua-parser-js",
-            "stars": 10199,
+            "stars": 10198,
             "topics": [
               "analytics",
               "bot-detection",
@@ -3775,7 +3775,7 @@
             "open_issues": 23,
             "owner": "piharpi",
             "repo": "jekyll-klise",
-            "stars": 1060,
+            "stars": 1058,
             "topics": [
               "blog",
               "gh-pages",
@@ -5775,7 +5775,7 @@
             "language": "HTML",
             "license": null,
             "last_commit": "2025-12-19T06:16:49Z",
-            "open_issues": 401,
+            "open_issues": 404,
             "owner": "thedev-id",
             "repo": "thedev.id",
             "stars": 1759,
@@ -5983,7 +5983,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:38:55.922Z",
+    "last_updated": "2026-10-06T15:29:59.972Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome repository created and contributed by Indonesian people.",
