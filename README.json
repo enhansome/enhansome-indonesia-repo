@@ -101,7 +101,7 @@
             "open_issues": 1,
             "owner": "sonnylazuardi",
             "repo": "react-native-nike-running",
-            "stars": 686,
+            "stars": 687,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -692,7 +692,7 @@
             "open_issues": 0,
             "owner": "Kristories",
             "repo": "awesome-guidelines",
-            "stars": 11152,
+            "stars": 11153,
             "topics": [
               "awesome",
               "awesome-guidelines",
@@ -765,7 +765,7 @@
             "open_issues": 1,
             "owner": "hendisantika",
             "repo": "List-All-Programming-Telegram-Group",
-            "stars": 1494,
+            "stars": 1493,
             "topics": [
               "android",
               "group",
@@ -973,10 +973,10 @@
             "language": "Python",
             "license": "CC-BY-4.0",
             "last_commit": "2026-10-05T17:28:36Z",
-            "open_issues": 80,
+            "open_issues": 81,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 398529,
+            "stars": 398580,
             "topics": [
               "books",
               "education",
@@ -1860,7 +1860,7 @@
             "open_issues": 120,
             "owner": "go-shiori",
             "repo": "shiori",
-            "stars": 11661,
+            "stars": 11662,
             "topics": [
               "bookmark-manager",
               "command-line",
@@ -2143,8 +2143,8 @@
             "id": 1295447882,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-05T16:38:27Z",
-            "open_issues": 34,
+            "last_commit": "2026-10-06T09:04:30Z",
+            "open_issues": 32,
             "owner": "NAEOS-foundation",
             "repo": "naeos",
             "stars": 11,
@@ -2387,7 +2387,7 @@
             "open_issues": 127,
             "owner": "giscus",
             "repo": "giscus",
-            "stars": 12140,
+            "stars": 12141,
             "topics": [
               "blog",
               "comment-system",
@@ -2423,7 +2423,7 @@
             "open_issues": 15,
             "owner": "faisalman",
             "repo": "ua-parser-js",
-            "stars": 10198,
+            "stars": 10199,
             "topics": [
               "analytics",
               "bot-detection",
@@ -2662,7 +2662,7 @@
             "open_issues": 28,
             "owner": "kata-ai",
             "repo": "aksara-ui",
-            "stars": 192,
+            "stars": 193,
             "topics": [
               "aksara-ui",
               "component-library",
@@ -3916,7 +3916,7 @@
             "open_issues": 50,
             "owner": "novalagung",
             "repo": "dasarpemrogramangolang",
-            "stars": 2637,
+            "stars": 2638,
             "topics": [
               "book",
               "ebook",
@@ -4401,7 +4401,7 @@
             "language": "PHP",
             "license": "GPL-3.0",
             "last_commit": "2022-07-05T11:57:32Z",
-            "open_issues": 76,
+            "open_issues": 72,
             "owner": "slims",
             "repo": "slims8_akasia",
             "stars": 89,
@@ -5620,7 +5620,7 @@
             "open_issues": 2,
             "owner": "ruyynn",
             "repo": "GhostIntel",
-            "stars": 170,
+            "stars": 171,
             "topics": [
               "awesome-osint",
               "cybersecurity",
@@ -5667,7 +5667,7 @@
             "open_issues": 2,
             "owner": "louisowen6",
             "repo": "NLP_bahasa_resources",
-            "stars": 575,
+            "stars": 576,
             "topics": [
               "bahasa-indonesia",
               "corpus",
@@ -5983,7 +5983,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T17:29:28.288Z",
+    "last_updated": "2026-10-06T10:38:55.922Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome repository created and contributed by Indonesian people.",
