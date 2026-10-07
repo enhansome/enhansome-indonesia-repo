@@ -73,7 +73,7 @@
             "open_issues": 65,
             "owner": "esafirm",
             "repo": "android-image-picker",
-            "stars": 1140,
+            "stars": 1139,
             "topics": [
               "android",
               "camera",
@@ -692,7 +692,7 @@
             "open_issues": 0,
             "owner": "Kristories",
             "repo": "awesome-guidelines",
-            "stars": 11155,
+            "stars": 11161,
             "topics": [
               "awesome",
               "awesome-guidelines",
@@ -723,7 +723,7 @@
             "open_issues": 2,
             "owner": "farizdotid",
             "repo": "DAFTAR-API-LOKAL-INDONESIA",
-            "stars": 5329,
+            "stars": 5331,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -765,7 +765,7 @@
             "open_issues": 1,
             "owner": "hendisantika",
             "repo": "List-All-Programming-Telegram-Group",
-            "stars": 1493,
+            "stars": 1492,
             "topics": [
               "android",
               "group",
@@ -973,10 +973,10 @@
             "language": "Python",
             "license": "CC-BY-4.0",
             "last_commit": "2026-10-05T17:28:36Z",
-            "open_issues": 81,
+            "open_issues": 82,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 398599,
+            "stars": 398641,
             "topics": [
               "books",
               "education",
@@ -1632,7 +1632,7 @@
             "open_issues": 16,
             "owner": "zuramai",
             "repo": "mazer",
-            "stars": 3107,
+            "stars": 3103,
             "topics": [
               "admin-dashboard",
               "bootstrap",
@@ -1860,7 +1860,7 @@
             "open_issues": 120,
             "owner": "go-shiori",
             "repo": "shiori",
-            "stars": 11662,
+            "stars": 11661,
             "topics": [
               "bookmark-manager",
               "command-line",
@@ -2143,8 +2143,8 @@
             "id": 1295447882,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T15:22:58Z",
-            "open_issues": 32,
+            "last_commit": "2026-10-07T15:50:18Z",
+            "open_issues": 29,
             "owner": "NAEOS-foundation",
             "repo": "naeos",
             "stars": 11,
@@ -2361,7 +2361,7 @@
             "open_issues": 14,
             "owner": "ariya",
             "repo": "phantomjs",
-            "stars": 29439,
+            "stars": 29438,
             "topics": [
               "automation",
               "headless",
@@ -2423,7 +2423,7 @@
             "open_issues": 16,
             "owner": "faisalman",
             "repo": "ua-parser-js",
-            "stars": 10198,
+            "stars": 10197,
             "topics": [
               "analytics",
               "bot-detection",
@@ -3326,7 +3326,7 @@
             "open_issues": 2,
             "owner": "andriawan",
             "repo": "AndKasir",
-            "stars": 48,
+            "stars": 49,
             "topics": [
               "java",
               "kasir",
@@ -3775,7 +3775,7 @@
             "open_issues": 23,
             "owner": "piharpi",
             "repo": "jekyll-klise",
-            "stars": 1058,
+            "stars": 1059,
             "topics": [
               "blog",
               "gh-pages",
@@ -4301,7 +4301,7 @@
             "open_issues": 38,
             "owner": "laksa19",
             "repo": "mikhmonv3",
-            "stars": 470,
+            "stars": 471,
             "topics": [
               "hotspot",
               "hotspot-user-management",
@@ -4694,7 +4694,7 @@
             "open_issues": 0,
             "owner": "laravolt",
             "repo": "avatar",
-            "stars": 1982,
+            "stars": 1983,
             "topics": [
               "avatar",
               "gravatar",
@@ -4718,10 +4718,10 @@
             "language": null,
             "license": null,
             "last_commit": "2025-02-09T05:49:32Z",
-            "open_issues": 760,
+            "open_issues": 756,
             "owner": "crocodic-studio",
             "repo": "crudbooster",
-            "stars": 1760,
+            "stars": 1759,
             "topics": [
               "admin-area",
               "admin-panel",
@@ -5595,7 +5595,7 @@
             "open_issues": 10,
             "owner": "aancw",
             "repo": "Belati",
-            "stars": 570,
+            "stars": 569,
             "topics": [
               "document-scrapper",
               "email-harvesting",
@@ -5620,7 +5620,7 @@
             "open_issues": 2,
             "owner": "ruyynn",
             "repo": "GhostIntel",
-            "stars": 171,
+            "stars": 172,
             "topics": [
               "awesome-osint",
               "cybersecurity",
@@ -5775,10 +5775,10 @@
             "language": "HTML",
             "license": null,
             "last_commit": "2025-12-19T06:16:49Z",
-            "open_issues": 404,
+            "open_issues": 405,
             "owner": "thedev-id",
             "repo": "thedev.id",
-            "stars": 1759,
+            "stars": 1761,
             "topics": [
               "developer-tools",
               "dns",
@@ -5806,7 +5806,7 @@
             "language": "Adblock Filter List",
             "license": "NOASSERTION",
             "last_commit": "2026-10-03T10:06:00Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "ABPindo",
             "repo": "indonesianadblockrules",
             "stars": 243,
@@ -5983,7 +5983,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T15:29:59.972Z",
+    "last_updated": "2026-10-07T15:50:58.490Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome repository created and contributed by Indonesian people.",
