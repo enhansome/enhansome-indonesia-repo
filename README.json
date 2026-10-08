@@ -19,7 +19,7 @@
             "open_issues": 140,
             "owner": "zetbaitsu",
             "repo": "Compressor",
-            "stars": 7228,
+            "stars": 7227,
             "topics": [
               "android",
               "android-library",
@@ -73,7 +73,7 @@
             "open_issues": 65,
             "owner": "esafirm",
             "repo": "android-image-picker",
-            "stars": 1139,
+            "stars": 1140,
             "topics": [
               "android",
               "camera",
@@ -692,7 +692,7 @@
             "open_issues": 0,
             "owner": "Kristories",
             "repo": "awesome-guidelines",
-            "stars": 11161,
+            "stars": 11166,
             "topics": [
               "awesome",
               "awesome-guidelines",
@@ -723,7 +723,7 @@
             "open_issues": 2,
             "owner": "farizdotid",
             "repo": "DAFTAR-API-LOKAL-INDONESIA",
-            "stars": 5331,
+            "stars": 5332,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -973,10 +973,10 @@
             "language": "Python",
             "license": "CC-BY-4.0",
             "last_commit": "2026-10-05T17:28:36Z",
-            "open_issues": 82,
+            "open_issues": 86,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 398641,
+            "stars": 398707,
             "topics": [
               "books",
               "education",
@@ -1583,7 +1583,7 @@
             "open_issues": 0,
             "owner": "stisla",
             "repo": "stisla",
-            "stars": 3762,
+            "stars": 3761,
             "topics": [
               "admin",
               "bootstrap",
@@ -1860,7 +1860,7 @@
             "open_issues": 120,
             "owner": "go-shiori",
             "repo": "shiori",
-            "stars": 11661,
+            "stars": 11664,
             "topics": [
               "bookmark-manager",
               "command-line",
@@ -2143,7 +2143,7 @@
             "id": 1295447882,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-07T15:50:18Z",
+            "last_commit": "2026-10-08T15:42:28Z",
             "open_issues": 29,
             "owner": "NAEOS-foundation",
             "repo": "naeos",
@@ -2387,7 +2387,7 @@
             "open_issues": 127,
             "owner": "giscus",
             "repo": "giscus",
-            "stars": 12140,
+            "stars": 12145,
             "topics": [
               "blog",
               "comment-system",
@@ -2453,7 +2453,7 @@
             "open_issues": 151,
             "owner": "jquery",
             "repo": "esprima",
-            "stars": 7141,
+            "stars": 7142,
             "topics": [
               "ast",
               "ecmascript",
@@ -2960,7 +2960,7 @@
             "open_issues": 1,
             "owner": "drizki",
             "repo": "geografis",
-            "stars": 35,
+            "stars": 34,
             "topics": [
               "geojson-data",
               "indonesia-area",
@@ -4753,7 +4753,7 @@
             "open_issues": 5,
             "owner": "laravolt",
             "repo": "indonesia",
-            "stars": 677,
+            "stars": 678,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -5775,10 +5775,10 @@
             "language": "HTML",
             "license": null,
             "last_commit": "2025-12-19T06:16:49Z",
-            "open_issues": 405,
+            "open_issues": 406,
             "owner": "thedev-id",
             "repo": "thedev.id",
-            "stars": 1761,
+            "stars": 1760,
             "topics": [
               "developer-tools",
               "dns",
@@ -5805,8 +5805,8 @@
             "id": 32196209,
             "language": "Adblock Filter List",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-03T10:06:00Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-08T14:54:10Z",
+            "open_issues": 2,
             "owner": "ABPindo",
             "repo": "indonesianadblockrules",
             "stars": 243,
@@ -5983,7 +5983,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T15:50:58.490Z",
+    "last_updated": "2026-10-08T15:54:39.442Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome repository created and contributed by Indonesian people.",
