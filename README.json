@@ -19,7 +19,7 @@
             "open_issues": 140,
             "owner": "zetbaitsu",
             "repo": "Compressor",
-            "stars": 7225,
+            "stars": 7226,
             "topics": [
               "android",
               "android-library",
@@ -692,7 +692,7 @@
             "open_issues": 0,
             "owner": "Kristories",
             "repo": "awesome-guidelines",
-            "stars": 11168,
+            "stars": 11175,
             "topics": [
               "awesome",
               "awesome-guidelines",
@@ -821,7 +821,7 @@
             "open_issues": 1,
             "owner": "screetsec",
             "repo": "Cybersecurity-Indonesia",
-            "stars": 407,
+            "stars": 408,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -972,11 +972,11 @@
             "id": 13491895,
             "language": "Python",
             "license": "CC-BY-4.0",
-            "last_commit": "2026-10-09T22:57:13Z",
-            "open_issues": 83,
+            "last_commit": "2026-10-12T16:52:07Z",
+            "open_issues": 81,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 398750,
+            "stars": 398846,
             "topics": [
               "books",
               "education",
@@ -1632,7 +1632,7 @@
             "open_issues": 16,
             "owner": "zuramai",
             "repo": "mazer",
-            "stars": 3102,
+            "stars": 3101,
             "topics": [
               "admin-dashboard",
               "bootstrap",
@@ -1856,11 +1856,11 @@
             "id": 118617559,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-11T12:55:02Z",
+            "last_commit": "2026-10-11T16:55:53Z",
             "open_issues": 120,
             "owner": "go-shiori",
             "repo": "shiori",
-            "stars": 11666,
+            "stars": 11670,
             "topics": [
               "bookmark-manager",
               "command-line",
@@ -1912,7 +1912,7 @@
             "open_issues": 0,
             "owner": "novalagung",
             "repo": "gubrak",
-            "stars": 513,
+            "stars": 516,
             "topics": [
               "functional-programming",
               "go",
@@ -2143,8 +2143,8 @@
             "id": 1295447882,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-10T16:21:22Z",
-            "open_issues": 30,
+            "last_commit": "2026-10-12T17:16:31Z",
+            "open_issues": 37,
             "owner": "NAEOS-foundation",
             "repo": "naeos",
             "stars": 11,
@@ -2387,7 +2387,7 @@
             "open_issues": 127,
             "owner": "giscus",
             "repo": "giscus",
-            "stars": 12146,
+            "stars": 12149,
             "topics": [
               "blog",
               "comment-system",
@@ -2423,7 +2423,7 @@
             "open_issues": 17,
             "owner": "faisalman",
             "repo": "ua-parser-js",
-            "stars": 10196,
+            "stars": 10195,
             "topics": [
               "analytics",
               "bot-detection",
@@ -3775,7 +3775,7 @@
             "open_issues": 23,
             "owner": "piharpi",
             "repo": "jekyll-klise",
-            "stars": 1059,
+            "stars": 1060,
             "topics": [
               "blog",
               "gh-pages",
@@ -4239,7 +4239,7 @@
             "open_issues": 79,
             "owner": "playsms",
             "repo": "playsms",
-            "stars": 887,
+            "stars": 888,
             "topics": [
               "communication",
               "jasmin",
@@ -5231,7 +5231,7 @@
             "open_issues": 0,
             "owner": "dikiaap",
             "repo": "minimalist",
-            "stars": 319,
+            "stars": 320,
             "topics": [
               "airline-themes",
               "material-design",
@@ -5620,7 +5620,7 @@
             "open_issues": 2,
             "owner": "ruyynn",
             "repo": "GhostIntel",
-            "stars": 173,
+            "stars": 174,
             "topics": [
               "awesome-osint",
               "cybersecurity",
@@ -5775,10 +5775,10 @@
             "language": "HTML",
             "license": null,
             "last_commit": "2025-12-19T06:16:49Z",
-            "open_issues": 416,
+            "open_issues": 419,
             "owner": "thedev-id",
             "repo": "thedev.id",
-            "stars": 1768,
+            "stars": 1771,
             "topics": [
               "developer-tools",
               "dns",
@@ -5805,7 +5805,7 @@
             "id": 32196209,
             "language": "Adblock Filter List",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-11T14:21:54Z",
+            "last_commit": "2026-10-12T13:41:38Z",
             "open_issues": 1,
             "owner": "ABPindo",
             "repo": "indonesianadblockrules",
@@ -5983,7 +5983,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T15:09:19.857Z",
+    "last_updated": "2026-10-12T18:16:48.538Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome repository created and contributed by Indonesian people.",
