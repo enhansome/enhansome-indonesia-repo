@@ -19,7 +19,7 @@
             "open_issues": 140,
             "owner": "zetbaitsu",
             "repo": "Compressor",
-            "stars": 7226,
+            "stars": 7227,
             "topics": [
               "android",
               "android-library",
@@ -692,7 +692,7 @@
             "open_issues": 0,
             "owner": "Kristories",
             "repo": "awesome-guidelines",
-            "stars": 11175,
+            "stars": 11177,
             "topics": [
               "awesome",
               "awesome-guidelines",
@@ -744,7 +744,7 @@
             "open_issues": 1,
             "owner": "sumodirjo",
             "repo": "engineering-blogs",
-            "stars": 1678,
+            "stars": 1677,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -973,10 +973,10 @@
             "language": "Python",
             "license": "CC-BY-4.0",
             "last_commit": "2026-10-12T16:52:07Z",
-            "open_issues": 81,
+            "open_issues": 83,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 398846,
+            "stars": 398950,
             "topics": [
               "books",
               "education",
@@ -1611,7 +1611,7 @@
             "open_issues": 38,
             "owner": "fians",
             "repo": "Waves",
-            "stars": 3457,
+            "stars": 3456,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -1632,7 +1632,7 @@
             "open_issues": 16,
             "owner": "zuramai",
             "repo": "mazer",
-            "stars": 3101,
+            "stars": 3102,
             "topics": [
               "admin-dashboard",
               "bootstrap",
@@ -1912,7 +1912,7 @@
             "open_issues": 0,
             "owner": "novalagung",
             "repo": "gubrak",
-            "stars": 516,
+            "stars": 517,
             "topics": [
               "functional-programming",
               "go",
@@ -2067,7 +2067,7 @@
             "open_issues": 0,
             "owner": "aldy505",
             "repo": "phc-crypto",
-            "stars": 26,
+            "stars": 27,
             "topics": [
               "argon2",
               "bcrypt",
@@ -2143,8 +2143,8 @@
             "id": 1295447882,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-12T17:16:31Z",
-            "open_issues": 37,
+            "last_commit": "2026-10-13T11:46:47Z",
+            "open_issues": 52,
             "owner": "NAEOS-foundation",
             "repo": "naeos",
             "stars": 11,
@@ -2361,7 +2361,7 @@
             "open_issues": 14,
             "owner": "ariya",
             "repo": "phantomjs",
-            "stars": 29432,
+            "stars": 29431,
             "topics": [
               "automation",
               "headless",
@@ -2387,7 +2387,7 @@
             "open_issues": 127,
             "owner": "giscus",
             "repo": "giscus",
-            "stars": 12149,
+            "stars": 12151,
             "topics": [
               "blog",
               "comment-system",
@@ -2423,7 +2423,7 @@
             "open_issues": 17,
             "owner": "faisalman",
             "repo": "ua-parser-js",
-            "stars": 10195,
+            "stars": 10196,
             "topics": [
               "analytics",
               "bot-detection",
@@ -2711,7 +2711,7 @@
             "open_issues": 1,
             "owner": "tinyhttp",
             "repo": "malibu",
-            "stars": 164,
+            "stars": 165,
             "topics": [
               "csrf",
               "esm",
@@ -2821,7 +2821,7 @@
             "open_issues": 6,
             "owner": "sinkaroid",
             "repo": "jandapress",
-            "stars": 76,
+            "stars": 77,
             "topics": [
               "3hentai",
               "asmhentai",
@@ -3693,7 +3693,7 @@
             "open_issues": 1,
             "owner": "widatama",
             "repo": "salat-time",
-            "stars": 7,
+            "stars": 8,
             "topics": [
               "geolocation",
               "salat",
@@ -3775,7 +3775,7 @@
             "open_issues": 23,
             "owner": "piharpi",
             "repo": "jekyll-klise",
-            "stars": 1060,
+            "stars": 1059,
             "topics": [
               "blog",
               "gh-pages",
@@ -3916,7 +3916,7 @@
             "open_issues": 50,
             "owner": "novalagung",
             "repo": "dasarpemrogramangolang",
-            "stars": 2639,
+            "stars": 2640,
             "topics": [
               "book",
               "ebook",
@@ -4753,7 +4753,7 @@
             "open_issues": 5,
             "owner": "laravolt",
             "repo": "indonesia",
-            "stars": 677,
+            "stars": 678,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -4898,7 +4898,7 @@
             "open_issues": 1,
             "owner": "laravolt",
             "repo": "semantic-form",
-            "stars": 51,
+            "stars": 50,
             "topics": [
               "form-builder",
               "laravel-package",
@@ -5775,10 +5775,10 @@
             "language": "HTML",
             "license": null,
             "last_commit": "2025-12-19T06:16:49Z",
-            "open_issues": 419,
+            "open_issues": 420,
             "owner": "thedev-id",
             "repo": "thedev.id",
-            "stars": 1771,
+            "stars": 1772,
             "topics": [
               "developer-tools",
               "dns",
@@ -5805,8 +5805,8 @@
             "id": 32196209,
             "language": "Adblock Filter List",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-12T13:41:38Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-13T13:54:04Z",
+            "open_issues": 0,
             "owner": "ABPindo",
             "repo": "indonesianadblockrules",
             "stars": 243,
@@ -5983,7 +5983,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T18:16:48.538Z",
+    "last_updated": "2026-10-13T16:30:57.326Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome repository created and contributed by Indonesian people.",
@@ -5992,7 +5992,7 @@
       "language": "Jupyter Notebook",
       "license": "CC-BY-4.0",
       "last_commit": "2026-09-26T11:40:22Z",
-      "open_issues": 10,
+      "open_issues": 11,
       "owner": "GitIndonesia",
       "repo": "awesome-indonesia-repo",
       "stars": 765,
