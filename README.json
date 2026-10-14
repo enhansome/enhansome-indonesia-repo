@@ -101,7 +101,7 @@
             "open_issues": 1,
             "owner": "sonnylazuardi",
             "repo": "react-native-nike-running",
-            "stars": 687,
+            "stars": 689,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -219,7 +219,7 @@
             "open_issues": 1,
             "owner": "sonnylazuardi",
             "repo": "ziliun-react-native",
-            "stars": 282,
+            "stars": 283,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -692,7 +692,7 @@
             "open_issues": 0,
             "owner": "Kristories",
             "repo": "awesome-guidelines",
-            "stars": 11177,
+            "stars": 11181,
             "topics": [
               "awesome",
               "awesome-guidelines",
@@ -723,7 +723,7 @@
             "open_issues": 2,
             "owner": "farizdotid",
             "repo": "DAFTAR-API-LOKAL-INDONESIA",
-            "stars": 5334,
+            "stars": 5336,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -744,7 +744,7 @@
             "open_issues": 1,
             "owner": "sumodirjo",
             "repo": "engineering-blogs",
-            "stars": 1677,
+            "stars": 1678,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -821,7 +821,7 @@
             "open_issues": 1,
             "owner": "screetsec",
             "repo": "Cybersecurity-Indonesia",
-            "stars": 408,
+            "stars": 410,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -973,10 +973,10 @@
             "language": "Python",
             "license": "CC-BY-4.0",
             "last_commit": "2026-10-12T16:52:07Z",
-            "open_issues": 83,
+            "open_issues": 90,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 398950,
+            "stars": 399025,
             "topics": [
               "books",
               "education",
@@ -1632,7 +1632,7 @@
             "open_issues": 16,
             "owner": "zuramai",
             "repo": "mazer",
-            "stars": 3102,
+            "stars": 3103,
             "topics": [
               "admin-dashboard",
               "bootstrap",
@@ -1708,7 +1708,7 @@
             "open_issues": 0,
             "owner": "sonnylazuardi",
             "repo": "react-komik",
-            "stars": 373,
+            "stars": 375,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -1912,7 +1912,7 @@
             "open_issues": 0,
             "owner": "novalagung",
             "repo": "gubrak",
-            "stars": 517,
+            "stars": 519,
             "topics": [
               "functional-programming",
               "go",
@@ -2110,13 +2110,13 @@
           "description": "Convert your excel or excel datasource to json easily.",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "description": "Excel to json so easily, read from local source or remote source",
             "homepage": null,
             "id": 301166851,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2021-08-31T03:56:09Z",
+            "last_commit": "2026-10-14T09:55:36Z",
             "open_issues": 0,
             "owner": "FerdinaKusumah",
             "repo": "excel2json",
@@ -2361,7 +2361,7 @@
             "open_issues": 14,
             "owner": "ariya",
             "repo": "phantomjs",
-            "stars": 29431,
+            "stars": 29432,
             "topics": [
               "automation",
               "headless",
@@ -2387,7 +2387,7 @@
             "open_issues": 127,
             "owner": "giscus",
             "repo": "giscus",
-            "stars": 12151,
+            "stars": 12156,
             "topics": [
               "blog",
               "comment-system",
@@ -2423,7 +2423,7 @@
             "open_issues": 17,
             "owner": "faisalman",
             "repo": "ua-parser-js",
-            "stars": 10196,
+            "stars": 10198,
             "topics": [
               "analytics",
               "bot-detection",
@@ -2453,7 +2453,7 @@
             "open_issues": 151,
             "owner": "jquery",
             "repo": "esprima",
-            "stars": 7141,
+            "stars": 7142,
             "topics": [
               "ast",
               "ecmascript",
@@ -2741,7 +2741,7 @@
             "open_issues": 1,
             "owner": "BosNaufal",
             "repo": "react-simple-pwa",
-            "stars": 110,
+            "stars": 111,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -3775,7 +3775,7 @@
             "open_issues": 23,
             "owner": "piharpi",
             "repo": "jekyll-klise",
-            "stars": 1059,
+            "stars": 1060,
             "topics": [
               "blog",
               "gh-pages",
@@ -4301,7 +4301,7 @@
             "open_issues": 38,
             "owner": "laksa19",
             "repo": "mikhmonv3",
-            "stars": 471,
+            "stars": 470,
             "topics": [
               "hotspot",
               "hotspot-user-management",
@@ -4823,7 +4823,7 @@
             "open_issues": 3,
             "owner": "azishapidin",
             "repo": "indoregion",
-            "stars": 273,
+            "stars": 274,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -5175,7 +5175,7 @@
             "open_issues": 7,
             "owner": "usetania",
             "repo": "tania",
-            "stars": 543,
+            "stars": 544,
             "topics": [
               "agriculture",
               "farm",
@@ -5387,7 +5387,7 @@
             "open_issues": 1,
             "owner": "laymonage",
             "repo": "kbbi-python",
-            "stars": 85,
+            "stars": 86,
             "topics": [
               "indonesian-language",
               "nlp-resources"
@@ -5453,13 +5453,13 @@
           "description": "Simple face recognition with example.",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "description": "Face recognition using python sanic",
             "homepage": null,
             "id": 158088160,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2023-10-03T23:51:01Z",
+            "last_commit": "2026-10-14T09:37:14Z",
             "open_issues": 1,
             "owner": "FerdinaKusumah",
             "repo": "face-recognition-webservice",
@@ -5525,13 +5525,13 @@
           "description": "Convert your excel data as api.",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "description": "Convert your excel as api",
             "homepage": null,
             "id": 251503333,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2023-05-23T04:44:58Z",
+            "last_commit": "2026-10-14T09:42:28Z",
             "open_issues": 2,
             "owner": "FerdinaKusumah",
             "repo": "excel2api",
@@ -5778,7 +5778,7 @@
             "open_issues": 420,
             "owner": "thedev-id",
             "repo": "thedev.id",
-            "stars": 1772,
+            "stars": 1775,
             "topics": [
               "developer-tools",
               "dns",
@@ -5805,7 +5805,7 @@
             "id": 32196209,
             "language": "Adblock Filter List",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-13T13:54:04Z",
+            "last_commit": "2026-10-14T12:35:03Z",
             "open_issues": 0,
             "owner": "ABPindo",
             "repo": "indonesianadblockrules",
@@ -5983,7 +5983,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T16:30:57.326Z",
+    "last_updated": "2026-10-14T14:06:31.563Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome repository created and contributed by Indonesian people.",
