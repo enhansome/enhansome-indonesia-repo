@@ -821,7 +821,7 @@
             "open_issues": 1,
             "owner": "screetsec",
             "repo": "Cybersecurity-Indonesia",
-            "stars": 410,
+            "stars": 426,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -972,11 +972,11 @@
             "id": 13491895,
             "language": "Python",
             "license": "CC-BY-4.0",
-            "last_commit": "2026-10-12T16:52:07Z",
-            "open_issues": 90,
+            "last_commit": "2026-10-14T17:42:57Z",
+            "open_issues": 89,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 399025,
+            "stars": 399097,
             "topics": [
               "books",
               "education",
@@ -1100,7 +1100,7 @@
             "open_issues": 54,
             "owner": "danpros",
             "repo": "htmly",
-            "stars": 1365,
+            "stars": 1364,
             "topics": [
               "blog",
               "blog-engine",
@@ -1583,7 +1583,7 @@
             "open_issues": 0,
             "owner": "stisla",
             "repo": "stisla",
-            "stars": 3760,
+            "stars": 3759,
             "topics": [
               "admin",
               "bootstrap",
@@ -1632,7 +1632,7 @@
             "open_issues": 16,
             "owner": "zuramai",
             "repo": "mazer",
-            "stars": 3103,
+            "stars": 3104,
             "topics": [
               "admin-dashboard",
               "bootstrap",
@@ -1857,10 +1857,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-10-11T16:55:53Z",
-            "open_issues": 120,
+            "open_issues": 121,
             "owner": "go-shiori",
             "repo": "shiori",
-            "stars": 11670,
+            "stars": 11667,
             "topics": [
               "bookmark-manager",
               "command-line",
@@ -2387,7 +2387,7 @@
             "open_issues": 127,
             "owner": "giscus",
             "repo": "giscus",
-            "stars": 12156,
+            "stars": 12160,
             "topics": [
               "blog",
               "comment-system",
@@ -2423,7 +2423,7 @@
             "open_issues": 17,
             "owner": "faisalman",
             "repo": "ua-parser-js",
-            "stars": 10198,
+            "stars": 10199,
             "topics": [
               "analytics",
               "bot-detection",
@@ -2453,7 +2453,7 @@
             "open_issues": 151,
             "owner": "jquery",
             "repo": "esprima",
-            "stars": 7142,
+            "stars": 7141,
             "topics": [
               "ast",
               "ecmascript",
@@ -4694,7 +4694,7 @@
             "open_issues": 0,
             "owner": "laravolt",
             "repo": "avatar",
-            "stars": 1983,
+            "stars": 1984,
             "topics": [
               "avatar",
               "gravatar",
@@ -4753,7 +4753,7 @@
             "open_issues": 5,
             "owner": "laravolt",
             "repo": "indonesia",
-            "stars": 678,
+            "stars": 679,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -4823,7 +4823,7 @@
             "open_issues": 3,
             "owner": "azishapidin",
             "repo": "indoregion",
-            "stars": 274,
+            "stars": 273,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -5775,10 +5775,10 @@
             "language": "HTML",
             "license": null,
             "last_commit": "2025-12-19T06:16:49Z",
-            "open_issues": 420,
+            "open_issues": 421,
             "owner": "thedev-id",
             "repo": "thedev.id",
-            "stars": 1775,
+            "stars": 1777,
             "topics": [
               "developer-tools",
               "dns",
@@ -5805,8 +5805,8 @@
             "id": 32196209,
             "language": "Adblock Filter List",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-14T12:35:03Z",
-            "open_issues": 0,
+            "last_commit": "2026-10-15T03:58:53Z",
+            "open_issues": 1,
             "owner": "ABPindo",
             "repo": "indonesianadblockrules",
             "stars": 243,
@@ -5983,7 +5983,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T14:06:31.563Z",
+    "last_updated": "2026-10-15T13:44:11.038Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome repository created and contributed by Indonesian people.",
