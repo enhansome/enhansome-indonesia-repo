@@ -19,7 +19,7 @@
             "open_issues": 140,
             "owner": "zetbaitsu",
             "repo": "Compressor",
-            "stars": 7226,
+            "stars": 7227,
             "topics": [
               "android",
               "android-library",
@@ -692,7 +692,7 @@
             "open_issues": 0,
             "owner": "Kristories",
             "repo": "awesome-guidelines",
-            "stars": 11194,
+            "stars": 11199,
             "topics": [
               "awesome",
               "awesome-guidelines",
@@ -765,7 +765,7 @@
             "open_issues": 1,
             "owner": "hendisantika",
             "repo": "List-All-Programming-Telegram-Group",
-            "stars": 1493,
+            "stars": 1495,
             "topics": [
               "android",
               "group",
@@ -973,10 +973,10 @@
             "language": "Python",
             "license": "CC-BY-4.0",
             "last_commit": "2026-10-18T00:26:58Z",
-            "open_issues": 94,
+            "open_issues": 96,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 399422,
+            "stars": 399568,
             "topics": [
               "books",
               "education",
@@ -1246,7 +1246,7 @@
             "open_issues": 13,
             "owner": "FiyoCMS",
             "repo": "FiyoCMS",
-            "stars": 11,
+            "stars": 10,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -1338,7 +1338,7 @@
             "open_issues": 26,
             "owner": "edwardsamuel",
             "repo": "Wilayah-Administratif-Indonesia",
-            "stars": 960,
+            "stars": 959,
             "topics": [
               "dataset",
               "indonesia"
@@ -1579,11 +1579,11 @@
             "id": 161147480,
             "language": "CSS",
             "license": "MIT",
-            "last_commit": "2026-07-06T03:02:26Z",
-            "open_issues": 0,
+            "last_commit": "2026-10-19T14:38:22Z",
+            "open_issues": 1,
             "owner": "stisla",
             "repo": "stisla",
-            "stars": 3756,
+            "stars": 3755,
             "topics": [
               "admin",
               "bootstrap",
@@ -1860,7 +1860,7 @@
             "open_issues": 120,
             "owner": "go-shiori",
             "repo": "shiori",
-            "stars": 11669,
+            "stars": 11670,
             "topics": [
               "bookmark-manager",
               "command-line",
@@ -2143,8 +2143,8 @@
             "id": 1295447882,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-18T07:09:17Z",
-            "open_issues": 63,
+            "last_commit": "2026-10-19T12:58:35Z",
+            "open_issues": 57,
             "owner": "NAEOS-foundation",
             "repo": "naeos",
             "stars": 11,
@@ -2361,7 +2361,7 @@
             "open_issues": 14,
             "owner": "ariya",
             "repo": "phantomjs",
-            "stars": 29429,
+            "stars": 29428,
             "topics": [
               "automation",
               "headless",
@@ -2384,10 +2384,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-05-26T22:20:10Z",
-            "open_issues": 127,
+            "open_issues": 129,
             "owner": "giscus",
             "repo": "giscus",
-            "stars": 12163,
+            "stars": 12169,
             "topics": [
               "blog",
               "comment-system",
@@ -2423,7 +2423,7 @@
             "open_issues": 17,
             "owner": "faisalman",
             "repo": "ua-parser-js",
-            "stars": 10203,
+            "stars": 10206,
             "topics": [
               "analytics",
               "bot-detection",
@@ -3916,7 +3916,7 @@
             "open_issues": 50,
             "owner": "novalagung",
             "repo": "dasarpemrogramangolang",
-            "stars": 2641,
+            "stars": 2643,
             "topics": [
               "book",
               "ebook",
@@ -4301,7 +4301,7 @@
             "open_issues": 38,
             "owner": "laksa19",
             "repo": "mikhmonv3",
-            "stars": 472,
+            "stars": 473,
             "topics": [
               "hotspot",
               "hotspot-user-management",
@@ -5620,7 +5620,7 @@
             "open_issues": 2,
             "owner": "ruyynn",
             "repo": "GhostIntel",
-            "stars": 178,
+            "stars": 179,
             "topics": [
               "awesome-osint",
               "cybersecurity",
@@ -5778,7 +5778,7 @@
             "open_issues": 424,
             "owner": "thedev-id",
             "repo": "thedev.id",
-            "stars": 1781,
+            "stars": 1782,
             "topics": [
               "developer-tools",
               "dns",
@@ -5805,11 +5805,11 @@
             "id": 32196209,
             "language": "Adblock Filter List",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-18T12:03:00Z",
+            "last_commit": "2026-10-18T14:36:03Z",
             "open_issues": 0,
             "owner": "ABPindo",
             "repo": "indonesianadblockrules",
-            "stars": 243,
+            "stars": 244,
             "topics": [
               "adblock",
               "adblock-list",
@@ -5983,7 +5983,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T12:49:39.375Z",
+    "last_updated": "2026-10-19T15:55:17.477Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome repository created and contributed by Indonesian people.",
@@ -5995,7 +5995,7 @@
       "open_issues": 12,
       "owner": "GitIndonesia",
       "repo": "awesome-indonesia-repo",
-      "stars": 766,
+      "stars": 768,
       "topics": [
         "awesome-list",
         "hacktoberfest",
