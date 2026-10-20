@@ -19,7 +19,7 @@
             "open_issues": 140,
             "owner": "zetbaitsu",
             "repo": "Compressor",
-            "stars": 7227,
+            "stars": 7226,
             "topics": [
               "android",
               "android-library",
@@ -542,7 +542,7 @@
             "id": 409246851,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-10-10T15:49:45Z",
+            "last_commit": "2026-10-20T04:46:27Z",
             "open_issues": 0,
             "owner": "rh-id",
             "repo": "a-navigator",
@@ -692,7 +692,7 @@
             "open_issues": 0,
             "owner": "Kristories",
             "repo": "awesome-guidelines",
-            "stars": 11199,
+            "stars": 11203,
             "topics": [
               "awesome",
               "awesome-guidelines",
@@ -723,7 +723,7 @@
             "open_issues": 2,
             "owner": "farizdotid",
             "repo": "DAFTAR-API-LOKAL-INDONESIA",
-            "stars": 5338,
+            "stars": 5340,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -765,7 +765,7 @@
             "open_issues": 1,
             "owner": "hendisantika",
             "repo": "List-All-Programming-Telegram-Group",
-            "stars": 1495,
+            "stars": 1496,
             "topics": [
               "android",
               "group",
@@ -972,11 +972,11 @@
             "id": 13491895,
             "language": "Python",
             "license": "CC-BY-4.0",
-            "last_commit": "2026-10-18T00:26:58Z",
-            "open_issues": 96,
+            "last_commit": "2026-10-20T13:00:21Z",
+            "open_issues": 88,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 399568,
+            "stars": 399655,
             "topics": [
               "books",
               "education",
@@ -1100,7 +1100,7 @@
             "open_issues": 54,
             "owner": "danpros",
             "repo": "htmly",
-            "stars": 1364,
+            "stars": 1365,
             "topics": [
               "blog",
               "blog-engine",
@@ -1338,7 +1338,7 @@
             "open_issues": 26,
             "owner": "edwardsamuel",
             "repo": "Wilayah-Administratif-Indonesia",
-            "stars": 959,
+            "stars": 960,
             "topics": [
               "dataset",
               "indonesia"
@@ -1583,7 +1583,7 @@
             "open_issues": 1,
             "owner": "stisla",
             "repo": "stisla",
-            "stars": 3755,
+            "stars": 3756,
             "topics": [
               "admin",
               "bootstrap",
@@ -1611,7 +1611,7 @@
             "open_issues": 38,
             "owner": "fians",
             "repo": "Waves",
-            "stars": 3456,
+            "stars": 3455,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -1632,7 +1632,7 @@
             "open_issues": 16,
             "owner": "zuramai",
             "repo": "mazer",
-            "stars": 3105,
+            "stars": 3106,
             "topics": [
               "admin-dashboard",
               "bootstrap",
@@ -1687,7 +1687,7 @@
             "open_issues": 5,
             "owner": "fians",
             "repo": "marka",
-            "stars": 1514,
+            "stars": 1513,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -1856,11 +1856,11 @@
             "id": 118617559,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-17T07:45:38Z",
-            "open_issues": 120,
+            "last_commit": "2026-10-20T07:24:27Z",
+            "open_issues": 117,
             "owner": "go-shiori",
             "repo": "shiori",
-            "stars": 11670,
+            "stars": 11673,
             "topics": [
               "bookmark-manager",
               "command-line",
@@ -2144,7 +2144,7 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-10-19T12:58:35Z",
-            "open_issues": 57,
+            "open_issues": 58,
             "owner": "NAEOS-foundation",
             "repo": "naeos",
             "stars": 11,
@@ -2283,6 +2283,27 @@
             ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
+        },
+        {
+          "node_type": "item",
+          "title": "NusaIndex",
+          "description": "Validasi, parse, dan format NIK, NPWP, nomor HP, plat, wilayah, libur, dan Rupiah untuk Go dan TypeScript, offline tanpa dependensi.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": "https://nusaindex.haikalmumtaz.com",
+            "id": 1396921457,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-10-15T13:25:16Z",
+            "open_issues": 0,
+            "owner": "haikalmumtaz233",
+            "repo": "nusaindex",
+            "stars": 0,
+            "topics": []
+          },
+          "first_seen": "2026-10-20T13:54:28.851Z"
         }
       ],
       "title": "Go"
@@ -2361,7 +2382,7 @@
             "open_issues": 14,
             "owner": "ariya",
             "repo": "phantomjs",
-            "stars": 29428,
+            "stars": 29427,
             "topics": [
               "automation",
               "headless",
@@ -2387,7 +2408,7 @@
             "open_issues": 129,
             "owner": "giscus",
             "repo": "giscus",
-            "stars": 12169,
+            "stars": 12171,
             "topics": [
               "blog",
               "comment-system",
@@ -2423,7 +2444,7 @@
             "open_issues": 17,
             "owner": "faisalman",
             "repo": "ua-parser-js",
-            "stars": 10206,
+            "stars": 10207,
             "topics": [
               "analytics",
               "bot-detection",
@@ -2453,7 +2474,7 @@
             "open_issues": 151,
             "owner": "jquery",
             "repo": "esprima",
-            "stars": 7140,
+            "stars": 7141,
             "topics": [
               "ast",
               "ecmascript",
@@ -3775,7 +3796,7 @@
             "open_issues": 23,
             "owner": "piharpi",
             "repo": "jekyll-klise",
-            "stars": 1060,
+            "stars": 1061,
             "topics": [
               "blog",
               "gh-pages",
@@ -3916,7 +3937,7 @@
             "open_issues": 50,
             "owner": "novalagung",
             "repo": "dasarpemrogramangolang",
-            "stars": 2643,
+            "stars": 2644,
             "topics": [
               "book",
               "ebook",
@@ -4694,7 +4715,7 @@
             "open_issues": 0,
             "owner": "laravolt",
             "repo": "avatar",
-            "stars": 1984,
+            "stars": 1983,
             "topics": [
               "avatar",
               "gravatar",
@@ -4753,7 +4774,7 @@
             "open_issues": 5,
             "owner": "laravolt",
             "repo": "indonesia",
-            "stars": 679,
+            "stars": 680,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -5100,6 +5121,46 @@
             "topics": []
           },
           "first_seen": "2026-09-26T13:25:44.154Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel Indonesia Territory",
+          "description": "Package Laravel untuk data wilayah Kepmendagri 2025 (provinsi sampai desa, kode pos, koordinat, batas wilayah, pulau); pasang sekali, bisa di-eject tanpa dependensi di production.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Indonesian administrative regions (Kemendagri codes) for Laravel: install once, eject for zero runtime dependency.",
+            "homepage": "https://packagist.org/packages/caturseptian/laravel-indonesia-territory",
+            "id": 292986364,
+            "language": "PHP",
+            "license": "MIT",
+            "last_commit": "2026-10-13T08:07:25Z",
+            "open_issues": 0,
+            "owner": "caturseptian",
+            "repo": "laravel-indonesia-territory",
+            "stars": 0,
+            "topics": [
+              "administrative-regions",
+              "desa",
+              "indonesia",
+              "indonesia-data",
+              "indonesia-region",
+              "kabupaten",
+              "kecamatan",
+              "kelurahan",
+              "kemendagri",
+              "kode-pos",
+              "kode-wilayah",
+              "kodifikasi-wilayah",
+              "kota",
+              "laravel",
+              "laravel-seeder",
+              "php",
+              "provinsi",
+              "wilayah-indonesia"
+            ]
+          },
+          "first_seen": "2026-10-20T13:54:28.851Z"
         }
       ],
       "title": "Laravel"
@@ -5318,6 +5379,32 @@
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Asset Downloader",
+          "description": "Memindai dan mengunduh gambar, sprite, font, audio, dan warna dari halaman web mana pun.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Scan and download sprites, images, fonts, and audio from any web page.",
+            "homepage": "https://ren-zi-fa.github.io/assets-web-downloader/",
+            "id": 1415189260,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-10-20T06:50:41Z",
+            "open_issues": 0,
+            "owner": "ren-zi-fa",
+            "repo": "assets-web-downloader",
+            "stars": 1,
+            "topics": [
+              "chrome-extension",
+              "extension",
+              "extension-chrome",
+              "firefox-addon"
+            ]
+          },
+          "first_seen": "2026-10-20T13:54:28.851Z"
         }
       ],
       "title": "Plugins"
@@ -5775,10 +5862,10 @@
             "language": "HTML",
             "license": null,
             "last_commit": "2025-12-19T06:16:49Z",
-            "open_issues": 424,
+            "open_issues": 427,
             "owner": "thedev-id",
             "repo": "thedev.id",
-            "stars": 1782,
+            "stars": 1785,
             "topics": [
               "developer-tools",
               "dns",
@@ -5805,7 +5892,7 @@
             "id": 32196209,
             "language": "Adblock Filter List",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-18T14:36:03Z",
+            "last_commit": "2026-10-20T12:56:51Z",
             "open_issues": 0,
             "owner": "ABPindo",
             "repo": "indonesianadblockrules",
@@ -5983,7 +6070,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T15:55:17.477Z",
+    "last_updated": "2026-10-20T13:54:28.851Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome repository created and contributed by Indonesian people.",
@@ -5991,8 +6078,8 @@
       "id": 52785444,
       "language": "Jupyter Notebook",
       "license": "CC-BY-4.0",
-      "last_commit": "2026-09-26T11:40:22Z",
-      "open_issues": 12,
+      "last_commit": "2026-10-20T00:12:15Z",
+      "open_issues": 9,
       "owner": "GitIndonesia",
       "repo": "awesome-indonesia-repo",
       "stars": 768,
@@ -6003,7 +6090,7 @@
         "repository"
       ]
     },
-    "original_repository_sha": "ebb8b45f6e307f2710d6d1cf9ae53ee03ff34147",
+    "original_repository_sha": "cd6742b6c2d3197e3eab3e7cb9172f1956c7cc69",
     "enhanced_repository": "enhansome/enhansome-indonesia-repo",
     "enhanced_repository_description": null,
     "title": "Awesome Indonesia Repo with stars"
