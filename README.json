@@ -692,7 +692,7 @@
             "open_issues": 0,
             "owner": "Kristories",
             "repo": "awesome-guidelines",
-            "stars": 11203,
+            "stars": 11205,
             "topics": [
               "awesome",
               "awesome-guidelines",
@@ -973,10 +973,10 @@
             "language": "Python",
             "license": "CC-BY-4.0",
             "last_commit": "2026-10-20T13:00:21Z",
-            "open_issues": 88,
+            "open_issues": 93,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 399655,
+            "stars": 399729,
             "topics": [
               "books",
               "education",
@@ -1100,7 +1100,7 @@
             "open_issues": 54,
             "owner": "danpros",
             "repo": "htmly",
-            "stars": 1365,
+            "stars": 1366,
             "topics": [
               "blog",
               "blog-engine",
@@ -1579,8 +1579,8 @@
             "id": 161147480,
             "language": "CSS",
             "license": "MIT",
-            "last_commit": "2026-10-19T14:38:22Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-21T06:32:10Z",
+            "open_issues": 2,
             "owner": "stisla",
             "repo": "stisla",
             "stars": 3756,
@@ -1663,7 +1663,7 @@
             "open_issues": 90,
             "owner": "refactory-id",
             "repo": "bootstrap-markdown",
-            "stars": 1971,
+            "stars": 1972,
             "topics": [
               "bootstrap-markdown",
               "javascript"
@@ -1860,7 +1860,7 @@
             "open_issues": 117,
             "owner": "go-shiori",
             "repo": "shiori",
-            "stars": 11673,
+            "stars": 11677,
             "topics": [
               "bookmark-manager",
               "command-line",
@@ -2139,16 +2139,30 @@
           "repo_info": {
             "archived": false,
             "description": "The Enterprise AI Engineering Framework for building production-ready software with AI coding agents.",
-            "homepage": "naeos.dev",
+            "homepage": "https://naeos.dev",
             "id": 1295447882,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-19T12:58:35Z",
-            "open_issues": 58,
+            "last_commit": "2026-10-20T20:49:40Z",
+            "open_issues": 53,
             "owner": "NAEOS-foundation",
             "repo": "naeos",
             "stars": 11,
-            "topics": []
+            "topics": [
+              "linux",
+              "linux-kernel",
+              "naeos",
+              "open-source",
+              "open-source-ai",
+              "open-source-intelligence",
+              "open-source-project",
+              "operating-system",
+              "operating-system-kernel",
+              "operating-systems-project",
+              "os-development",
+              "system-programming",
+              "system-programming-control-systems"
+            ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
         },
@@ -2382,7 +2396,7 @@
             "open_issues": 14,
             "owner": "ariya",
             "repo": "phantomjs",
-            "stars": 29427,
+            "stars": 29428,
             "topics": [
               "automation",
               "headless",
@@ -2408,7 +2422,7 @@
             "open_issues": 129,
             "owner": "giscus",
             "repo": "giscus",
-            "stars": 12171,
+            "stars": 12173,
             "topics": [
               "blog",
               "comment-system",
@@ -2444,7 +2458,7 @@
             "open_issues": 17,
             "owner": "faisalman",
             "repo": "ua-parser-js",
-            "stars": 10207,
+            "stars": 10208,
             "topics": [
               "analytics",
               "bot-detection",
@@ -2502,7 +2516,7 @@
             "open_issues": 0,
             "owner": "ariya",
             "repo": "kinetic",
-            "stars": 809,
+            "stars": 808,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -3937,7 +3951,7 @@
             "open_issues": 50,
             "owner": "novalagung",
             "repo": "dasarpemrogramangolang",
-            "stars": 2644,
+            "stars": 2645,
             "topics": [
               "book",
               "ebook",
@@ -5682,7 +5696,7 @@
             "open_issues": 10,
             "owner": "aancw",
             "repo": "Belati",
-            "stars": 569,
+            "stars": 568,
             "topics": [
               "document-scrapper",
               "email-harvesting",
@@ -5810,7 +5824,7 @@
             "open_issues": 12,
             "owner": "har07",
             "repo": "PySastrawi",
-            "stars": 362,
+            "stars": 364,
             "topics": [
               "nlp-stemming",
               "sastrawi-python"
@@ -5862,10 +5876,10 @@
             "language": "HTML",
             "license": null,
             "last_commit": "2025-12-19T06:16:49Z",
-            "open_issues": 427,
+            "open_issues": 428,
             "owner": "thedev-id",
             "repo": "thedev.id",
-            "stars": 1785,
+            "stars": 1786,
             "topics": [
               "developer-tools",
               "dns",
@@ -5892,7 +5906,7 @@
             "id": 32196209,
             "language": "Adblock Filter List",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-20T12:56:51Z",
+            "last_commit": "2026-10-21T14:10:45Z",
             "open_issues": 0,
             "owner": "ABPindo",
             "repo": "indonesianadblockrules",
@@ -6070,7 +6084,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T13:54:28.851Z",
+    "last_updated": "2026-10-21T14:10:52.914Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome repository created and contributed by Indonesian people.",
