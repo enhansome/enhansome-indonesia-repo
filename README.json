@@ -692,7 +692,7 @@
             "open_issues": 0,
             "owner": "Kristories",
             "repo": "awesome-guidelines",
-            "stars": 11205,
+            "stars": 11204,
             "topics": [
               "awesome",
               "awesome-guidelines",
@@ -723,7 +723,7 @@
             "open_issues": 2,
             "owner": "farizdotid",
             "repo": "DAFTAR-API-LOKAL-INDONESIA",
-            "stars": 5340,
+            "stars": 5339,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -973,10 +973,10 @@
             "language": "Python",
             "license": "CC-BY-4.0",
             "last_commit": "2026-10-20T13:00:21Z",
-            "open_issues": 93,
+            "open_issues": 97,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 399729,
+            "stars": 399814,
             "topics": [
               "books",
               "education",
@@ -1100,7 +1100,7 @@
             "open_issues": 54,
             "owner": "danpros",
             "repo": "htmly",
-            "stars": 1366,
+            "stars": 1367,
             "topics": [
               "blog",
               "blog-engine",
@@ -1338,7 +1338,7 @@
             "open_issues": 26,
             "owner": "edwardsamuel",
             "repo": "Wilayah-Administratif-Indonesia",
-            "stars": 960,
+            "stars": 959,
             "topics": [
               "dataset",
               "indonesia"
@@ -1629,10 +1629,10 @@
             "language": "HTML",
             "license": "MIT",
             "last_commit": "2025-08-05T13:45:33Z",
-            "open_issues": 16,
+            "open_issues": 17,
             "owner": "zuramai",
             "repo": "mazer",
-            "stars": 3106,
+            "stars": 3105,
             "topics": [
               "admin-dashboard",
               "bootstrap",
@@ -1687,7 +1687,7 @@
             "open_issues": 5,
             "owner": "fians",
             "repo": "marka",
-            "stars": 1513,
+            "stars": 1512,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -1860,7 +1860,7 @@
             "open_issues": 117,
             "owner": "go-shiori",
             "repo": "shiori",
-            "stars": 11677,
+            "stars": 11679,
             "topics": [
               "bookmark-manager",
               "command-line",
@@ -2310,7 +2310,7 @@
             "id": 1396921457,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-15T13:25:16Z",
+            "last_commit": "2026-10-22T02:17:08Z",
             "open_issues": 0,
             "owner": "haikalmumtaz233",
             "repo": "nusaindex",
@@ -2396,7 +2396,7 @@
             "open_issues": 14,
             "owner": "ariya",
             "repo": "phantomjs",
-            "stars": 29428,
+            "stars": 29427,
             "topics": [
               "automation",
               "headless",
@@ -2422,7 +2422,7 @@
             "open_issues": 129,
             "owner": "giscus",
             "repo": "giscus",
-            "stars": 12173,
+            "stars": 12176,
             "topics": [
               "blog",
               "comment-system",
@@ -2458,7 +2458,7 @@
             "open_issues": 17,
             "owner": "faisalman",
             "repo": "ua-parser-js",
-            "stars": 10208,
+            "stars": 10207,
             "topics": [
               "analytics",
               "bot-detection",
@@ -2488,7 +2488,7 @@
             "open_issues": 151,
             "owner": "jquery",
             "repo": "esprima",
-            "stars": 7141,
+            "stars": 7140,
             "topics": [
               "ast",
               "ecmascript",
@@ -2634,7 +2634,7 @@
             "open_issues": 35,
             "owner": "xsanisty",
             "repo": "calx.js",
-            "stars": 199,
+            "stars": 198,
             "topics": [
               "calculation-form",
               "excel",
@@ -2797,7 +2797,7 @@
             "open_issues": 0,
             "owner": "Kristories",
             "repo": "phunt",
-            "stars": 107,
+            "stars": 106,
             "topics": [
               "command-line",
               "javascript",
@@ -5876,10 +5876,10 @@
             "language": "HTML",
             "license": null,
             "last_commit": "2025-12-19T06:16:49Z",
-            "open_issues": 428,
+            "open_issues": 431,
             "owner": "thedev-id",
             "repo": "thedev.id",
-            "stars": 1786,
+            "stars": 1792,
             "topics": [
               "developer-tools",
               "dns",
@@ -5906,7 +5906,7 @@
             "id": 32196209,
             "language": "Adblock Filter List",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-21T14:10:45Z",
+            "last_commit": "2026-10-22T13:09:03Z",
             "open_issues": 0,
             "owner": "ABPindo",
             "repo": "indonesianadblockrules",
@@ -5941,7 +5941,7 @@
             "open_issues": 26,
             "owner": "rudi-krsoftware",
             "repo": "open-retail",
-            "stars": 196,
+            "stars": 197,
             "topics": [
               "csharp",
               "dapper",
@@ -6053,7 +6053,7 @@
             "open_issues": 0,
             "owner": "tvalentius",
             "repo": "Indonesia-topojson",
-            "stars": 19,
+            "stars": 20,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -6084,7 +6084,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T14:10:52.914Z",
+    "last_updated": "2026-10-22T14:09:09.836Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome repository created and contributed by Indonesian people.",
@@ -6096,7 +6096,7 @@
       "open_issues": 9,
       "owner": "GitIndonesia",
       "repo": "awesome-indonesia-repo",
-      "stars": 768,
+      "stars": 769,
       "topics": [
         "awesome-list",
         "hacktoberfest",
