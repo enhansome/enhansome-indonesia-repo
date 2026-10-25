@@ -19,7 +19,7 @@
             "open_issues": 140,
             "owner": "zetbaitsu",
             "repo": "Compressor",
-            "stars": 7226,
+            "stars": 7228,
             "topics": [
               "android",
               "android-library",
@@ -692,7 +692,7 @@
             "open_issues": 0,
             "owner": "Kristories",
             "repo": "awesome-guidelines",
-            "stars": 11208,
+            "stars": 11214,
             "topics": [
               "awesome",
               "awesome-guidelines",
@@ -723,7 +723,7 @@
             "open_issues": 2,
             "owner": "farizdotid",
             "repo": "DAFTAR-API-LOKAL-INDONESIA",
-            "stars": 5339,
+            "stars": 5340,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -972,11 +972,11 @@
             "id": 13491895,
             "language": "Python",
             "license": "CC-BY-4.0",
-            "last_commit": "2026-10-22T14:45:58Z",
-            "open_issues": 94,
+            "last_commit": "2026-10-25T00:26:40Z",
+            "open_issues": 96,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 399982,
+            "stars": 400054,
             "topics": [
               "books",
               "education",
@@ -1097,7 +1097,7 @@
             "language": "PHP",
             "license": "GPL-2.0",
             "last_commit": "2026-01-25T01:00:57Z",
-            "open_issues": 54,
+            "open_issues": 55,
             "owner": "danpros",
             "repo": "htmly",
             "stars": 1367,
@@ -1126,7 +1126,7 @@
             "id": 19169655,
             "language": "PHP",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-23T15:58:35Z",
+            "last_commit": "2026-10-24T14:06:00Z",
             "open_issues": 1,
             "owner": "mecha-cms",
             "repo": "mecha",
@@ -1583,7 +1583,7 @@
             "open_issues": 2,
             "owner": "stisla",
             "repo": "stisla",
-            "stars": 3756,
+            "stars": 3757,
             "topics": [
               "admin",
               "bootstrap",
@@ -1856,11 +1856,11 @@
             "id": 118617559,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-20T07:24:27Z",
-            "open_issues": 117,
+            "last_commit": "2026-10-24T13:40:56Z",
+            "open_issues": 116,
             "owner": "go-shiori",
             "repo": "shiori",
-            "stars": 11683,
+            "stars": 11684,
             "topics": [
               "bookmark-manager",
               "command-line",
@@ -2143,7 +2143,7 @@
             "id": 1295447882,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-23T17:52:42Z",
+            "last_commit": "2026-10-25T09:57:29Z",
             "open_issues": 55,
             "owner": "NAEOS-foundation",
             "repo": "naeos",
@@ -2396,7 +2396,7 @@
             "open_issues": 14,
             "owner": "ariya",
             "repo": "phantomjs",
-            "stars": 29426,
+            "stars": 29427,
             "topics": [
               "automation",
               "headless",
@@ -2422,7 +2422,7 @@
             "open_issues": 129,
             "owner": "giscus",
             "repo": "giscus",
-            "stars": 12175,
+            "stars": 12176,
             "topics": [
               "blog",
               "comment-system",
@@ -2458,7 +2458,7 @@
             "open_issues": 17,
             "owner": "faisalman",
             "repo": "ua-parser-js",
-            "stars": 10206,
+            "stars": 10208,
             "topics": [
               "analytics",
               "bot-detection",
@@ -3951,7 +3951,7 @@
             "open_issues": 50,
             "owner": "novalagung",
             "repo": "dasarpemrogramangolang",
-            "stars": 2646,
+            "stars": 2647,
             "topics": [
               "book",
               "ebook",
@@ -4271,7 +4271,7 @@
             "language": "PHP",
             "license": "GPL-3.0",
             "last_commit": "2026-07-08T06:32:36Z",
-            "open_issues": 80,
+            "open_issues": 81,
             "owner": "playsms",
             "repo": "playsms",
             "stars": 890,
@@ -4788,7 +4788,7 @@
             "open_issues": 5,
             "owner": "laravolt",
             "repo": "indonesia",
-            "stars": 680,
+            "stars": 681,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -4854,8 +4854,8 @@
             "id": 90970565,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2023-12-05T04:41:11Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-25T09:52:05Z",
+            "open_issues": 0,
             "owner": "azishapidin",
             "repo": "indoregion",
             "stars": 273,
@@ -5406,7 +5406,7 @@
             "id": 1415189260,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-20T06:50:41Z",
+            "last_commit": "2026-10-24T15:24:14Z",
             "open_issues": 0,
             "owner": "ren-zi-fa",
             "repo": "assets-web-downloader",
@@ -5442,7 +5442,7 @@
             "open_issues": 0,
             "owner": "IlhamriSKY",
             "repo": "PDDIKTI-kemdikbud-API",
-            "stars": 127,
+            "stars": 128,
             "topics": [
               "api-wrapper",
               "package",
@@ -5721,7 +5721,7 @@
             "open_issues": 2,
             "owner": "ruyynn",
             "repo": "GhostIntel",
-            "stars": 180,
+            "stars": 181,
             "topics": [
               "awesome-osint",
               "cybersecurity",
@@ -5879,7 +5879,7 @@
             "open_issues": 430,
             "owner": "thedev-id",
             "repo": "thedev.id",
-            "stars": 1793,
+            "stars": 1795,
             "topics": [
               "developer-tools",
               "dns",
@@ -6084,7 +6084,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T12:57:59.302Z",
+    "last_updated": "2026-10-25T13:24:14.052Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome repository created and contributed by Indonesian people.",
