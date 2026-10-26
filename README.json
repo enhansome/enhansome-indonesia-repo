@@ -692,7 +692,7 @@
             "open_issues": 0,
             "owner": "Kristories",
             "repo": "awesome-guidelines",
-            "stars": 11214,
+            "stars": 11223,
             "topics": [
               "awesome",
               "awesome-guidelines",
@@ -723,7 +723,7 @@
             "open_issues": 2,
             "owner": "farizdotid",
             "repo": "DAFTAR-API-LOKAL-INDONESIA",
-            "stars": 5340,
+            "stars": 5341,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -973,10 +973,10 @@
             "language": "Python",
             "license": "CC-BY-4.0",
             "last_commit": "2026-10-25T00:26:40Z",
-            "open_issues": 96,
+            "open_issues": 99,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 400054,
+            "stars": 400170,
             "topics": [
               "books",
               "education",
@@ -1259,40 +1259,6 @@
       "items": [
         {
           "node_type": "item",
-          "title": "BUMI",
-          "description": "Sebuah daftar kurasi dari akun, situs web, atau halaman peduli bumi yang tersebar di internet.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "🌳 Sebuat daftar kurasi dari akun, situs web, atau halaman peduli bumi yang tersebar di internet. 🌲 Selamatkan manusia dari perubahan iklim.",
-            "homepage": null,
-            "id": 298499990,
-            "language": null,
-            "license": "CC0-1.0",
-            "last_commit": "2021-04-18T19:32:38Z",
-            "open_issues": 4,
-            "owner": "Hadaanallah",
-            "repo": "BUMI",
-            "stars": 2,
-            "topics": [
-              "awesome-list",
-              "bumi",
-              "carbon-reduction",
-              "climate-change",
-              "climate-crisis",
-              "curated-list",
-              "iklim",
-              "keberlanjutan",
-              "lingkungan-hidup",
-              "perubahan-iklim",
-              "renewable-energy",
-              "sustainability"
-            ]
-          },
-          "first_seen": "2026-08-28T20:26:53.003Z"
-        },
-        {
-          "node_type": "item",
           "title": "Covid19 Indonesia Speech Recognition",
           "description": "Website for updating the Covid-19 information in Indonesian provinces built with speech recognition in mind.",
           "children": [],
@@ -1312,6 +1278,40 @@
               "climate-change",
               "covid-19",
               "speech-recognition"
+            ]
+          },
+          "first_seen": "2026-08-28T20:26:53.003Z"
+        },
+        {
+          "node_type": "item",
+          "title": "BUMI",
+          "description": "Sebuah daftar kurasi dari akun, situs web, atau halaman peduli bumi yang tersebar di internet.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "🌳 Sebuat daftar kurasi dari akun, situs web, atau halaman peduli bumi yang tersebar di internet. 🌲 Selamatkan manusia dari perubahan iklim.",
+            "homepage": null,
+            "id": 298499990,
+            "language": null,
+            "license": "CC0-1.0",
+            "last_commit": "2021-04-18T19:32:38Z",
+            "open_issues": 4,
+            "owner": "Hadaanallah",
+            "repo": "BUMI",
+            "stars": 1,
+            "topics": [
+              "awesome-list",
+              "bumi",
+              "carbon-reduction",
+              "climate-change",
+              "climate-crisis",
+              "curated-list",
+              "iklim",
+              "keberlanjutan",
+              "lingkungan-hidup",
+              "perubahan-iklim",
+              "renewable-energy",
+              "sustainability"
             ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -1632,7 +1632,7 @@
             "open_issues": 17,
             "owner": "zuramai",
             "repo": "mazer",
-            "stars": 3106,
+            "stars": 3107,
             "topics": [
               "admin-dashboard",
               "bootstrap",
@@ -1857,10 +1857,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-10-24T13:40:56Z",
-            "open_issues": 116,
+            "open_issues": 117,
             "owner": "go-shiori",
             "repo": "shiori",
-            "stars": 11684,
+            "stars": 11685,
             "topics": [
               "bookmark-manager",
               "command-line",
@@ -2143,8 +2143,8 @@
             "id": 1295447882,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-25T09:57:29Z",
-            "open_issues": 55,
+            "last_commit": "2026-10-26T15:12:03Z",
+            "open_issues": 62,
             "owner": "NAEOS-foundation",
             "repo": "naeos",
             "stars": 11,
@@ -2310,7 +2310,7 @@
             "id": 1396921457,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-22T02:17:08Z",
+            "last_commit": "2026-10-26T07:48:42Z",
             "open_issues": 0,
             "owner": "haikalmumtaz233",
             "repo": "nusaindex",
@@ -2396,7 +2396,7 @@
             "open_issues": 14,
             "owner": "ariya",
             "repo": "phantomjs",
-            "stars": 29427,
+            "stars": 29426,
             "topics": [
               "automation",
               "headless",
@@ -2422,7 +2422,7 @@
             "open_issues": 129,
             "owner": "giscus",
             "repo": "giscus",
-            "stars": 12176,
+            "stars": 12183,
             "topics": [
               "blog",
               "comment-system",
@@ -2458,7 +2458,7 @@
             "open_issues": 17,
             "owner": "faisalman",
             "repo": "ua-parser-js",
-            "stars": 10208,
+            "stars": 10207,
             "topics": [
               "analytics",
               "bot-detection",
@@ -3542,7 +3542,7 @@
             "open_issues": 4,
             "owner": "BosNaufal",
             "repo": "vue-autocomplete",
-            "stars": 203,
+            "stars": 202,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -3806,11 +3806,11 @@
             "id": 173528743,
             "language": "SCSS",
             "license": "MIT",
-            "last_commit": "2024-08-05T09:59:27Z",
-            "open_issues": 23,
+            "last_commit": "2026-10-25T16:28:31Z",
+            "open_issues": 19,
             "owner": "piharpi",
             "repo": "jekyll-klise",
-            "stars": 1060,
+            "stars": 1059,
             "topics": [
               "blog",
               "gh-pages",
@@ -3951,7 +3951,7 @@
             "open_issues": 50,
             "owner": "novalagung",
             "repo": "dasarpemrogramangolang",
-            "stars": 2647,
+            "stars": 2648,
             "topics": [
               "book",
               "ebook",
@@ -4364,7 +4364,7 @@
             "open_issues": 12,
             "owner": "lintangtimur",
             "repo": "ovoid",
-            "stars": 169,
+            "stars": 170,
             "topics": [
               "api",
               "indonesia",
@@ -4788,7 +4788,7 @@
             "open_issues": 5,
             "owner": "laravolt",
             "repo": "indonesia",
-            "stars": 681,
+            "stars": 682,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -4958,7 +4958,7 @@
             "open_issues": 0,
             "owner": "rawaludin",
             "repo": "approcket-preproject",
-            "stars": 44,
+            "stars": 43,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -5696,7 +5696,7 @@
             "open_issues": 10,
             "owner": "aancw",
             "repo": "Belati",
-            "stars": 568,
+            "stars": 569,
             "topics": [
               "document-scrapper",
               "email-harvesting",
@@ -5876,10 +5876,10 @@
             "language": "HTML",
             "license": null,
             "last_commit": "2025-12-19T06:16:49Z",
-            "open_issues": 430,
+            "open_issues": 432,
             "owner": "thedev-id",
             "repo": "thedev.id",
-            "stars": 1795,
+            "stars": 1800,
             "topics": [
               "developer-tools",
               "dns",
@@ -5906,7 +5906,7 @@
             "id": 32196209,
             "language": "Adblock Filter List",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-23T22:21:18Z",
+            "last_commit": "2026-10-26T12:02:13Z",
             "open_issues": 0,
             "owner": "ABPindo",
             "repo": "indonesianadblockrules",
@@ -6084,7 +6084,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T13:24:14.052Z",
+    "last_updated": "2026-10-26T15:32:24.227Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome repository created and contributed by Indonesian people.",
@@ -6093,7 +6093,7 @@
       "language": "Jupyter Notebook",
       "license": "CC-BY-4.0",
       "last_commit": "2026-10-20T00:12:15Z",
-      "open_issues": 9,
+      "open_issues": 10,
       "owner": "GitIndonesia",
       "repo": "awesome-indonesia-repo",
       "stars": 769,
