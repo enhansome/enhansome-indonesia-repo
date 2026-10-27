@@ -19,7 +19,7 @@
             "open_issues": 140,
             "owner": "zetbaitsu",
             "repo": "Compressor",
-            "stars": 7228,
+            "stars": 7227,
             "topics": [
               "android",
               "android-library",
@@ -692,7 +692,7 @@
             "open_issues": 0,
             "owner": "Kristories",
             "repo": "awesome-guidelines",
-            "stars": 11223,
+            "stars": 11224,
             "topics": [
               "awesome",
               "awesome-guidelines",
@@ -741,7 +741,7 @@
             "language": null,
             "license": "GPL-2.0",
             "last_commit": "2026-10-11T02:47:52Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "sumodirjo",
             "repo": "engineering-blogs",
             "stars": 1678,
@@ -821,7 +821,7 @@
             "open_issues": 1,
             "owner": "screetsec",
             "repo": "Cybersecurity-Indonesia",
-            "stars": 429,
+            "stars": 430,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -972,11 +972,11 @@
             "id": 13491895,
             "language": "Python",
             "license": "CC-BY-4.0",
-            "last_commit": "2026-10-25T00:26:40Z",
-            "open_issues": 99,
+            "last_commit": "2026-10-26T23:38:37Z",
+            "open_issues": 97,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 400170,
+            "stars": 400276,
             "topics": [
               "books",
               "education",
@@ -1629,7 +1629,7 @@
             "language": "HTML",
             "license": "MIT",
             "last_commit": "2025-08-05T13:45:33Z",
-            "open_issues": 17,
+            "open_issues": 19,
             "owner": "zuramai",
             "repo": "mazer",
             "stars": 3107,
@@ -1856,11 +1856,11 @@
             "id": 118617559,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-24T13:40:56Z",
-            "open_issues": 117,
+            "last_commit": "2026-10-26T17:20:27Z",
+            "open_issues": 116,
             "owner": "go-shiori",
             "repo": "shiori",
-            "stars": 11685,
+            "stars": 11688,
             "topics": [
               "bookmark-manager",
               "command-line",
@@ -1938,7 +1938,7 @@
             "open_issues": 15,
             "owner": "imrenagi",
             "repo": "go-payment",
-            "stars": 406,
+            "stars": 407,
             "topics": [
               "alfamart",
               "bank",
@@ -2143,8 +2143,8 @@
             "id": 1295447882,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-26T15:12:03Z",
-            "open_issues": 62,
+            "last_commit": "2026-10-27T14:36:23Z",
+            "open_issues": 64,
             "owner": "NAEOS-foundation",
             "repo": "naeos",
             "stars": 11,
@@ -2396,7 +2396,7 @@
             "open_issues": 14,
             "owner": "ariya",
             "repo": "phantomjs",
-            "stars": 29426,
+            "stars": 29427,
             "topics": [
               "automation",
               "headless",
@@ -2422,7 +2422,7 @@
             "open_issues": 129,
             "owner": "giscus",
             "repo": "giscus",
-            "stars": 12183,
+            "stars": 12187,
             "topics": [
               "blog",
               "comment-system",
@@ -2458,7 +2458,7 @@
             "open_issues": 17,
             "owner": "faisalman",
             "repo": "ua-parser-js",
-            "stars": 10207,
+            "stars": 10208,
             "topics": [
               "analytics",
               "bot-detection",
@@ -2856,7 +2856,7 @@
             "open_issues": 6,
             "owner": "sinkaroid",
             "repo": "jandapress",
-            "stars": 77,
+            "stars": 76,
             "topics": [
               "3hentai",
               "asmhentai",
@@ -3836,13 +3836,13 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": ":coffee: Free and open-source Jekyll theme",
+            "description": ":coffee: Free and open-source Jekyll theme, aka MEDIUM",
             "homepage": "https://agusmakmun.github.io",
             "id": 56501309,
-            "language": "HTML",
+            "language": "CSS",
             "license": "MIT",
-            "last_commit": "2025-06-02T02:35:58Z",
-            "open_issues": 19,
+            "last_commit": "2026-10-27T14:11:49Z",
+            "open_issues": 14,
             "owner": "agusmakmun",
             "repo": "agusmakmun.github.io",
             "stars": 445,
@@ -3951,7 +3951,7 @@
             "open_issues": 50,
             "owner": "novalagung",
             "repo": "dasarpemrogramangolang",
-            "stars": 2648,
+            "stars": 2649,
             "topics": [
               "book",
               "ebook",
@@ -4215,7 +4215,7 @@
             "open_issues": 0,
             "owner": "dikiaap",
             "repo": "frost-plank-theme",
-            "stars": 47,
+            "stars": 48,
             "topics": [
               "dark-theme",
               "plank",
@@ -4274,7 +4274,7 @@
             "open_issues": 81,
             "owner": "playsms",
             "repo": "playsms",
-            "stars": 890,
+            "stars": 891,
             "topics": [
               "communication",
               "jasmin",
@@ -4958,7 +4958,7 @@
             "open_issues": 0,
             "owner": "rawaludin",
             "repo": "approcket-preproject",
-            "stars": 43,
+            "stars": 42,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -5879,7 +5879,7 @@
             "open_issues": 432,
             "owner": "thedev-id",
             "repo": "thedev.id",
-            "stars": 1800,
+            "stars": 1802,
             "topics": [
               "developer-tools",
               "dns",
@@ -6084,7 +6084,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T15:32:24.227Z",
+    "last_updated": "2026-10-27T15:01:27.886Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome repository created and contributed by Indonesian people.",
