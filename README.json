@@ -19,7 +19,7 @@
             "open_issues": 140,
             "owner": "zetbaitsu",
             "repo": "Compressor",
-            "stars": 7227,
+            "stars": 7228,
             "topics": [
               "android",
               "android-library",
@@ -101,7 +101,7 @@
             "open_issues": 1,
             "owner": "sonnylazuardi",
             "repo": "react-native-nike-running",
-            "stars": 689,
+            "stars": 688,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -692,7 +692,7 @@
             "open_issues": 0,
             "owner": "Kristories",
             "repo": "awesome-guidelines",
-            "stars": 11224,
+            "stars": 11225,
             "topics": [
               "awesome",
               "awesome-guidelines",
@@ -863,7 +863,7 @@
             "open_issues": 0,
             "owner": "satyawikananda",
             "repo": "awesome-loker-it-indonesia",
-            "stars": 156,
+            "stars": 155,
             "topics": [
               "awesome",
               "indonesia",
@@ -972,11 +972,11 @@
             "id": 13491895,
             "language": "Python",
             "license": "CC-BY-4.0",
-            "last_commit": "2026-10-26T23:38:37Z",
-            "open_issues": 97,
+            "last_commit": "2026-10-27T20:40:54Z",
+            "open_issues": 89,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 400276,
+            "stars": 400379,
             "topics": [
               "books",
               "education",
@@ -1338,7 +1338,7 @@
             "open_issues": 26,
             "owner": "edwardsamuel",
             "repo": "Wilayah-Administratif-Indonesia",
-            "stars": 959,
+            "stars": 960,
             "topics": [
               "dataset",
               "indonesia"
@@ -1583,7 +1583,7 @@
             "open_issues": 2,
             "owner": "stisla",
             "repo": "stisla",
-            "stars": 3757,
+            "stars": 3758,
             "topics": [
               "admin",
               "bootstrap",
@@ -1857,7 +1857,7 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-10-26T17:20:27Z",
-            "open_issues": 116,
+            "open_issues": 117,
             "owner": "go-shiori",
             "repo": "shiori",
             "stars": 11688,
@@ -2143,8 +2143,8 @@
             "id": 1295447882,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-27T14:36:23Z",
-            "open_issues": 64,
+            "last_commit": "2026-10-28T08:56:49Z",
+            "open_issues": 65,
             "owner": "NAEOS-foundation",
             "repo": "naeos",
             "stars": 11,
@@ -2396,7 +2396,7 @@
             "open_issues": 14,
             "owner": "ariya",
             "repo": "phantomjs",
-            "stars": 29427,
+            "stars": 29426,
             "topics": [
               "automation",
               "headless",
@@ -2422,7 +2422,7 @@
             "open_issues": 129,
             "owner": "giscus",
             "repo": "giscus",
-            "stars": 12187,
+            "stars": 12188,
             "topics": [
               "blog",
               "comment-system",
@@ -2458,7 +2458,7 @@
             "open_issues": 17,
             "owner": "faisalman",
             "repo": "ua-parser-js",
-            "stars": 10208,
+            "stars": 10209,
             "topics": [
               "analytics",
               "bot-detection",
@@ -2558,7 +2558,7 @@
             "open_issues": 6,
             "owner": "sonnylazuardi",
             "repo": "colorGPT",
-            "stars": 574,
+            "stars": 573,
             "topics": [
               "color",
               "copy",
@@ -2664,7 +2664,7 @@
             "open_issues": 11,
             "owner": "mfcc64",
             "repo": "youtube-musical-spectrum",
-            "stars": 198,
+            "stars": 197,
             "topics": [
               "audio-visualizer",
               "browser-extension",
@@ -2995,7 +2995,7 @@
             "open_issues": 1,
             "owner": "drizki",
             "repo": "geografis",
-            "stars": 34,
+            "stars": 35,
             "topics": [
               "geojson-data",
               "indonesia-area",
@@ -4001,7 +4001,7 @@
             "open_issues": 18,
             "owner": "endymuhardin",
             "repo": "belajarGit",
-            "stars": 179,
+            "stars": 178,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -4274,7 +4274,7 @@
             "open_issues": 81,
             "owner": "playsms",
             "repo": "playsms",
-            "stars": 891,
+            "stars": 892,
             "topics": [
               "communication",
               "jasmin",
@@ -4336,7 +4336,7 @@
             "open_issues": 38,
             "owner": "laksa19",
             "repo": "mikhmonv3",
-            "stars": 474,
+            "stars": 475,
             "topics": [
               "hotspot",
               "hotspot-user-management",
@@ -5876,10 +5876,10 @@
             "language": "HTML",
             "license": null,
             "last_commit": "2025-12-19T06:16:49Z",
-            "open_issues": 432,
+            "open_issues": 434,
             "owner": "thedev-id",
             "repo": "thedev.id",
-            "stars": 1802,
+            "stars": 1803,
             "topics": [
               "developer-tools",
               "dns",
@@ -6084,7 +6084,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T15:01:27.886Z",
+    "last_updated": "2026-10-28T15:32:55.046Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome repository created and contributed by Indonesian people.",
