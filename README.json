@@ -240,7 +240,7 @@
             "open_issues": 24,
             "owner": "danimahardhika",
             "repo": "wallpaperboard",
-            "stars": 252,
+            "stars": 251,
             "topics": [
               "android",
               "android-library",
@@ -692,7 +692,7 @@
             "open_issues": 0,
             "owner": "Kristories",
             "repo": "awesome-guidelines",
-            "stars": 11225,
+            "stars": 11229,
             "topics": [
               "awesome",
               "awesome-guidelines",
@@ -719,11 +719,11 @@
             "id": 96086769,
             "language": "TypeScript",
             "license": "CC-BY-4.0",
-            "last_commit": "2026-10-01T03:54:09Z",
-            "open_issues": 2,
+            "last_commit": "2026-10-29T13:17:52Z",
+            "open_issues": 1,
             "owner": "farizdotid",
             "repo": "DAFTAR-API-LOKAL-INDONESIA",
-            "stars": 5341,
+            "stars": 5342,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -976,7 +976,7 @@
             "open_issues": 89,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 400379,
+            "stars": 400475,
             "topics": [
               "books",
               "education",
@@ -1583,7 +1583,7 @@
             "open_issues": 2,
             "owner": "stisla",
             "repo": "stisla",
-            "stars": 3758,
+            "stars": 3759,
             "topics": [
               "admin",
               "bootstrap",
@@ -1632,7 +1632,7 @@
             "open_issues": 19,
             "owner": "zuramai",
             "repo": "mazer",
-            "stars": 3107,
+            "stars": 3108,
             "topics": [
               "admin-dashboard",
               "bootstrap",
@@ -1663,7 +1663,7 @@
             "open_issues": 90,
             "owner": "refactory-id",
             "repo": "bootstrap-markdown",
-            "stars": 1972,
+            "stars": 1971,
             "topics": [
               "bootstrap-markdown",
               "javascript"
@@ -1860,7 +1860,7 @@
             "open_issues": 117,
             "owner": "go-shiori",
             "repo": "shiori",
-            "stars": 11688,
+            "stars": 11692,
             "topics": [
               "bookmark-manager",
               "command-line",
@@ -2143,7 +2143,7 @@
             "id": 1295447882,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-28T08:56:49Z",
+            "last_commit": "2026-10-28T15:35:20Z",
             "open_issues": 65,
             "owner": "NAEOS-foundation",
             "repo": "naeos",
@@ -2396,7 +2396,7 @@
             "open_issues": 14,
             "owner": "ariya",
             "repo": "phantomjs",
-            "stars": 29426,
+            "stars": 29423,
             "topics": [
               "automation",
               "headless",
@@ -2422,7 +2422,7 @@
             "open_issues": 129,
             "owner": "giscus",
             "repo": "giscus",
-            "stars": 12188,
+            "stars": 12189,
             "topics": [
               "blog",
               "comment-system",
@@ -2458,7 +2458,7 @@
             "open_issues": 17,
             "owner": "faisalman",
             "repo": "ua-parser-js",
-            "stars": 10209,
+            "stars": 10208,
             "topics": [
               "analytics",
               "bot-detection",
@@ -4725,7 +4725,7 @@
             "id": 44089758,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-10T08:30:59Z",
+            "last_commit": "2026-10-29T02:45:54Z",
             "open_issues": 0,
             "owner": "laravolt",
             "repo": "avatar",
@@ -4784,7 +4784,7 @@
             "id": 63410706,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-03-03T06:32:45Z",
+            "last_commit": "2026-10-29T02:46:07Z",
             "open_issues": 5,
             "owner": "laravolt",
             "repo": "indonesia",
@@ -5442,7 +5442,7 @@
             "open_issues": 0,
             "owner": "IlhamriSKY",
             "repo": "PDDIKTI-kemdikbud-API",
-            "stars": 128,
+            "stars": 129,
             "topics": [
               "api-wrapper",
               "package",
@@ -5721,7 +5721,7 @@
             "open_issues": 2,
             "owner": "ruyynn",
             "repo": "GhostIntel",
-            "stars": 181,
+            "stars": 183,
             "topics": [
               "awesome-osint",
               "cybersecurity",
@@ -5803,7 +5803,7 @@
             "open_issues": 16,
             "owner": "sastrawi",
             "repo": "sastrawi",
-            "stars": 440,
+            "stars": 442,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -5876,10 +5876,10 @@
             "language": "HTML",
             "license": null,
             "last_commit": "2025-12-19T06:16:49Z",
-            "open_issues": 434,
+            "open_issues": 436,
             "owner": "thedev-id",
             "repo": "thedev.id",
-            "stars": 1803,
+            "stars": 1807,
             "topics": [
               "developer-tools",
               "dns",
@@ -5972,7 +5972,7 @@
             "open_issues": 0,
             "owner": "ans-4175",
             "repo": "peta-indonesia-geojson",
-            "stars": 80,
+            "stars": 81,
             "topics": [
               "geojson",
               "hacktoberfest",
@@ -6074,7 +6074,7 @@
             "open_issues": 0,
             "owner": "SunDi3yansyah",
             "repo": "mac-osx-lion-theme",
-            "stars": 12,
+            "stars": 13,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -6084,7 +6084,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T15:32:55.046Z",
+    "last_updated": "2026-10-29T15:40:23.191Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome repository created and contributed by Indonesian people.",
