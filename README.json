@@ -692,7 +692,7 @@
             "open_issues": 0,
             "owner": "Kristories",
             "repo": "awesome-guidelines",
-            "stars": 11229,
+            "stars": 11231,
             "topics": [
               "awesome",
               "awesome-guidelines",
@@ -723,7 +723,7 @@
             "open_issues": 1,
             "owner": "farizdotid",
             "repo": "DAFTAR-API-LOKAL-INDONESIA",
-            "stars": 5342,
+            "stars": 5341,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -744,7 +744,7 @@
             "open_issues": 2,
             "owner": "sumodirjo",
             "repo": "engineering-blogs",
-            "stars": 1678,
+            "stars": 1679,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -765,7 +765,7 @@
             "open_issues": 1,
             "owner": "hendisantika",
             "repo": "List-All-Programming-Telegram-Group",
-            "stars": 1497,
+            "stars": 1498,
             "topics": [
               "android",
               "group",
@@ -821,7 +821,7 @@
             "open_issues": 1,
             "owner": "screetsec",
             "repo": "Cybersecurity-Indonesia",
-            "stars": 430,
+            "stars": 432,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -976,7 +976,7 @@
             "open_issues": 89,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 400475,
+            "stars": 400531,
             "topics": [
               "books",
               "education",
@@ -1583,7 +1583,7 @@
             "open_issues": 2,
             "owner": "stisla",
             "repo": "stisla",
-            "stars": 3759,
+            "stars": 3760,
             "topics": [
               "admin",
               "bootstrap",
@@ -1860,7 +1860,7 @@
             "open_issues": 117,
             "owner": "go-shiori",
             "repo": "shiori",
-            "stars": 11692,
+            "stars": 11696,
             "topics": [
               "bookmark-manager",
               "command-line",
@@ -2144,7 +2144,7 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-10-28T15:35:20Z",
-            "open_issues": 65,
+            "open_issues": 66,
             "owner": "NAEOS-foundation",
             "repo": "naeos",
             "stars": 11,
@@ -2310,7 +2310,7 @@
             "id": 1396921457,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-26T07:48:42Z",
+            "last_commit": "2026-10-30T03:38:40Z",
             "open_issues": 0,
             "owner": "haikalmumtaz233",
             "repo": "nusaindex",
@@ -2396,7 +2396,7 @@
             "open_issues": 14,
             "owner": "ariya",
             "repo": "phantomjs",
-            "stars": 29423,
+            "stars": 29421,
             "topics": [
               "automation",
               "headless",
@@ -2422,7 +2422,7 @@
             "open_issues": 129,
             "owner": "giscus",
             "repo": "giscus",
-            "stars": 12189,
+            "stars": 12191,
             "topics": [
               "blog",
               "comment-system",
@@ -2458,7 +2458,7 @@
             "open_issues": 17,
             "owner": "faisalman",
             "repo": "ua-parser-js",
-            "stars": 10208,
+            "stars": 10209,
             "topics": [
               "analytics",
               "bot-detection",
@@ -2488,7 +2488,7 @@
             "open_issues": 151,
             "owner": "jquery",
             "repo": "esprima",
-            "stars": 7142,
+            "stars": 7140,
             "topics": [
               "ast",
               "ecmascript",
@@ -2537,7 +2537,7 @@
             "open_issues": 8,
             "owner": "maman",
             "repo": "JVFloat.js",
-            "stars": 656,
+            "stars": 655,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -2697,7 +2697,7 @@
             "open_issues": 28,
             "owner": "kata-ai",
             "repo": "aksara-ui",
-            "stars": 193,
+            "stars": 192,
             "topics": [
               "aksara-ui",
               "component-library",
@@ -3299,6 +3299,40 @@
         },
         {
           "node_type": "item",
+          "title": "zakat-mal",
+          "description": "Zero-dependency Fiqh-verified Zakat Mal calculation engine for Islamic finance (AAOIFI 35 & BAZNAS).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "🕌⚖️ Authoritative, zero-dependency Zakat Mal calculation engine. Grounded in AAOIFI Standard No. 35, Sahih Hadith, and Fatwa MUI/BAZNAS.",
+            "homepage": "https://zakat-mal.js.org",
+            "id": 1429730045,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-10-26T06:03:55Z",
+            "open_issues": 0,
+            "owner": "codesbykhairannoor",
+            "repo": "zakat-mal",
+            "stars": 0,
+            "topics": [
+              "aaoifi-standard-35",
+              "baznas",
+              "calculator",
+              "corporate-zakat",
+              "crypto-zakat",
+              "fintech",
+              "gold-zakat",
+              "islamic-finance",
+              "typescript",
+              "zakat",
+              "zakat-mal",
+              "zero-dependencies"
+            ]
+          },
+          "first_seen": "2026-10-30T15:23:16.585Z"
+        },
+        {
+          "node_type": "item",
           "title": "Museum Indonesia CLI",
           "description": "Open source Show Data Museum in Indonesia via Command-CLI.",
           "children": [],
@@ -3810,7 +3844,7 @@
             "open_issues": 19,
             "owner": "piharpi",
             "repo": "jekyll-klise",
-            "stars": 1059,
+            "stars": 1060,
             "topics": [
               "blog",
               "gh-pages",
@@ -3947,7 +3981,7 @@
             "id": 44715517,
             "language": "Go",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-06-12T10:55:27Z",
+            "last_commit": "2026-10-29T18:57:17Z",
             "open_issues": 50,
             "owner": "novalagung",
             "repo": "dasarpemrogramangolang",
@@ -4333,7 +4367,7 @@
             "language": "PHP",
             "license": "GPL-2.0",
             "last_commit": "2024-01-17T09:59:47Z",
-            "open_issues": 38,
+            "open_issues": 39,
             "owner": "laksa19",
             "repo": "mikhmonv3",
             "stars": 475,
@@ -5876,10 +5910,10 @@
             "language": "HTML",
             "license": null,
             "last_commit": "2025-12-19T06:16:49Z",
-            "open_issues": 436,
+            "open_issues": 435,
             "owner": "thedev-id",
             "repo": "thedev.id",
-            "stars": 1807,
+            "stars": 1806,
             "topics": [
               "developer-tools",
               "dns",
@@ -5910,7 +5944,7 @@
             "open_issues": 0,
             "owner": "ABPindo",
             "repo": "indonesianadblockrules",
-            "stars": 244,
+            "stars": 245,
             "topics": [
               "adblock",
               "adblock-list",
@@ -6084,7 +6118,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T15:40:23.191Z",
+    "last_updated": "2026-10-30T15:23:16.585Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome repository created and contributed by Indonesian people.",
@@ -6092,8 +6126,8 @@
       "id": 52785444,
       "language": "Jupyter Notebook",
       "license": "CC-BY-4.0",
-      "last_commit": "2026-10-20T00:12:15Z",
-      "open_issues": 10,
+      "last_commit": "2026-10-30T13:29:03Z",
+      "open_issues": 9,
       "owner": "GitIndonesia",
       "repo": "awesome-indonesia-repo",
       "stars": 769,
@@ -6104,7 +6138,7 @@
         "repository"
       ]
     },
-    "original_repository_sha": "cd6742b6c2d3197e3eab3e7cb9172f1956c7cc69",
+    "original_repository_sha": "9166934ac4b9f0801f72a641af9ebe902fe12b95",
     "enhanced_repository": "enhansome/enhansome-indonesia-repo",
     "enhanced_repository_description": null,
     "title": "Awesome Indonesia Repo with stars"
