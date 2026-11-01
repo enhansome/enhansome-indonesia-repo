@@ -266,7 +266,7 @@
             "language": "Java",
             "license": "NOASSERTION",
             "last_commit": "2024-04-21T01:23:25Z",
-            "open_issues": 16,
+            "open_issues": 15,
             "owner": "yukuku",
             "repo": "ambilwarna",
             "stars": 242,
@@ -692,7 +692,7 @@
             "open_issues": 0,
             "owner": "Kristories",
             "repo": "awesome-guidelines",
-            "stars": 11232,
+            "stars": 11234,
             "topics": [
               "awesome",
               "awesome-guidelines",
@@ -719,11 +719,11 @@
             "id": 96086769,
             "language": "TypeScript",
             "license": "CC-BY-4.0",
-            "last_commit": "2026-10-29T13:17:52Z",
-            "open_issues": 2,
+            "last_commit": "2026-11-01T04:02:35Z",
+            "open_issues": 1,
             "owner": "farizdotid",
             "repo": "DAFTAR-API-LOKAL-INDONESIA",
-            "stars": 5341,
+            "stars": 5340,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -800,7 +800,7 @@
             "open_issues": 3,
             "owner": "codeigniter-id",
             "repo": "awesome-codeigniter",
-            "stars": 792,
+            "stars": 791,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -821,7 +821,7 @@
             "open_issues": 1,
             "owner": "screetsec",
             "repo": "Cybersecurity-Indonesia",
-            "stars": 432,
+            "stars": 433,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -886,7 +886,7 @@
             "language": null,
             "license": null,
             "last_commit": "2023-08-16T00:02:28Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "rizafahmi",
             "repo": "awesome-speakers-id",
             "stars": 145,
@@ -972,11 +972,11 @@
             "id": 13491895,
             "language": "Python",
             "license": "CC-BY-4.0",
-            "last_commit": "2026-10-27T20:40:54Z",
-            "open_issues": 94,
+            "last_commit": "2026-11-01T02:48:06Z",
+            "open_issues": 90,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 400603,
+            "stars": 400662,
             "topics": [
               "books",
               "education",
@@ -1100,7 +1100,7 @@
             "open_issues": 55,
             "owner": "danpros",
             "repo": "htmly",
-            "stars": 1368,
+            "stars": 1367,
             "topics": [
               "blog",
               "blog-engine",
@@ -1204,7 +1204,7 @@
             "open_issues": 5,
             "owner": "PopojiCMS",
             "repo": "PopojiCMS",
-            "stars": 42,
+            "stars": 43,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -1663,7 +1663,7 @@
             "open_issues": 90,
             "owner": "refactory-id",
             "repo": "bootstrap-markdown",
-            "stars": 1971,
+            "stars": 1970,
             "topics": [
               "bootstrap-markdown",
               "javascript"
@@ -1860,7 +1860,7 @@
             "open_issues": 117,
             "owner": "go-shiori",
             "repo": "shiori",
-            "stars": 11697,
+            "stars": 11699,
             "topics": [
               "bookmark-manager",
               "command-line",
@@ -2143,8 +2143,8 @@
             "id": 1295447882,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-31T14:12:45Z",
-            "open_issues": 66,
+            "last_commit": "2026-11-01T15:16:19Z",
+            "open_issues": 69,
             "owner": "NAEOS-foundation",
             "repo": "naeos",
             "stars": 11,
@@ -2422,7 +2422,7 @@
             "open_issues": 129,
             "owner": "giscus",
             "repo": "giscus",
-            "stars": 12196,
+            "stars": 12198,
             "topics": [
               "blog",
               "comment-system",
@@ -2488,7 +2488,7 @@
             "open_issues": 151,
             "owner": "jquery",
             "repo": "esprima",
-            "stars": 7140,
+            "stars": 7139,
             "topics": [
               "ast",
               "ecmascript",
@@ -2660,8 +2660,8 @@
             "id": 177758255,
             "language": "JavaScript",
             "license": "LGPL-3.0",
-            "last_commit": "2026-07-09T14:08:56Z",
-            "open_issues": 12,
+            "last_commit": "2026-11-01T13:32:14Z",
+            "open_issues": 11,
             "owner": "mfcc64",
             "repo": "youtube-musical-spectrum",
             "stars": 197,
@@ -4308,7 +4308,7 @@
             "open_issues": 81,
             "owner": "playsms",
             "repo": "playsms",
-            "stars": 892,
+            "stars": 893,
             "topics": [
               "communication",
               "jasmin",
@@ -4370,7 +4370,7 @@
             "open_issues": 39,
             "owner": "laksa19",
             "repo": "mikhmonv3",
-            "stars": 476,
+            "stars": 477,
             "topics": [
               "hotspot",
               "hotspot-user-management",
@@ -4759,7 +4759,7 @@
             "id": 44089758,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-31T12:23:48Z",
+            "last_commit": "2026-11-01T13:23:36Z",
             "open_issues": 0,
             "owner": "laravolt",
             "repo": "avatar",
@@ -4818,7 +4818,7 @@
             "id": 63410706,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-31T13:14:27Z",
+            "last_commit": "2026-11-01T13:23:40Z",
             "open_issues": 1,
             "owner": "laravolt",
             "repo": "indonesia",
@@ -5440,8 +5440,8 @@
             "id": 1415189260,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-24T15:24:14Z",
-            "open_issues": 0,
+            "last_commit": "2026-10-31T19:24:08Z",
+            "open_issues": 4,
             "owner": "ren-zi-fa",
             "repo": "assets-web-downloader",
             "stars": 1,
@@ -5910,10 +5910,10 @@
             "language": "HTML",
             "license": null,
             "last_commit": "2025-12-19T06:16:49Z",
-            "open_issues": 435,
+            "open_issues": 437,
             "owner": "thedev-id",
             "repo": "thedev.id",
-            "stars": 1807,
+            "stars": 1809,
             "topics": [
               "developer-tools",
               "dns",
@@ -5940,11 +5940,11 @@
             "id": 32196209,
             "language": "Adblock Filter List",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-26T12:02:13Z",
+            "last_commit": "2026-11-01T04:01:34Z",
             "open_issues": 0,
             "owner": "ABPindo",
             "repo": "indonesianadblockrules",
-            "stars": 245,
+            "stars": 244,
             "topics": [
               "adblock",
               "adblock-list",
@@ -6118,7 +6118,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T14:52:08.228Z",
+    "last_updated": "2026-11-01T15:30:46.611Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome repository created and contributed by Indonesian people.",
