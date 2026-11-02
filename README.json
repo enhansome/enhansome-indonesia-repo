@@ -692,7 +692,7 @@
             "open_issues": 0,
             "owner": "Kristories",
             "repo": "awesome-guidelines",
-            "stars": 11234,
+            "stars": 11236,
             "topics": [
               "awesome",
               "awesome-guidelines",
@@ -719,7 +719,7 @@
             "id": 96086769,
             "language": "TypeScript",
             "license": "CC-BY-4.0",
-            "last_commit": "2026-11-01T04:02:35Z",
+            "last_commit": "2026-11-02T17:23:13Z",
             "open_issues": 1,
             "owner": "farizdotid",
             "repo": "DAFTAR-API-LOKAL-INDONESIA",
@@ -821,7 +821,7 @@
             "open_issues": 1,
             "owner": "screetsec",
             "repo": "Cybersecurity-Indonesia",
-            "stars": 433,
+            "stars": 435,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -973,10 +973,10 @@
             "language": "Python",
             "license": "CC-BY-4.0",
             "last_commit": "2026-11-01T02:48:06Z",
-            "open_issues": 90,
+            "open_issues": 94,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 400662,
+            "stars": 400743,
             "topics": [
               "books",
               "education",
@@ -1100,7 +1100,7 @@
             "open_issues": 55,
             "owner": "danpros",
             "repo": "htmly",
-            "stars": 1367,
+            "stars": 1368,
             "topics": [
               "blog",
               "blog-engine",
@@ -2143,8 +2143,8 @@
             "id": 1295447882,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-01T15:16:19Z",
-            "open_issues": 69,
+            "last_commit": "2026-11-02T12:56:35Z",
+            "open_issues": 74,
             "owner": "NAEOS-foundation",
             "repo": "naeos",
             "stars": 11,
@@ -2422,7 +2422,7 @@
             "open_issues": 129,
             "owner": "giscus",
             "repo": "giscus",
-            "stars": 12198,
+            "stars": 12204,
             "topics": [
               "blog",
               "comment-system",
@@ -2458,7 +2458,7 @@
             "open_issues": 17,
             "owner": "faisalman",
             "repo": "ua-parser-js",
-            "stars": 10211,
+            "stars": 10213,
             "topics": [
               "analytics",
               "bot-detection",
@@ -2488,7 +2488,7 @@
             "open_issues": 151,
             "owner": "jquery",
             "repo": "esprima",
-            "stars": 7139,
+            "stars": 7138,
             "topics": [
               "ast",
               "ecmascript",
@@ -2660,7 +2660,7 @@
             "id": 177758255,
             "language": "JavaScript",
             "license": "LGPL-3.0",
-            "last_commit": "2026-11-01T13:32:14Z",
+            "last_commit": "2026-11-01T15:39:17Z",
             "open_issues": 11,
             "owner": "mfcc64",
             "repo": "youtube-musical-spectrum",
@@ -3395,7 +3395,7 @@
             "open_issues": 2,
             "owner": "andriawan",
             "repo": "AndKasir",
-            "stars": 50,
+            "stars": 49,
             "topics": [
               "java",
               "kasir",
@@ -3879,7 +3879,7 @@
             "open_issues": 1,
             "owner": "agusmakmun",
             "repo": "agusmakmun.github.io",
-            "stars": 445,
+            "stars": 446,
             "topics": [
               "github-pages",
               "jekyll",
@@ -3985,7 +3985,7 @@
             "open_issues": 50,
             "owner": "novalagung",
             "repo": "dasarpemrogramangolang",
-            "stars": 2649,
+            "stars": 2650,
             "topics": [
               "book",
               "ebook",
@@ -4370,7 +4370,7 @@
             "open_issues": 39,
             "owner": "laksa19",
             "repo": "mikhmonv3",
-            "stars": 477,
+            "stars": 478,
             "topics": [
               "hotspot",
               "hotspot-user-management",
@@ -4790,7 +4790,7 @@
             "open_issues": 756,
             "owner": "crocodic-studio",
             "repo": "crudbooster",
-            "stars": 1759,
+            "stars": 1758,
             "topics": [
               "admin-area",
               "admin-panel",
@@ -5730,7 +5730,7 @@
             "open_issues": 10,
             "owner": "aancw",
             "repo": "Belati",
-            "stars": 569,
+            "stars": 568,
             "topics": [
               "document-scrapper",
               "email-harvesting",
@@ -5910,10 +5910,10 @@
             "language": "HTML",
             "license": null,
             "last_commit": "2025-12-19T06:16:49Z",
-            "open_issues": 437,
+            "open_issues": 438,
             "owner": "thedev-id",
             "repo": "thedev.id",
-            "stars": 1809,
+            "stars": 1811,
             "topics": [
               "developer-tools",
               "dns",
@@ -6118,7 +6118,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T15:30:46.611Z",
+    "last_updated": "2026-11-02T18:53:47.930Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome repository created and contributed by Indonesian people.",
