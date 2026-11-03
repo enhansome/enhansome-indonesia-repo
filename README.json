@@ -19,7 +19,7 @@
             "open_issues": 140,
             "owner": "zetbaitsu",
             "repo": "Compressor",
-            "stars": 7227,
+            "stars": 7229,
             "topics": [
               "android",
               "android-library",
@@ -692,7 +692,7 @@
             "open_issues": 0,
             "owner": "Kristories",
             "repo": "awesome-guidelines",
-            "stars": 11236,
+            "stars": 11241,
             "topics": [
               "awesome",
               "awesome-guidelines",
@@ -723,7 +723,7 @@
             "open_issues": 1,
             "owner": "farizdotid",
             "repo": "DAFTAR-API-LOKAL-INDONESIA",
-            "stars": 5340,
+            "stars": 5342,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -976,7 +976,7 @@
             "open_issues": 94,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 400743,
+            "stars": 400812,
             "topics": [
               "books",
               "education",
@@ -1366,6 +1366,38 @@
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Buku Indonesia",
+          "description": "Data terbuka buku Indonesia, dengan API JSON statis dan unduhan CSV, JSON, dan SQLite.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Open data for Indonesian books: a static JSON API and CSV, JSON, SQLite downloads. No API key, no server.",
+            "homepage": "https://khrlanamm.github.io/buku-indonesia/",
+            "id": 1440350440,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-10-31T00:11:05Z",
+            "open_issues": 8,
+            "owner": "khrlanamm",
+            "repo": "buku-indonesia",
+            "stars": 1,
+            "topics": [
+              "api",
+              "bahasa-indonesia",
+              "book-catalog",
+              "books",
+              "dataset",
+              "github-pages",
+              "indonesia",
+              "isbn",
+              "json-api",
+              "open-data"
+            ]
+          },
+          "first_seen": "2026-11-03T16:39:51.708Z"
         }
       ],
       "title": "Databases"
@@ -1860,7 +1892,7 @@
             "open_issues": 117,
             "owner": "go-shiori",
             "repo": "shiori",
-            "stars": 11699,
+            "stars": 11703,
             "topics": [
               "bookmark-manager",
               "command-line",
@@ -1888,7 +1920,7 @@
             "open_issues": 64,
             "owner": "bukalapak",
             "repo": "snowboard",
-            "stars": 770,
+            "stars": 769,
             "topics": [
               "api-blueprint",
               "app"
@@ -2143,8 +2175,8 @@
             "id": 1295447882,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-02T12:56:35Z",
-            "open_issues": 74,
+            "last_commit": "2026-11-03T16:32:44Z",
+            "open_issues": 72,
             "owner": "NAEOS-foundation",
             "repo": "naeos",
             "stars": 11,
@@ -2396,7 +2428,7 @@
             "open_issues": 14,
             "owner": "ariya",
             "repo": "phantomjs",
-            "stars": 29421,
+            "stars": 29420,
             "topics": [
               "automation",
               "headless",
@@ -2422,7 +2454,7 @@
             "open_issues": 129,
             "owner": "giscus",
             "repo": "giscus",
-            "stars": 12204,
+            "stars": 12205,
             "topics": [
               "blog",
               "comment-system",
@@ -3246,6 +3278,40 @@
         },
         {
           "node_type": "item",
+          "title": "zakat-mal",
+          "description": "Zero-dependency Fiqh-verified Zakat Mal calculation engine for Islamic finance (AAOIFI 35 & BAZNAS).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "🕌⚖️ Authoritative, zero-dependency Zakat Mal calculation engine. Grounded in AAOIFI Standard No. 35, Sahih Hadith, and Fatwa MUI/BAZNAS.",
+            "homepage": "https://zakat-mal.js.org",
+            "id": 1429730045,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-10-31T12:59:35Z",
+            "open_issues": 0,
+            "owner": "codesbykhairannoor",
+            "repo": "zakat-mal",
+            "stars": 1,
+            "topics": [
+              "aaoifi-standard-35",
+              "baznas",
+              "calculator",
+              "corporate-zakat",
+              "crypto-zakat",
+              "fintech",
+              "gold-zakat",
+              "islamic-finance",
+              "typescript",
+              "zakat",
+              "zakat-mal",
+              "zero-dependencies"
+            ]
+          },
+          "first_seen": "2026-10-30T15:23:16.585Z"
+        },
+        {
+          "node_type": "item",
           "title": "Serberries",
           "description": "Node.js live webserver that able to reload your script when running.",
           "children": [],
@@ -3296,40 +3362,6 @@
             ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
-        },
-        {
-          "node_type": "item",
-          "title": "zakat-mal",
-          "description": "Zero-dependency Fiqh-verified Zakat Mal calculation engine for Islamic finance (AAOIFI 35 & BAZNAS).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "🕌⚖️ Authoritative, zero-dependency Zakat Mal calculation engine. Grounded in AAOIFI Standard No. 35, Sahih Hadith, and Fatwa MUI/BAZNAS.",
-            "homepage": "https://zakat-mal.js.org",
-            "id": 1429730045,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-10-31T12:59:35Z",
-            "open_issues": 0,
-            "owner": "codesbykhairannoor",
-            "repo": "zakat-mal",
-            "stars": 0,
-            "topics": [
-              "aaoifi-standard-35",
-              "baznas",
-              "calculator",
-              "corporate-zakat",
-              "crypto-zakat",
-              "fintech",
-              "gold-zakat",
-              "islamic-finance",
-              "typescript",
-              "zakat",
-              "zakat-mal",
-              "zero-dependencies"
-            ]
-          },
-          "first_seen": "2026-10-30T15:23:16.585Z"
         },
         {
           "node_type": "item",
@@ -4014,7 +4046,7 @@
             "open_issues": 4,
             "owner": "ivanlanin",
             "repo": "puebi",
-            "stars": 192,
+            "stars": 193,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -4370,7 +4402,7 @@
             "open_issues": 39,
             "owner": "laksa19",
             "repo": "mikhmonv3",
-            "stars": 478,
+            "stars": 477,
             "topics": [
               "hotspot",
               "hotspot-user-management",
@@ -5707,6 +5739,39 @@
             ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Corvin",
+          "description": "Mesin Cognitive Boundary, Anti-Sycophancy & Grudge-Memory untuk agen AI berdaulat berbasis dinamika afektif dan Game Theory.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A Cognitive Boundary & Grudge-Memory Engine for Sovereign AI Agents. Affective dynamics (EMA) & Game Theory (CTFT).",
+            "homepage": "https://tako.id/c/codesbykhai",
+            "id": 1443961298,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-11-03T09:07:46Z",
+            "open_issues": 0,
+            "owner": "codesbykhairannoor",
+            "repo": "corvin",
+            "stars": 1,
+            "topics": [
+              "affective-computing",
+              "agents",
+              "ai",
+              "boundary-defense",
+              "corvin",
+              "fastapi",
+              "game-theory",
+              "guardrails",
+              "python",
+              "safety",
+              "sovereign-ai"
+            ]
+          },
+          "first_seen": "2026-11-03T16:39:51.708Z"
         }
       ],
       "title": "Python"
@@ -5755,7 +5820,7 @@
             "open_issues": 2,
             "owner": "ruyynn",
             "repo": "GhostIntel",
-            "stars": 184,
+            "stars": 185,
             "topics": [
               "awesome-osint",
               "cybersecurity",
@@ -5779,6 +5844,79 @@
             ]
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
+        },
+        {
+          "node_type": "item",
+          "title": "SanderShield",
+          "description": "A 30KB zero-dependency Mobile Security Suite built on Termux. Features: Port Scanner, CVE Checker, Anti-Tracker, and GPS Guard.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "630KB zero-dependency Mobile Security Suite built on Termux. Features: Port Scanner, CVE Checker, Vuln Scanner, Anti-Tracker, and GPS Guard. 100% Native Java, no Gradle, no root required.",
+            "homepage": "https://github.com/aleksandergrambelik-png/SanderShield.git",
+            "id": 1438657509,
+            "language": "Java",
+            "license": "NOASSERTION",
+            "last_commit": "2026-10-30T18:33:46Z",
+            "open_issues": 0,
+            "owner": "aleksandergrambelik-png",
+            "repo": "SanderShield",
+            "stars": 1,
+            "topics": [
+              "android-development",
+              "android-haking",
+              "anti-tampering",
+              "bugbounty-tool",
+              "cve-search",
+              "cyber-threat-intelligence",
+              "cybersecurity-tools",
+              "java-android-cyber",
+              "jsonjq",
+              "mini-terminal",
+              "open-source",
+              "security",
+              "termux-hacking",
+              "vulnerability-scanners",
+              "web-scraping",
+              "zero-dependency"
+            ]
+          },
+          "first_seen": "2026-11-03T16:39:51.708Z"
+        },
+        {
+          "node_type": "item",
+          "title": "SanderHexDump",
+          "description": "A lightweight native Hex Editor & Reverse Engineering tool for Android. 100% Java, no Gradle, with color-highlighted Hex/ASCII view.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Native Hex Editor & Reverse tool on Mobile No root .Java",
+            "homepage": "https://github.com/aleksandergrambelik-png/SanderHexDump/releases/tag/v1.0",
+            "id": 1440640181,
+            "language": "Java",
+            "license": null,
+            "last_commit": "2026-11-01T09:02:25Z",
+            "open_issues": 0,
+            "owner": "aleksandergrambelik-png",
+            "repo": "SanderHexDump",
+            "stars": 1,
+            "topics": [
+              "android-hacker",
+              "android-haking",
+              "anti-tampering",
+              "hex",
+              "hex-editor",
+              "hexadecimal",
+              "hexagonal-architecture",
+              "malware-analysis",
+              "malware-analyzer",
+              "malware-detection",
+              "malware-protection",
+              "no-root",
+              "tool"
+            ]
+          },
+          "first_seen": "2026-11-03T16:39:51.708Z"
         }
       ],
       "title": "OSINT"
@@ -5913,7 +6051,7 @@
             "open_issues": 438,
             "owner": "thedev-id",
             "repo": "thedev.id",
-            "stars": 1811,
+            "stars": 1812,
             "topics": [
               "developer-tools",
               "dns",
@@ -6118,7 +6256,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T18:53:47.930Z",
+    "last_updated": "2026-11-03T16:39:51.708Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome repository created and contributed by Indonesian people.",
@@ -6126,8 +6264,8 @@
       "id": 52785444,
       "language": "Jupyter Notebook",
       "license": "CC-BY-4.0",
-      "last_commit": "2026-10-30T13:29:03Z",
-      "open_issues": 10,
+      "last_commit": "2026-11-03T14:01:17Z",
+      "open_issues": 9,
       "owner": "GitIndonesia",
       "repo": "awesome-indonesia-repo",
       "stars": 769,
@@ -6138,7 +6276,7 @@
         "repository"
       ]
     },
-    "original_repository_sha": "9166934ac4b9f0801f72a641af9ebe902fe12b95",
+    "original_repository_sha": "90c6762dfa308af90bb608a4ec75656a7598bfb7",
     "enhanced_repository": "enhansome/enhansome-indonesia-repo",
     "enhanced_repository_description": null,
     "title": "Awesome Indonesia Repo with stars"
