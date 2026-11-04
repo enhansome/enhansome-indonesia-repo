@@ -19,7 +19,7 @@
             "open_issues": 140,
             "owner": "zetbaitsu",
             "repo": "Compressor",
-            "stars": 7229,
+            "stars": 7230,
             "topics": [
               "android",
               "android-library",
@@ -723,7 +723,7 @@
             "open_issues": 1,
             "owner": "farizdotid",
             "repo": "DAFTAR-API-LOKAL-INDONESIA",
-            "stars": 5342,
+            "stars": 5343,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -973,10 +973,10 @@
             "language": "Python",
             "license": "CC-BY-4.0",
             "last_commit": "2026-11-01T02:48:06Z",
-            "open_issues": 94,
+            "open_issues": 97,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 400812,
+            "stars": 400858,
             "topics": [
               "books",
               "education",
@@ -1338,7 +1338,7 @@
             "open_issues": 26,
             "owner": "edwardsamuel",
             "repo": "Wilayah-Administratif-Indonesia",
-            "stars": 960,
+            "stars": 959,
             "topics": [
               "dataset",
               "indonesia"
@@ -1615,7 +1615,7 @@
             "open_issues": 2,
             "owner": "stisla",
             "repo": "stisla",
-            "stars": 3759,
+            "stars": 3758,
             "topics": [
               "admin",
               "bootstrap",
@@ -1643,7 +1643,7 @@
             "open_issues": 38,
             "owner": "fians",
             "repo": "Waves",
-            "stars": 3455,
+            "stars": 3454,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -2175,8 +2175,8 @@
             "id": 1295447882,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-03T16:32:44Z",
-            "open_issues": 72,
+            "last_commit": "2026-11-04T11:04:57Z",
+            "open_issues": 71,
             "owner": "NAEOS-foundation",
             "repo": "naeos",
             "stars": 11,
@@ -2428,7 +2428,7 @@
             "open_issues": 14,
             "owner": "ariya",
             "repo": "phantomjs",
-            "stars": 29420,
+            "stars": 29418,
             "topics": [
               "automation",
               "headless",
@@ -2454,7 +2454,7 @@
             "open_issues": 129,
             "owner": "giscus",
             "repo": "giscus",
-            "stars": 12205,
+            "stars": 12208,
             "topics": [
               "blog",
               "comment-system",
@@ -2490,7 +2490,7 @@
             "open_issues": 17,
             "owner": "faisalman",
             "repo": "ua-parser-js",
-            "stars": 10213,
+            "stars": 10212,
             "topics": [
               "analytics",
               "bot-detection",
@@ -2520,7 +2520,7 @@
             "open_issues": 151,
             "owner": "jquery",
             "repo": "esprima",
-            "stars": 7138,
+            "stars": 7137,
             "topics": [
               "ast",
               "ecmascript",
@@ -4340,7 +4340,7 @@
             "open_issues": 81,
             "owner": "playsms",
             "repo": "playsms",
-            "stars": 893,
+            "stars": 894,
             "topics": [
               "communication",
               "jasmin",
@@ -4402,7 +4402,7 @@
             "open_issues": 39,
             "owner": "laksa19",
             "repo": "mikhmonv3",
-            "stars": 477,
+            "stars": 476,
             "topics": [
               "hotspot",
               "hotspot-user-management",
@@ -4924,7 +4924,7 @@
             "open_issues": 0,
             "owner": "azishapidin",
             "repo": "indoregion",
-            "stars": 273,
+            "stars": 274,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -5752,7 +5752,7 @@
             "id": 1443961298,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-03T09:07:46Z",
+            "last_commit": "2026-11-04T04:54:18Z",
             "open_issues": 0,
             "owner": "codesbykhairannoor",
             "repo": "corvin",
@@ -5857,7 +5857,7 @@
             "id": 1438657509,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-30T18:33:46Z",
+            "last_commit": "2026-11-04T04:06:49Z",
             "open_issues": 0,
             "owner": "aleksandergrambelik-png",
             "repo": "SanderShield",
@@ -5870,12 +5870,11 @@
               "cve-search",
               "cyber-threat-intelligence",
               "cybersecurity-tools",
+              "indonesia",
               "java-android-cyber",
               "jsonjq",
               "mini-terminal",
-              "open-source",
               "security",
-              "termux-hacking",
               "vulnerability-scanners",
               "web-scraping",
               "zero-dependency"
@@ -5908,6 +5907,7 @@
               "hex-editor",
               "hexadecimal",
               "hexagonal-architecture",
+              "indonesia",
               "malware-analysis",
               "malware-analyzer",
               "malware-detection",
@@ -6048,10 +6048,10 @@
             "language": "HTML",
             "license": null,
             "last_commit": "2025-12-19T06:16:49Z",
-            "open_issues": 438,
+            "open_issues": 441,
             "owner": "thedev-id",
             "repo": "thedev.id",
-            "stars": 1812,
+            "stars": 1814,
             "topics": [
               "developer-tools",
               "dns",
@@ -6256,7 +6256,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T16:39:51.708Z",
+    "last_updated": "2026-11-04T16:38:58.367Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome repository created and contributed by Indonesian people.",
