@@ -19,7 +19,7 @@
             "open_issues": 140,
             "owner": "zetbaitsu",
             "repo": "Compressor",
-            "stars": 7230,
+            "stars": 7229,
             "topics": [
               "android",
               "android-library",
@@ -723,7 +723,7 @@
             "open_issues": 1,
             "owner": "farizdotid",
             "repo": "DAFTAR-API-LOKAL-INDONESIA",
-            "stars": 5343,
+            "stars": 5344,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -821,7 +821,7 @@
             "open_issues": 1,
             "owner": "screetsec",
             "repo": "Cybersecurity-Indonesia",
-            "stars": 435,
+            "stars": 436,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -973,10 +973,10 @@
             "language": "Python",
             "license": "CC-BY-4.0",
             "last_commit": "2026-11-01T02:48:06Z",
-            "open_issues": 97,
+            "open_issues": 100,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 400858,
+            "stars": 400954,
             "topics": [
               "books",
               "education",
@@ -1100,7 +1100,7 @@
             "open_issues": 55,
             "owner": "danpros",
             "repo": "htmly",
-            "stars": 1368,
+            "stars": 1367,
             "topics": [
               "blog",
               "blog-engine",
@@ -1338,7 +1338,7 @@
             "open_issues": 26,
             "owner": "edwardsamuel",
             "repo": "Wilayah-Administratif-Indonesia",
-            "stars": 959,
+            "stars": 960,
             "topics": [
               "dataset",
               "indonesia"
@@ -1615,7 +1615,7 @@
             "open_issues": 2,
             "owner": "stisla",
             "repo": "stisla",
-            "stars": 3758,
+            "stars": 3759,
             "topics": [
               "admin",
               "bootstrap",
@@ -1892,7 +1892,7 @@
             "open_issues": 117,
             "owner": "go-shiori",
             "repo": "shiori",
-            "stars": 11703,
+            "stars": 11704,
             "topics": [
               "bookmark-manager",
               "command-line",
@@ -1920,7 +1920,7 @@
             "open_issues": 64,
             "owner": "bukalapak",
             "repo": "snowboard",
-            "stars": 769,
+            "stars": 770,
             "topics": [
               "api-blueprint",
               "app"
@@ -1944,7 +1944,7 @@
             "open_issues": 0,
             "owner": "novalagung",
             "repo": "gubrak",
-            "stars": 519,
+            "stars": 520,
             "topics": [
               "functional-programming",
               "go",
@@ -2175,8 +2175,8 @@
             "id": 1295447882,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-04T11:04:57Z",
-            "open_issues": 71,
+            "last_commit": "2026-11-05T15:01:11Z",
+            "open_issues": 68,
             "owner": "NAEOS-foundation",
             "repo": "naeos",
             "stars": 11,
@@ -2428,7 +2428,7 @@
             "open_issues": 14,
             "owner": "ariya",
             "repo": "phantomjs",
-            "stars": 29418,
+            "stars": 29417,
             "topics": [
               "automation",
               "headless",
@@ -2454,7 +2454,7 @@
             "open_issues": 129,
             "owner": "giscus",
             "repo": "giscus",
-            "stars": 12208,
+            "stars": 12212,
             "topics": [
               "blog",
               "comment-system",
@@ -3876,7 +3876,7 @@
             "open_issues": 19,
             "owner": "piharpi",
             "repo": "jekyll-klise",
-            "stars": 1060,
+            "stars": 1059,
             "topics": [
               "blog",
               "gh-pages",
@@ -3911,7 +3911,7 @@
             "open_issues": 1,
             "owner": "agusmakmun",
             "repo": "agusmakmun.github.io",
-            "stars": 446,
+            "stars": 445,
             "topics": [
               "github-pages",
               "jekyll",
@@ -4017,7 +4017,7 @@
             "open_issues": 50,
             "owner": "novalagung",
             "repo": "dasarpemrogramangolang",
-            "stars": 2650,
+            "stars": 2651,
             "topics": [
               "book",
               "ebook",
@@ -4340,7 +4340,7 @@
             "open_issues": 81,
             "owner": "playsms",
             "repo": "playsms",
-            "stars": 894,
+            "stars": 895,
             "topics": [
               "communication",
               "jasmin",
@@ -4430,7 +4430,7 @@
             "open_issues": 12,
             "owner": "lintangtimur",
             "repo": "ovoid",
-            "stars": 170,
+            "stars": 171,
             "topics": [
               "api",
               "indonesia",
@@ -4822,7 +4822,7 @@
             "open_issues": 756,
             "owner": "crocodic-studio",
             "repo": "crudbooster",
-            "stars": 1758,
+            "stars": 1759,
             "topics": [
               "admin-area",
               "admin-panel",
@@ -4854,7 +4854,7 @@
             "open_issues": 1,
             "owner": "laravolt",
             "repo": "indonesia",
-            "stars": 682,
+            "stars": 683,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -5861,7 +5861,7 @@
             "open_issues": 0,
             "owner": "aleksandergrambelik-png",
             "repo": "SanderShield",
-            "stars": 1,
+            "stars": 2,
             "topics": [
               "android-development",
               "android-haking",
@@ -6048,10 +6048,10 @@
             "language": "HTML",
             "license": null,
             "last_commit": "2025-12-19T06:16:49Z",
-            "open_issues": 441,
+            "open_issues": 442,
             "owner": "thedev-id",
             "repo": "thedev.id",
-            "stars": 1814,
+            "stars": 1813,
             "topics": [
               "developer-tools",
               "dns",
@@ -6256,7 +6256,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T16:38:58.367Z",
+    "last_updated": "2026-11-05T16:54:07.519Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome repository created and contributed by Indonesian people.",
@@ -6268,7 +6268,7 @@
       "open_issues": 9,
       "owner": "GitIndonesia",
       "repo": "awesome-indonesia-repo",
-      "stars": 769,
+      "stars": 770,
       "topics": [
         "awesome-list",
         "hacktoberfest",
