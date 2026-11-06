@@ -692,7 +692,7 @@
             "open_issues": 0,
             "owner": "Kristories",
             "repo": "awesome-guidelines",
-            "stars": 11241,
+            "stars": 11245,
             "topics": [
               "awesome",
               "awesome-guidelines",
@@ -723,7 +723,7 @@
             "open_issues": 1,
             "owner": "farizdotid",
             "repo": "DAFTAR-API-LOKAL-INDONESIA",
-            "stars": 5344,
+            "stars": 5343,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -821,7 +821,7 @@
             "open_issues": 1,
             "owner": "screetsec",
             "repo": "Cybersecurity-Indonesia",
-            "stars": 436,
+            "stars": 437,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -973,10 +973,10 @@
             "language": "Python",
             "license": "CC-BY-4.0",
             "last_commit": "2026-11-01T02:48:06Z",
-            "open_issues": 100,
+            "open_issues": 103,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 400954,
+            "stars": 401078,
             "topics": [
               "books",
               "education",
@@ -1100,7 +1100,7 @@
             "open_issues": 55,
             "owner": "danpros",
             "repo": "htmly",
-            "stars": 1367,
+            "stars": 1368,
             "topics": [
               "blog",
               "blog-engine",
@@ -1892,7 +1892,7 @@
             "open_issues": 117,
             "owner": "go-shiori",
             "repo": "shiori",
-            "stars": 11704,
+            "stars": 11703,
             "topics": [
               "bookmark-manager",
               "command-line",
@@ -2175,8 +2175,8 @@
             "id": 1295447882,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-05T15:01:11Z",
-            "open_issues": 68,
+            "last_commit": "2026-11-06T15:07:05Z",
+            "open_issues": 70,
             "owner": "NAEOS-foundation",
             "repo": "naeos",
             "stars": 11,
@@ -2428,7 +2428,7 @@
             "open_issues": 14,
             "owner": "ariya",
             "repo": "phantomjs",
-            "stars": 29417,
+            "stars": 29415,
             "topics": [
               "automation",
               "headless",
@@ -2454,7 +2454,7 @@
             "open_issues": 129,
             "owner": "giscus",
             "repo": "giscus",
-            "stars": 12212,
+            "stars": 12208,
             "topics": [
               "blog",
               "comment-system",
@@ -2490,7 +2490,7 @@
             "open_issues": 17,
             "owner": "faisalman",
             "repo": "ua-parser-js",
-            "stars": 10212,
+            "stars": 10209,
             "topics": [
               "analytics",
               "bot-detection",
@@ -2520,7 +2520,7 @@
             "open_issues": 151,
             "owner": "jquery",
             "repo": "esprima",
-            "stars": 7137,
+            "stars": 7136,
             "topics": [
               "ast",
               "ecmascript",
@@ -2884,7 +2884,7 @@
             "id": 499356658,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-17T00:32:02Z",
+            "last_commit": "2026-11-06T03:59:31Z",
             "open_issues": 6,
             "owner": "sinkaroid",
             "repo": "jandapress",
@@ -2917,7 +2917,7 @@
             "open_issues": 0,
             "owner": "sinkaroid",
             "repo": "cabul",
-            "stars": 61,
+            "stars": 62,
             "topics": [
               "nsfw",
               "reddit",
@@ -4017,7 +4017,7 @@
             "open_issues": 50,
             "owner": "novalagung",
             "repo": "dasarpemrogramangolang",
-            "stars": 2651,
+            "stars": 2653,
             "topics": [
               "book",
               "ebook",
@@ -4340,7 +4340,7 @@
             "open_issues": 81,
             "owner": "playsms",
             "repo": "playsms",
-            "stars": 895,
+            "stars": 894,
             "topics": [
               "communication",
               "jasmin",
@@ -4875,7 +4875,7 @@
             "open_issues": 6,
             "owner": "nafiesl",
             "repo": "free-pmo",
-            "stars": 461,
+            "stars": 460,
             "topics": [
               "freelancer",
               "laravel",
@@ -5369,7 +5369,7 @@
             "language": "Vim Script",
             "license": "MIT",
             "last_commit": "2024-03-16T18:34:03Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "dikiaap",
             "repo": "minimalist",
             "stars": 321,
@@ -5752,7 +5752,7 @@
             "id": 1443961298,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-04T04:54:18Z",
+            "last_commit": "2026-11-06T06:06:55Z",
             "open_issues": 0,
             "owner": "codesbykhairannoor",
             "repo": "corvin",
@@ -5820,7 +5820,7 @@
             "open_issues": 2,
             "owner": "ruyynn",
             "repo": "GhostIntel",
-            "stars": 185,
+            "stars": 186,
             "topics": [
               "awesome-osint",
               "cybersecurity",
@@ -6048,10 +6048,10 @@
             "language": "HTML",
             "license": null,
             "last_commit": "2025-12-19T06:16:49Z",
-            "open_issues": 442,
+            "open_issues": 447,
             "owner": "thedev-id",
             "repo": "thedev.id",
-            "stars": 1813,
+            "stars": 1814,
             "topics": [
               "developer-tools",
               "dns",
@@ -6256,7 +6256,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T16:54:07.519Z",
+    "last_updated": "2026-11-06T16:22:22.056Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome repository created and contributed by Indonesian people.",
@@ -6265,7 +6265,7 @@
       "language": "Jupyter Notebook",
       "license": "CC-BY-4.0",
       "last_commit": "2026-11-03T14:01:17Z",
-      "open_issues": 9,
+      "open_issues": 8,
       "owner": "GitIndonesia",
       "repo": "awesome-indonesia-repo",
       "stars": 770,
