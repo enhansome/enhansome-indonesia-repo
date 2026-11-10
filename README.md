@@ -1,6 +1,6 @@
 # Awesome Indonesia Repo with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome/) ⭐ 534,167 | 🐛 103 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome/) ⭐ 534,687 | 🐛 103 | 📅 2026-09-02
 [![Gitter](https://img.shields.io/:chat-on_gitter-ED2067.svg)](https://gitter.im/GitIndonesia/awesome-indonesia-repo)
 [![Country](https://img.shields.io/badge/country-indonesia-blue.svg)](#)
 
@@ -69,7 +69,7 @@ This list aims to inspire others and hopefully give encouragement for individual
 * [DraggableView](https://github.com/hyuwah/DraggableView) ⭐ 116 | 🐛 7 | 🌐 Kotlin | 📅 2023-07-19 - Android library to easily make floating draggable view (similar to Tokopedia's lucky egg or Bukalapak's maudikode).
 * [React Tomato Timer](https://github.com/sonnylazuardi/react-tomato-timer) ⭐ 107 | 🐛 5 | 🌐 JavaScript | 📅 2015-08-31 - A simple timer for a more productive way to work and study built with ReactJS.
 * [RxDownloader](https://github.com/esafirm/RxDownloader) ⭐ 106 | 🐛 10 | 🌐 Java | 📅 2018-07-11 - An Rx wrapper for Download Manager in Android.
-* [SmartMarker](https://github.com/utsmannn/SmartMarker) ⭐ 60 | 🐛 1 | 🌐 Kotlin | 📅 2019-12-23 - Smart helper for marker movement in Google Maps and Mapbox.
+* [SmartMarker](https://github.com/utsmannn/SmartMarker) ⭐ 59 | 🐛 1 | 🌐 Kotlin | 📅 2019-12-23 - Smart helper for marker movement in Google Maps and Mapbox.
 * [Benih](https://github.com/zetbaitsu/Benih) ⭐ 42 | 🐛 1 | 🌐 Java | 📅 2016-06-22 - A standard template for Android apps by Zelory.
 * [SheenValidator](https://github.com/rizmaulana/SheenValidator) ⭐ 30 | 🐛 2 | 🌐 Kotlin | 📅 2019-08-30 - Android library to ease form validation.
 * [YuanaItemSettingView](https://github.com/andhikayuana/YuanaItemSettingView) ⭐ 18 | 🐛 0 | 🌐 Kotlin | 📅 2020-11-15 - Customizable Item Setting View for Android.
@@ -78,25 +78,26 @@ This list aims to inspire others and hopefully give encouragement for individual
 * [TicTacToe](https://github.com/WendyYanto/android-tic-tac-toe) ⭐ 2 | 🐛 0 | 🌐 Kotlin | 📅 2020-05-22 - Android Tic-Tac-Toe game built using Kotlin.
 * [a-provider](https://github.com/rh-id/a-provider) ⭐ 1 | 🐛 0 | 🌐 Java | 📅 2026-10-01 -  Service Locator library for Android.
 * [a-logger](https://github.com/rh-id/a-logger) ⭐ 1 | 🐛 1 | 🌐 Java | 📅 2024-12-17 - Simple log library for Android.
+* [SanderGate](https://github.com/aleksandergrambelik-png/SanderGate-APK) ⭐ 0 | 🐛 0 | 🌐 Java | 📅 2026-11-04 - Native Android Git Client & Local API Firewall. Zero Dependency, Pure Java. Features PIN/Fingerprint Lock and Direct Git Commit Terminal.
 
 ## Awesome List
 
 * [Awesome Guidelines](https://github.com/Kristories/awesome-guidelines) ⭐ 11,252 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-28 - A curated list of high-quality coding style conventions and standards.
-* [Daftar API Lokal Indonesia](https://github.com/farizdotid/DAFTAR-API-LOKAL-INDONESIA) ⭐ 5,347 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-02 - List of Indonesian local APIs.
-* [Engineering Blogs](https://github.com/sumodirjo/engineering-blogs) ⭐ 1,679 | 🐛 2 | 📅 2026-10-11 - A curated list of engineering blog of startup and enterprise company.
-* [Awesome Indonesia Telegram Groups](https://github.com/hendisantika/List-All-Programming-Telegram-Group) ⭐ 1,498 | 🐛 1 | 🌐 Crystal | 📅 2025-08-03 - Non-exhaustive list of Indonesian Telegram groups focused on programming.
+* [Daftar API Lokal Indonesia](https://github.com/farizdotid/DAFTAR-API-LOKAL-INDONESIA) ⭐ 5,346 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-02 - List of Indonesian local APIs.
+* [Engineering Blogs](https://github.com/sumodirjo/engineering-blogs) ⭐ 1,679 | 🐛 3 | 📅 2026-10-11 - A curated list of engineering blog of startup and enterprise company.
+* [Awesome Indonesia Telegram Groups](https://github.com/hendisantika/List-All-Programming-Telegram-Group) ⭐ 1,497 | 🐛 1 | 🌐 Crystal | 📅 2025-08-03 - Non-exhaustive list of Indonesian Telegram groups focused on programming.
 * [Awesome CodeIgniter](https://github.com/codeigniter-id/awesome-codeigniter) ⭐ 791 | 🐛 3 | 📅 2024-01-01 - A list of awesome CodeIgniter core, helpers, hooks, language, libraries, and third party.
-* [Indonesia Cyber Security Resources](https://github.com/Screetsec/Cybersecurity-Indonesia) ⭐ 439 | 🐛 1 | 📅 2022-03-10 - Kumpulan Course pembalajaran tentang *cybersecurity* & *hacking* secara gratis.
+* [Indonesia Cyber Security Resources](https://github.com/Screetsec/Cybersecurity-Indonesia) ⭐ 438 | 🐛 1 | 📅 2022-03-10 - Kumpulan Course pembalajaran tentang *cybersecurity* & *hacking* secara gratis.
 * [NLP Bahasa Indonesia](https://github.com/sastrawi/nlp-bahasa-indonesia) ⚠️ Archived - A curated list of Indonesian Natural Language Processing resources.
 * [Awesome Loker IT Indonesia](https://github.com/satyawikananda/awesome-loker-it-indonesia) ⭐ 155 | 🐛 0 | 🌐 TypeScript | 📅 2024-02-19 - Kumpulan daftar lowongan kerja IT yang ada di Indonesia.
-* [Awesome Speakers Indonesia](https://github.com/rizafahmi/awesome-speakers-id) ⭐ 145 | 🐛 0 | 📅 2026-11-09 - Para developer asal Indonesia yang diundang ke acara komunitas dan konferensi sebagai pembicara atau narasumber.
+* [Awesome Speakers Indonesia](https://github.com/rizafahmi/awesome-speakers-id) ⭐ 144 | 🐛 0 | 📅 2026-11-09 - Para developer asal Indonesia yang diundang ke acara komunitas dan konferensi sebagai pembicara atau narasumber.
 * [Belajar ngoding dalam bahasa Indonesia](https://github.com/amuritna/belajar-ngoding-bhs-indo) ⭐ 54 | 🐛 0 | 📅 2024-05-29 - A list of Indonesian resources for learning to code.
 * [Awesome Docker Compose Collection](https://github.com/makiraid/docker-compose-collection) ⭐ 24 | 🐛 0 | 🌐 Shell | 📅 2022-10-02 - List of Docker Compose Collection
 * [Awesome Indonesia Repo](https://github.com/GitIndonesia/awesome-indonesia-repo) - A curated list of awesome and amazing repositories created by Indonesians.
 
 ## Books
 
-* [Free Programming Books Indonesia](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-id.md) ⭐ 401,380 | 🐛 95 | 🌐 Python | 📅 2026-11-07 - Freely available programming books written in Indonesian.
+* [Free Programming Books Indonesia](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-id.md) ⭐ 401,442 | 🐛 96 | 🌐 Python | 📅 2026-11-07 - Freely available programming books written in Indonesian.
 * [Panduan Lengkap Refactoring](https://github.com/zuramai/refactoring) ⭐ 99 | 🐛 0 | 🌐 Vue | 📅 2024-06-21 - Kumpulan metode refactoring dan cara mengatasi code smells yang berpotensi mengurangi maintainability pada sebuah software.
 * [Buku Git](https://github.com/endymuhardin/buku-git) ⭐ 73 | 🐛 8 | 🌐 TeX | 📅 2020-10-06 - Buku *Version Control* menggunakan `Git`.
 * [E-Library MDC](https://github.com/MuhammadiyahDeveloperClub/E-Library) ⭐ 15 | 🐛 0 | 📅 2020-10-03 - *E-library* yang berisi kumpulan *E-book* tentang dunia IT.
@@ -141,9 +142,9 @@ This list aims to inspire others and hopefully give encouragement for individual
 ## Front-end Development
 
 * [Stisla](https://github.com/stisla/stisla) ⭐ 3,759 | 🐛 2 | 🌐 CSS | 📅 2026-10-21 - A free Bootstrap admin template which helps speed up your project and design your own dashboard UI.
-* [Waves](https://github.com/fians/Waves) ⭐ 3,454 | 🐛 38 | 🌐 JavaScript | 📅 2022-12-11 - Click effect inspired by Google's Material Design.
-* [Mazer](https://github.com/zuramai/mazer) ⭐ 3,107 | 🐛 19 | 🌐 HTML | 📅 2025-08-05 - Clean, Elegant, and Free Bootstrap 5 Admin Dashboard Template
-* [Bootstrap Markdown](https://github.com/toopay/bootstrap-markdown) ⭐ 1,970 | 🐛 90 | 🌐 JavaScript | 📅 2022-06-24 - Bootstrap plugin for markdown editing.
+* [Waves](https://github.com/fians/Waves) ⭐ 3,453 | 🐛 38 | 🌐 JavaScript | 📅 2022-12-11 - Click effect inspired by Google's Material Design.
+* [Mazer](https://github.com/zuramai/mazer) ⭐ 3,106 | 🐛 19 | 🌐 HTML | 📅 2025-08-05 - Clean, Elegant, and Free Bootstrap 5 Admin Dashboard Template
+* [Bootstrap Markdown](https://github.com/toopay/bootstrap-markdown) ⭐ 1,971 | 🐛 90 | 🌐 JavaScript | 📅 2022-06-24 - Bootstrap plugin for markdown editing.
 * [Marka](https://github.com/fians/marka) ⭐ 1,511 | 🐛 5 | 🌐 CSS | 📅 2015-10-25 - Beautiful transformable icons built for the web.
 * [React Komik](https://github.com/sonnylazuardi/react-komik) ⭐ 375 | 🐛 0 | 🌐 JavaScript | 📅 2017-10-28 - ReactJS based comic strip creator using fabric.js canvas rendering.
 
@@ -157,9 +158,9 @@ This list aims to inspire others and hopefully give encouragement for individual
 
 ## Go
 
-* [Shiori](https://github.com/go-shiori/shiori) ⭐ 11,819 | 🐛 118 | 🌐 Go | 📅 2026-10-26 - Simple bookmark manager built with Go.
+* [Shiori](https://github.com/go-shiori/shiori) ⭐ 11,825 | 🐛 118 | 🌐 Go | 📅 2026-10-26 - Simple bookmark manager built with Go.
 * [Snowboard](https://github.com/bukalapak/snowboard) ⚠️ Archived - API blueprint parser and renderer.
-* [Gubrak](https://github.com/novalagung/gubrak) ⭐ 520 | 🐛 0 | 🌐 Go | 📅 2026-05-02 - Golang functional utility library with syntactic sugar. It's like lodash, but for Go
+* [Gubrak](https://github.com/novalagung/gubrak) ⭐ 521 | 🐛 0 | 🌐 Go | 📅 2026-05-02 - Golang functional utility library with syntactic sugar. It's like lodash, but for Go
 * [Go-Payment](https://github.com/imrenagi/go-payment) ⭐ 408 | 🐛 15 | 🌐 Go | 📅 2023-07-18 - Payment module used as proxy for multiple payment gateways. Currently it only supports Midtrans SNAP and Xendit Ewallet and XenInvoice.
 * [Proctor](https://github.com/gojek/proctor) ⭐ 127 | 🐛 22 | 🌐 Go | 📅 2024-02-09 - A Developer-Friendly Automation Orchestrator.
 * [Inflector](https://github.com/gedex/inflector) ⭐ 81 | 🐛 9 | 🌐 Go | 📅 2020-11-18 - Inflector pluralizes and singularizes English nouns.
@@ -168,7 +169,7 @@ This list aims to inspire others and hopefully give encouragement for individual
 * [PHC Crypto](https://github.com/aldy505/phc-crypto) ⭐ 27 | 🐛 0 | 🌐 Go | 📅 2024-06-27 - Password hashing algorithm based on PHC standard, inspired by Upash package from Node.js.
 * [Godong](https://github.com/novalagung/godong) ⚠️ Archived - Easiest dynamic http route handler for golang
 * [Excel2Json](https://github.com/FerdinaKusumah/excel2json) ⚠️ Archived - Convert your excel or excel datasource to json easily.
-* [NAEOS](https://github.com/NAEOS-foundation/naeos) ⭐ 11 | 🐛 62 | 🌐 Go | 📅 2026-11-09 - Declarative platform engineering system: transforms specifications into validated multi-language project structures.
+* [NAEOS](https://github.com/NAEOS-foundation/naeos) ⭐ 11 | 🐛 63 | 🌐 Go | 📅 2026-11-10 - Declarative platform engineering system: transforms specifications into validated multi-language project structures.
 * [HiberSunda](https://github.com/hiberin/hibersunda) ⭐ 8 | 🐛 0 | 🌐 Go | 📅 2026-06-21 - The API to learn Undak Usuk Basa in Sundanese language.
 * [Imaginative Go](https://github.com/sonyarianto/imaginative-go) ⚠️ Archived - Web to learn Go.
 * [GoTral](https://github.com/codenoid/GoTral) ⭐ 4 | 🐛 1 | 🌐 Go | 📅 2019-12-10 - Go cenTralized config, for distributed software.
@@ -190,8 +191,8 @@ This list aims to inspire others and hopefully give encouragement for individual
 
 * [PhantomJS](https://github.com/ariya/phantomjs) ⚠️ Archived - Scriptable Headless WebKit.
 * [giscus](https://github.com/giscus/giscus) ⭐ 12,211 | 🐛 129 | 🌐 TypeScript | 📅 2026-05-26 - A comments system for any site, static or dynamic, powered by GitHub Discussions.
-* [UAParser.js](https://github.com/faisalman/ua-parser-js) ⭐ 10,210 | 🐛 16 | 🌐 JavaScript | 📅 2026-11-09 - Lightweight JavaScript-based User-Agent string parser.
-* [Esprima](https://github.com/jquery/esprima) ⭐ 7,136 | 🐛 151 | 🌐 TypeScript | 📅 2023-04-16 - ECMAScript parsing infrastructure for multipurpose analysis.
+* [UAParser.js](https://github.com/faisalman/ua-parser-js) ⭐ 10,209 | 🐛 16 | 🌐 JavaScript | 📅 2026-11-09 - Lightweight JavaScript-based User-Agent string parser.
+* [Esprima](https://github.com/jquery/esprima) ⭐ 7,137 | 🐛 151 | 🌐 TypeScript | 📅 2023-04-16 - ECMAScript parsing infrastructure for multipurpose analysis.
 * [Kinetic](https://github.com/ariya/kinetic) ⚠️ Archived - Kinetic Scrolling with JavaScript.
 * [JVFloat.js](https://github.com/maman/JVFloat.js) ⭐ 655 | 🐛 8 | 🌐 JavaScript | 📅 2015-07-23 - jQuery / Zepto plugin to emulate Matt D. Smith's floating placeholder text.
 * [Color Copy Paste](https://github.com/sonnylazuardi/color-copy-paste) ⭐ 573 | 🐛 6 | 🌐 TypeScript | 📅 2023-11-01 - Figma plugin copy & paste color directly from your phone's camera to design plugins.
@@ -237,7 +238,7 @@ This list aims to inspire others and hopefully give encouragement for individual
 
 ## Angular
 
-* [Angular Starter](https://github.com/antonybudianto/angular-starter) ⭐ 513 | 🐛 1 | 🌐 JavaScript | 📅 2017-09-25 - Gulp Angular Starter using TypeScript.
+* [Angular Starter](https://github.com/antonybudianto/angular-starter) ⭐ 514 | 🐛 1 | 🌐 JavaScript | 📅 2017-09-25 - Gulp Angular Starter using TypeScript.
 * [Angular Webpack Starter](https://github.com/antonybudianto/angular-webpack-starter) ⭐ 88 | 🐛 3 | 🌐 JavaScript | 📅 2017-07-12 - Angular Webpack Starter with AoT compilation, Lazy-loading, Tree-shaking, and Hot Module Reload.
 * [Angular Parse Typescript](https://github.com/aacassandra/aac-parsetypescript) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2019-04-09 - This package makes it easy for typescript users for access the parse database via httpclient.
 
@@ -278,7 +279,7 @@ This list aims to inspire others and hopefully give encouragement for individual
 
 ## Learn
 
-* [Basic Go](https://github.com/novalagung/dasarpemrogramangolang) ⭐ 2,654 | 🐛 51 | 🌐 Go | 📅 2026-10-29 - Best E-Book Learn Go in Bahasa.
+* [Basic Go](https://github.com/novalagung/dasarpemrogramangolang) ⭐ 2,655 | 🐛 51 | 🌐 Go | 📅 2026-10-29 - Best E-Book Learn Go in Bahasa.
 * [PUEBI Daring](https://github.com/ivanlanin/puebi) ⭐ 193 | 🐛 4 | 📅 2023-05-11 - PUEBI Daring adalah versi web ramah gawai dari PUEBI Permendikbud 50/2015.
 * [Belajar Git](https://github.com/endymuhardin/belajarGit) ⭐ 178 | 🐛 18 | 📅 2023-10-02 - Tutorial Git dalam Bahasa Indonesia.
 * [Docs vuejs id](https://github.com/vuejs-id/docs) ⭐ 147 | 🐛 6 | 🌐 JavaScript | 📅 2024-07-02 - Dokumentasi Vue.js Bahasa Indonesia.
@@ -298,8 +299,8 @@ This list aims to inspire others and hopefully give encouragement for individual
 ## PHP
 
 * [playCMS](https://github.com/antonraharja/playSMS) ⭐ 894 | 🐛 81 | 🌐 PHP | 📅 2026-07-08 - Web-based Mobile Portal System that it can be made to fit to various services such as an SMS gateway.
-* [Simple PHP Excel](https://github.com/faisalman/simple-excel-php) ⭐ 556 | 🐛 14 | 🌐 PHP | 📅 2021-10-27 - Easily parse / convert / write any Microsoft Excel.
-* [MIKHMON - MikroTik Hotspot Monitor](https://github.com/laksa19/mikhmonv3) ⭐ 476 | 🐛 39 | 🌐 PHP | 📅 2024-01-17 - MikroTik Hotspot Monitor adalah aplikasi berbasis web (MikroTik API PHP class) untuk membantu manajemen Hotspot MikroTik. Khususnya MikroTik yang tidak mendukung User Manager.
+* [Simple PHP Excel](https://github.com/faisalman/simple-excel-php) ⭐ 557 | 🐛 14 | 🌐 PHP | 📅 2021-10-27 - Easily parse / convert / write any Microsoft Excel.
+* [MIKHMON - MikroTik Hotspot Monitor](https://github.com/laksa19/mikhmonv3) ⭐ 477 | 🐛 39 | 🌐 PHP | 📅 2024-01-17 - MikroTik Hotspot Monitor adalah aplikasi berbasis web (MikroTik API PHP class) untuk membantu manajemen Hotspot MikroTik. Khususnya MikroTik yang tidak mendukung User Manager.
 * [ovoid](https://github.com/lintangtimur/ovoid) ⭐ 171 | 🐛 12 | 🌐 PHP | 📅 2026-09-11 - Unofficial OVO API Wrapper.
 * [Letter Avatar for PHP](https://github.com/yohang88/letter-avatar) ⭐ 126 | 🐛 4 | 🌐 PHP | 📅 2024-01-28 - Generate avatar berdasarkan inisial nama.
 * [PHP-BOOTSTRAP](https://github.com/Harazaki/PHP-BOOTSTRAP) ⭐ 101 | 🐛 0 | 🌐 PHP | 📅 2018-04-18 - Simple design templates framework together with the famous bootstrap.
@@ -321,7 +322,7 @@ This list aims to inspire others and hopefully give encouragement for individual
 
 ## Laravel
 
-* [Avatar](https://github.com/laravolt/avatar) ⭐ 1,983 | 🐛 0 | 🌐 PHP | 📅 2026-11-07 - Plug and play avatar, turn initial name into beautiful avatar.
+* [Avatar](https://github.com/laravolt/avatar) ⭐ 1,984 | 🐛 0 | 🌐 PHP | 📅 2026-11-07 - Plug and play avatar, turn initial name into beautiful avatar.
 
 * [CRUD Booster](https://github.com/crocodic-studio/crudbooster) ⚠️ Archived - Easy Admin Dashboard & CRUD generator for Laravel.
 
@@ -383,7 +384,7 @@ This list aims to inspire others and hopefully give encouragement for individual
 
 ## Python
 
-* [PDDIKTI.kemdikbud](https://github.com/IlhamriSKY/PDDIKTI-kemdikbud-API) ⭐ 143 | 🐛 0 | 🌐 Python | 📅 2026-11-09 - Unofficial pddikti kemdikbud API Wrapper.
+* [PDDIKTI.kemdikbud](https://github.com/IlhamriSKY/PDDIKTI-kemdikbud-API) ⭐ 144 | 🐛 0 | 🌐 Python | 📅 2026-11-09 - Unofficial pddikti kemdikbud API Wrapper.
 * [HSR](https://github.com/pyk/hsr) ⭐ 110 | 🐛 0 | 🌐 Python | 📅 2020-04-20 - Hand signals recognition using Convolutional Neural Network implemented in TensorFlow.
 * [KBBI Python](https://github.com/laymonage/kbbi-python) ⭐ 86 | 🐛 1 | 🌐 Python | 📅 2023-09-12 - Modul Python untuk mengambil entri sebuah kata/frase dalam KBBI Daring.
 * [Tomoe](https://github.com/sinkaroid/tomoe) ⭐ 41 | 🐛 2 | 🌐 Rust | 📅 2026-08-28 - A reliable doujinshi downloader for mankind.
@@ -411,19 +412,20 @@ This list aims to inspire others and hopefully give encouragement for individual
 * [GhostIntel](https://github.com/ruyynn/GhostIntel) ⭐ 188 | 🐛 2 | 🌐 HTML | 📅 2026-08-03 - OSINT & Recon tool by Indonesian developer. Beginner-friendly, open-source, and actively maintained.
 * [SanderShield](https://github.com/aleksandergrambelik-png/SanderShield) ⭐ 2 | 🐛 0 | 🌐 Java | 📅 2026-11-06 - A 30KB zero-dependency Mobile Security Suite built on Termux. Features: Port Scanner, CVE Checker, Anti-Tracker, and GPS Guard.
 * [SanderHexDump](https://github.com/aleksandergrambelik-png/SanderHexDump) ⭐ 1 | 🐛 0 | 🌐 Java | 📅 2026-11-01 - A lightweight native Hex Editor & Reverse Engineering tool for Android. 100% Java, no Gradle, with color-highlighted Hex/ASCII view.
+* [SanderDeflect](https://github.com/aleksandergrambelik-png/SanderDeflect/releases/tag/v1.0.1.0) ⭐ 0 | 🐛 0 | 🌐 Java | 📅 2026-11-09 - Standalone Android Defense Dashboard APK (Zero Dependency, No Root). Features Math Challenge access gate, Recon, Decoy HTML, Tarpit, Sinkhole JSON logging, and Payload Mirroring.
 
 ## Natural Language Processing
 
 * [NLP Bahasa Indonesia Resources](https://github.com/louisowen6/NLP_bahasa_resources) ⭐ 575 | 🐛 2 | 📅 2023-02-17 - This repository provides link to useful dataset and another resources for NLP in Bahasa Indonesia.
 * [Sastrawi](https://github.com/sastrawi/sastrawi) ⭐ 442 | 🐛 16 | 🌐 PHP | 📅 2022-09-06 - High quality stemmer library for Indonesian Language.
-* [PySastrawi](https://github.com/har07/PySastrawi) ⭐ 364 | 🐛 12 | 🌐 Python | 📅 2026-05-21 - Python port of high quality stemmer library for Indonesian Language.
+* [PySastrawi](https://github.com/har07/PySastrawi) ⭐ 365 | 🐛 12 | 🌐 Python | 📅 2026-05-21 - Python port of high quality stemmer library for Indonesian Language.
 * [Indonesian NLP resources](https://github.com/kmkurn/id-nlp-resource) ⭐ 289 | 🐛 1 | 📅 2022-01-18 - A list of Indonesian NLP resources related to language modeling, sentiment analysis, and more.
 * [SIGER LLM](https://github.com/soden46/siger-llm) - An experimental general-purpose language model built from scratch with an SSM-based architecture, LoRA fine-tuning, evaluation and optimization pipelines, with Lampung Dialek O as an early low-resource language test case.
 
 ## Miscellaneous
 
-* [thedev.id](https://github.com/fransallen/thedev.id) ⭐ 1,813 | 🐛 452 | 🌐 HTML | 📅 2025-12-19 - An identity for developers on the web. (Subdomain)
-* [Indonesian AdBlock Rules](https://github.com/ABPindo/indonesianadblockrules) ⭐ 244 | 🐛 1 | 🌐 Adblock Filter List | 📅 2026-11-09 - Compiled ABP rules to block various ads in Indonesian based site.
+* [thedev.id](https://github.com/fransallen/thedev.id) ⭐ 1,814 | 🐛 452 | 🌐 HTML | 📅 2025-12-19 - An identity for developers on the web. (Subdomain)
+* [Indonesian AdBlock Rules](https://github.com/ABPindo/indonesianadblockrules) ⭐ 243 | 🐛 1 | 🌐 Adblock Filter List | 📅 2026-11-10 - Compiled ABP rules to block various ads in Indonesian based site.
 * [OpenRetail](https://github.com/rudi-krsoftware/open-retail) ⭐ 197 | 🐛 26 | 🌐 C# | 📅 2023-04-17 - Perangkat lunak open source yang dikembangkan khusus untuk bidang usaha ritel, grosir, toko bangunan, toko komputer, toko buku, counter hp, pos, point of sale, kasir dan bidang usaha lainnya yang sejenis.
 * [Peta Indonesia GeoJSON](https://github.com/ans-4175/peta-indonesia-geojson) ⭐ 81 | 🐛 0 | 📅 2026-08-09 - Provincial GeoJSON data for Indonesia. Useful for making choropleth visualizations for Data Science projects. (by [ans-4175](https://github.com/ans-4175))
 * [merahputih.moe](https://github.com/ScathachGrip/merahputih.moe) ⭐ 39 | 🐛 3 | 🌐 TypeScript | 📅 2024-06-07 - 📦 Pretty and moe subdomains to host your weeb project.
@@ -491,4 +493,4 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details. This project exists than
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
