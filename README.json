@@ -19,7 +19,7 @@
             "open_issues": 140,
             "owner": "zetbaitsu",
             "repo": "Compressor",
-            "stars": 7230,
+            "stars": 7231,
             "topics": [
               "android",
               "android-library",
@@ -151,7 +151,7 @@
             "open_issues": 8,
             "owner": "sonnylazuardi",
             "repo": "react-native-credit-card",
-            "stars": 386,
+            "stars": 385,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -725,7 +725,7 @@
             "open_issues": 0,
             "owner": "Kristories",
             "repo": "awesome-guidelines",
-            "stars": 11252,
+            "stars": 11255,
             "topics": [
               "awesome",
               "awesome-guidelines",
@@ -756,7 +756,7 @@
             "open_issues": 1,
             "owner": "farizdotid",
             "repo": "DAFTAR-API-LOKAL-INDONESIA",
-            "stars": 5346,
+            "stars": 5349,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -922,7 +922,7 @@
             "open_issues": 0,
             "owner": "rizafahmi",
             "repo": "awesome-speakers-id",
-            "stars": 144,
+            "stars": 143,
             "topics": [
               "awesome-list",
               "community",
@@ -1006,10 +1006,10 @@
             "language": "Python",
             "license": "CC-BY-4.0",
             "last_commit": "2026-11-07T19:10:09Z",
-            "open_issues": 96,
+            "open_issues": 100,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 401442,
+            "stars": 401405,
             "topics": [
               "books",
               "education",
@@ -1697,7 +1697,7 @@
             "open_issues": 19,
             "owner": "zuramai",
             "repo": "mazer",
-            "stars": 3106,
+            "stars": 3107,
             "topics": [
               "admin-dashboard",
               "bootstrap",
@@ -1925,7 +1925,7 @@
             "open_issues": 118,
             "owner": "go-shiori",
             "repo": "shiori",
-            "stars": 11825,
+            "stars": 11841,
             "topics": [
               "bookmark-manager",
               "command-line",
@@ -2208,8 +2208,8 @@
             "id": 1295447882,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-10T06:44:09Z",
-            "open_issues": 63,
+            "last_commit": "2026-11-11T15:55:41Z",
+            "open_issues": 62,
             "owner": "NAEOS-foundation",
             "repo": "naeos",
             "stars": 11,
@@ -2461,7 +2461,7 @@
             "open_issues": 14,
             "owner": "ariya",
             "repo": "phantomjs",
-            "stars": 29414,
+            "stars": 29415,
             "topics": [
               "automation",
               "headless",
@@ -2487,7 +2487,7 @@
             "open_issues": 129,
             "owner": "giscus",
             "repo": "giscus",
-            "stars": 12211,
+            "stars": 12215,
             "topics": [
               "blog",
               "comment-system",
@@ -2519,11 +2519,11 @@
             "id": 3320710,
             "language": "JavaScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-09T11:01:03Z",
+            "last_commit": "2026-11-11T10:33:24Z",
             "open_issues": 16,
             "owner": "faisalman",
             "repo": "ua-parser-js",
-            "stars": 10209,
+            "stars": 10211,
             "topics": [
               "analytics",
               "bot-detection",
@@ -2553,7 +2553,7 @@
             "open_issues": 151,
             "owner": "jquery",
             "repo": "esprima",
-            "stars": 7137,
+            "stars": 7138,
             "topics": [
               "ast",
               "ecmascript",
@@ -3940,7 +3940,7 @@
             "id": 56501309,
             "language": "CSS",
             "license": "MIT",
-            "last_commit": "2026-11-09T07:30:54Z",
+            "last_commit": "2026-11-11T08:40:16Z",
             "open_issues": 1,
             "owner": "agusmakmun",
             "repo": "agusmakmun.github.io",
@@ -4828,7 +4828,7 @@
             "open_issues": 0,
             "owner": "laravolt",
             "repo": "avatar",
-            "stars": 1984,
+            "stars": 1985,
             "topics": [
               "avatar",
               "gravatar",
@@ -5828,7 +5828,7 @@
             "open_issues": 10,
             "owner": "aancw",
             "repo": "Belati",
-            "stars": 569,
+            "stars": 570,
             "topics": [
               "document-scrapper",
               "email-harvesting",
@@ -6115,7 +6115,7 @@
             "open_issues": 452,
             "owner": "thedev-id",
             "repo": "thedev.id",
-            "stars": 1814,
+            "stars": 1816,
             "topics": [
               "developer-tools",
               "dns",
@@ -6320,7 +6320,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T16:38:18.920Z",
+    "last_updated": "2026-11-11T16:41:25.815Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome repository created and contributed by Indonesian people.",
