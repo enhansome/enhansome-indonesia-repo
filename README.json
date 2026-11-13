@@ -19,7 +19,7 @@
             "open_issues": 140,
             "owner": "zetbaitsu",
             "repo": "Compressor",
-            "stars": 7231,
+            "stars": 7230,
             "topics": [
               "android",
               "android-library",
@@ -686,7 +686,7 @@
             "open_issues": 0,
             "owner": "aleksandergrambelik-png",
             "repo": "SanderGate-APK",
-            "stars": 0,
+            "stars": 1,
             "topics": [
               "android-application",
               "antitamper",
@@ -854,7 +854,7 @@
             "open_issues": 1,
             "owner": "screetsec",
             "repo": "Cybersecurity-Indonesia",
-            "stars": 438,
+            "stars": 439,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -875,7 +875,7 @@
             "open_issues": 6,
             "owner": "sastrawi",
             "repo": "nlp-bahasa-indonesia",
-            "stars": 189,
+            "stars": 190,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -947,7 +947,7 @@
             "open_issues": 0,
             "owner": "amuritna",
             "repo": "belajar-ngoding-bhs-indo",
-            "stars": 54,
+            "stars": 55,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1005,11 +1005,11 @@
             "id": 13491895,
             "language": "Python",
             "license": "CC-BY-4.0",
-            "last_commit": "2026-11-07T19:10:09Z",
-            "open_issues": 102,
+            "last_commit": "2026-11-12T18:46:04Z",
+            "open_issues": 93,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 401489,
+            "stars": 401539,
             "topics": [
               "books",
               "education",
@@ -1195,7 +1195,7 @@
             "open_issues": 9,
             "owner": "codepolitanlab",
             "repo": "pusakacms",
-            "stars": 71,
+            "stars": 70,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -1648,7 +1648,7 @@
             "open_issues": 2,
             "owner": "stisla",
             "repo": "stisla",
-            "stars": 3759,
+            "stars": 3760,
             "topics": [
               "admin",
               "bootstrap",
@@ -1752,7 +1752,7 @@
             "open_issues": 5,
             "owner": "fians",
             "repo": "marka",
-            "stars": 1511,
+            "stars": 1509,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -1925,7 +1925,7 @@
             "open_issues": 118,
             "owner": "go-shiori",
             "repo": "shiori",
-            "stars": 11852,
+            "stars": 11859,
             "topics": [
               "bookmark-manager",
               "command-line",
@@ -2208,8 +2208,8 @@
             "id": 1295447882,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-12T16:26:08Z",
-            "open_issues": 63,
+            "last_commit": "2026-11-13T16:48:47Z",
+            "open_issues": 66,
             "owner": "NAEOS-foundation",
             "repo": "naeos",
             "stars": 11,
@@ -2461,7 +2461,7 @@
             "open_issues": 14,
             "owner": "ariya",
             "repo": "phantomjs",
-            "stars": 29415,
+            "stars": 29412,
             "topics": [
               "automation",
               "headless",
@@ -2487,7 +2487,7 @@
             "open_issues": 129,
             "owner": "giscus",
             "repo": "giscus",
-            "stars": 12217,
+            "stars": 12221,
             "topics": [
               "blog",
               "comment-system",
@@ -2520,7 +2520,7 @@
             "language": "JavaScript",
             "license": "AGPL-3.0",
             "last_commit": "2026-11-11T10:33:24Z",
-            "open_issues": 16,
+            "open_issues": 20,
             "owner": "faisalman",
             "repo": "ua-parser-js",
             "stars": 10212,
@@ -5967,7 +5967,7 @@
             "open_issues": 0,
             "owner": "aleksandergrambelik-png",
             "repo": "SanderDeflect",
-            "stars": 0,
+            "stars": 1,
             "topics": [
               "android-application",
               "anti-bot",
@@ -6112,10 +6112,10 @@
             "language": "HTML",
             "license": null,
             "last_commit": "2025-12-19T06:16:49Z",
-            "open_issues": 454,
+            "open_issues": 456,
             "owner": "thedev-id",
             "repo": "thedev.id",
-            "stars": 1818,
+            "stars": 1821,
             "topics": [
               "developer-tools",
               "dns",
@@ -6320,7 +6320,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T17:10:09.889Z",
+    "last_updated": "2026-11-13T16:48:52.561Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome repository created and contributed by Indonesian people.",
