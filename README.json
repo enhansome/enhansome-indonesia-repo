@@ -19,7 +19,7 @@
             "open_issues": 140,
             "owner": "zetbaitsu",
             "repo": "Compressor",
-            "stars": 7230,
+            "stars": 7229,
             "topics": [
               "android",
               "android-library",
@@ -725,7 +725,7 @@
             "open_issues": 0,
             "owner": "Kristories",
             "repo": "awesome-guidelines",
-            "stars": 11260,
+            "stars": 11262,
             "topics": [
               "awesome",
               "awesome-guidelines",
@@ -774,7 +774,7 @@
             "language": null,
             "license": "GPL-2.0",
             "last_commit": "2026-10-11T02:47:52Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "sumodirjo",
             "repo": "engineering-blogs",
             "stars": 1679,
@@ -1009,7 +1009,7 @@
             "open_issues": 93,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 401539,
+            "stars": 401584,
             "topics": [
               "books",
               "education",
@@ -1925,7 +1925,7 @@
             "open_issues": 118,
             "owner": "go-shiori",
             "repo": "shiori",
-            "stars": 11859,
+            "stars": 11861,
             "topics": [
               "bookmark-manager",
               "command-line",
@@ -2208,8 +2208,8 @@
             "id": 1295447882,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-13T16:48:47Z",
-            "open_issues": 66,
+            "last_commit": "2026-11-14T15:10:00Z",
+            "open_issues": 62,
             "owner": "NAEOS-foundation",
             "repo": "naeos",
             "stars": 11,
@@ -2461,7 +2461,7 @@
             "open_issues": 14,
             "owner": "ariya",
             "repo": "phantomjs",
-            "stars": 29412,
+            "stars": 29411,
             "topics": [
               "automation",
               "headless",
@@ -2602,7 +2602,7 @@
             "open_issues": 8,
             "owner": "maman",
             "repo": "JVFloat.js",
-            "stars": 655,
+            "stars": 654,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -3823,7 +3823,7 @@
             "id": 51691184,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-07-11T03:20:55Z",
+            "last_commit": "2026-11-14T14:37:00Z",
             "open_issues": 1,
             "owner": "widatama",
             "repo": "salat-time",
@@ -4908,7 +4908,7 @@
             "open_issues": 6,
             "owner": "nafiesl",
             "repo": "free-pmo",
-            "stars": 461,
+            "stars": 462,
             "topics": [
               "freelancer",
               "laravel",
@@ -5853,7 +5853,7 @@
             "open_issues": 2,
             "owner": "ruyynn",
             "repo": "GhostIntel",
-            "stars": 188,
+            "stars": 189,
             "topics": [
               "awesome-osint",
               "cybersecurity",
@@ -6004,7 +6004,7 @@
             "open_issues": 2,
             "owner": "louisowen6",
             "repo": "NLP_bahasa_resources",
-            "stars": 575,
+            "stars": 576,
             "topics": [
               "bahasa-indonesia",
               "corpus",
@@ -6115,7 +6115,7 @@
             "open_issues": 456,
             "owner": "thedev-id",
             "repo": "thedev.id",
-            "stars": 1821,
+            "stars": 1822,
             "topics": [
               "developer-tools",
               "dns",
@@ -6320,7 +6320,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T16:48:52.561Z",
+    "last_updated": "2026-11-14T15:23:03.027Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome repository created and contributed by Indonesian people.",
