@@ -122,7 +122,7 @@
             "open_issues": 45,
             "owner": "danimahardhika",
             "repo": "candybar-library",
-            "stars": 500,
+            "stars": 499,
             "topics": [
               "android",
               "android-library",
@@ -240,7 +240,7 @@
             "open_issues": 24,
             "owner": "danimahardhika",
             "repo": "wallpaperboard",
-            "stars": 251,
+            "stars": 250,
             "topics": [
               "android",
               "android-library",
@@ -266,7 +266,7 @@
             "language": "Java",
             "license": "NOASSERTION",
             "last_commit": "2024-04-21T01:23:25Z",
-            "open_issues": 15,
+            "open_issues": 14,
             "owner": "yukuku",
             "repo": "ambilwarna",
             "stars": 242,
@@ -542,7 +542,7 @@
             "id": 409246851,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-11-15T12:47:02Z",
+            "last_commit": "2026-11-16T13:14:05Z",
             "open_issues": 0,
             "owner": "rh-id",
             "repo": "a-navigator",
@@ -756,7 +756,7 @@
             "open_issues": 1,
             "owner": "farizdotid",
             "repo": "DAFTAR-API-LOKAL-INDONESIA",
-            "stars": 5349,
+            "stars": 5348,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -854,7 +854,7 @@
             "open_issues": 1,
             "owner": "screetsec",
             "repo": "Cybersecurity-Indonesia",
-            "stars": 441,
+            "stars": 442,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -1006,10 +1006,10 @@
             "language": "Python",
             "license": "CC-BY-4.0",
             "last_commit": "2026-11-12T18:46:04Z",
-            "open_issues": 108,
+            "open_issues": 118,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 401629,
+            "stars": 401691,
             "topics": [
               "books",
               "education",
@@ -1925,7 +1925,7 @@
             "open_issues": 118,
             "owner": "go-shiori",
             "repo": "shiori",
-            "stars": 11865,
+            "stars": 11870,
             "topics": [
               "bookmark-manager",
               "command-line",
@@ -2208,7 +2208,7 @@
             "id": 1295447882,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-15T07:03:12Z",
+            "last_commit": "2026-11-16T17:34:47Z",
             "open_issues": 64,
             "owner": "NAEOS-foundation",
             "repo": "naeos",
@@ -2375,7 +2375,7 @@
             "id": 1396921457,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-31T04:04:38Z",
+            "last_commit": "2026-11-16T07:32:45Z",
             "open_issues": 0,
             "owner": "haikalmumtaz233",
             "repo": "nusaindex",
@@ -2487,7 +2487,7 @@
             "open_issues": 129,
             "owner": "giscus",
             "repo": "giscus",
-            "stars": 12223,
+            "stars": 12226,
             "topics": [
               "blog",
               "comment-system",
@@ -2520,10 +2520,10 @@
             "language": "JavaScript",
             "license": "AGPL-3.0",
             "last_commit": "2026-11-11T10:33:24Z",
-            "open_issues": 20,
+            "open_issues": 21,
             "owner": "faisalman",
             "repo": "ua-parser-js",
-            "stars": 10213,
+            "stars": 10215,
             "topics": [
               "analytics",
               "bot-detection",
@@ -2649,7 +2649,7 @@
             "open_issues": 12,
             "owner": "antonybudianto",
             "repo": "cra-universal",
-            "stars": 423,
+            "stars": 424,
             "topics": [
               "cli",
               "create-react-app",
@@ -4908,7 +4908,7 @@
             "open_issues": 6,
             "owner": "nafiesl",
             "repo": "free-pmo",
-            "stars": 462,
+            "stars": 464,
             "topics": [
               "freelancer",
               "laravel",
@@ -5853,7 +5853,7 @@
             "open_issues": 2,
             "owner": "ruyynn",
             "repo": "GhostIntel",
-            "stars": 189,
+            "stars": 190,
             "topics": [
               "awesome-osint",
               "cybersecurity",
@@ -6115,7 +6115,7 @@
             "open_issues": 455,
             "owner": "thedev-id",
             "repo": "thedev.id",
-            "stars": 1822,
+            "stars": 1823,
             "topics": [
               "developer-tools",
               "dns",
@@ -6320,7 +6320,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T15:55:30.529Z",
+    "last_updated": "2026-11-16T18:58:31.192Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome repository created and contributed by Indonesian people.",
