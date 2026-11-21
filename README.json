@@ -725,7 +725,7 @@
             "open_issues": 0,
             "owner": "Kristories",
             "repo": "awesome-guidelines",
-            "stars": 11281,
+            "stars": 11279,
             "topics": [
               "awesome",
               "awesome-guidelines",
@@ -854,7 +854,7 @@
             "open_issues": 1,
             "owner": "screetsec",
             "repo": "Cybersecurity-Indonesia",
-            "stars": 442,
+            "stars": 443,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -1006,10 +1006,10 @@
             "language": "Python",
             "license": "CC-BY-4.0",
             "last_commit": "2026-11-12T18:46:04Z",
-            "open_issues": 131,
+            "open_issues": 132,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 401946,
+            "stars": 402016,
             "topics": [
               "books",
               "education",
@@ -1159,7 +1159,7 @@
             "id": 19169655,
             "language": "PHP",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-24T14:06:00Z",
+            "last_commit": "2026-11-21T12:50:30Z",
             "open_issues": 1,
             "owner": "mecha-cms",
             "repo": "mecha",
@@ -1648,7 +1648,7 @@
             "open_issues": 2,
             "owner": "stisla",
             "repo": "stisla",
-            "stars": 3759,
+            "stars": 3758,
             "topics": [
               "admin",
               "bootstrap",
@@ -2208,11 +2208,11 @@
             "id": 1295447882,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-20T16:57:43Z",
-            "open_issues": 55,
+            "last_commit": "2026-11-21T16:14:57Z",
+            "open_issues": 59,
             "owner": "NAEOS-foundation",
             "repo": "naeos",
-            "stars": 11,
+            "stars": 12,
             "topics": [
               "linux",
               "linux-kernel",
@@ -2461,7 +2461,7 @@
             "open_issues": 14,
             "owner": "ariya",
             "repo": "phantomjs",
-            "stars": 29409,
+            "stars": 29410,
             "topics": [
               "automation",
               "headless",
@@ -2487,7 +2487,7 @@
             "open_issues": 129,
             "owner": "giscus",
             "repo": "giscus",
-            "stars": 12234,
+            "stars": 12235,
             "topics": [
               "blog",
               "comment-system",
@@ -2520,10 +2520,10 @@
             "language": "JavaScript",
             "license": "AGPL-3.0",
             "last_commit": "2026-11-11T10:33:24Z",
-            "open_issues": 18,
+            "open_issues": 19,
             "owner": "faisalman",
             "repo": "ua-parser-js",
-            "stars": 10214,
+            "stars": 10215,
             "topics": [
               "analytics",
               "bot-detection",
@@ -2550,7 +2550,7 @@
             "language": "TypeScript",
             "license": "BSD-2-Clause",
             "last_commit": "2023-04-16T01:17:08Z",
-            "open_issues": 156,
+            "open_issues": 163,
             "owner": "jquery",
             "repo": "esprima",
             "stars": 7137,
@@ -2729,7 +2729,7 @@
             "open_issues": 11,
             "owner": "mfcc64",
             "repo": "youtube-musical-spectrum",
-            "stars": 197,
+            "stars": 198,
             "topics": [
               "audio-visualizer",
               "browser-extension",
@@ -4079,7 +4079,7 @@
             "open_issues": 4,
             "owner": "ivanlanin",
             "repo": "puebi",
-            "stars": 193,
+            "stars": 194,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -6115,7 +6115,7 @@
             "open_issues": 458,
             "owner": "thedev-id",
             "repo": "thedev.id",
-            "stars": 1827,
+            "stars": 1828,
             "topics": [
               "developer-tools",
               "dns",
@@ -6320,7 +6320,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T17:22:47.431Z",
+    "last_updated": "2026-11-21T16:27:33.976Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome repository created and contributed by Indonesian people.",
