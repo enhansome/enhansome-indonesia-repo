@@ -725,7 +725,7 @@
             "open_issues": 0,
             "owner": "Kristories",
             "repo": "awesome-guidelines",
-            "stars": 11279,
+            "stars": 11281,
             "topics": [
               "awesome",
               "awesome-guidelines",
@@ -756,7 +756,7 @@
             "open_issues": 1,
             "owner": "farizdotid",
             "repo": "DAFTAR-API-LOKAL-INDONESIA",
-            "stars": 5350,
+            "stars": 5349,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -1005,11 +1005,11 @@
             "id": 13491895,
             "language": "Python",
             "license": "CC-BY-4.0",
-            "last_commit": "2026-11-12T18:46:04Z",
-            "open_issues": 132,
+            "last_commit": "2026-11-21T23:51:56Z",
+            "open_issues": 114,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 402016,
+            "stars": 402076,
             "topics": [
               "books",
               "education",
@@ -1163,7 +1163,7 @@
             "open_issues": 1,
             "owner": "mecha-cms",
             "repo": "mecha",
-            "stars": 188,
+            "stars": 187,
             "topics": [
               "apache",
               "cms",
@@ -1925,7 +1925,7 @@
             "open_issues": 116,
             "owner": "go-shiori",
             "repo": "shiori",
-            "stars": 11879,
+            "stars": 11880,
             "topics": [
               "bookmark-manager",
               "command-line",
@@ -2208,8 +2208,8 @@
             "id": 1295447882,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-21T16:14:57Z",
-            "open_issues": 59,
+            "last_commit": "2026-11-22T16:02:24Z",
+            "open_issues": 68,
             "owner": "NAEOS-foundation",
             "repo": "naeos",
             "stars": 12,
@@ -2461,7 +2461,7 @@
             "open_issues": 14,
             "owner": "ariya",
             "repo": "phantomjs",
-            "stars": 29410,
+            "stars": 29409,
             "topics": [
               "automation",
               "headless",
@@ -4435,7 +4435,7 @@
             "open_issues": 39,
             "owner": "laksa19",
             "repo": "mikhmonv3",
-            "stars": 476,
+            "stars": 477,
             "topics": [
               "hotspot",
               "hotspot-user-management",
@@ -4887,7 +4887,7 @@
             "open_issues": 1,
             "owner": "laravolt",
             "repo": "indonesia",
-            "stars": 683,
+            "stars": 684,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -5505,7 +5505,7 @@
             "id": 1415189260,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-14T19:24:22Z",
+            "last_commit": "2026-11-21T19:23:54Z",
             "open_issues": 4,
             "owner": "ren-zi-fa",
             "repo": "assets-web-downloader",
@@ -6112,10 +6112,10 @@
             "language": "HTML",
             "license": null,
             "last_commit": "2025-12-19T06:16:49Z",
-            "open_issues": 458,
+            "open_issues": 461,
             "owner": "thedev-id",
             "repo": "thedev.id",
-            "stars": 1828,
+            "stars": 1831,
             "topics": [
               "developer-tools",
               "dns",
@@ -6142,7 +6142,7 @@
             "id": 32196209,
             "language": "Adblock Filter List",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-18T22:03:47Z",
+            "last_commit": "2026-11-22T02:01:47Z",
             "open_issues": 1,
             "owner": "ABPindo",
             "repo": "indonesianadblockrules",
@@ -6177,7 +6177,7 @@
             "open_issues": 26,
             "owner": "rudi-krsoftware",
             "repo": "open-retail",
-            "stars": 198,
+            "stars": 199,
             "topics": [
               "csharp",
               "dapper",
@@ -6320,7 +6320,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T16:27:33.976Z",
+    "last_updated": "2026-11-22T16:44:36.023Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome repository created and contributed by Indonesian people.",
