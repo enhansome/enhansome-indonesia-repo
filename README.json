@@ -19,7 +19,7 @@
             "open_issues": 140,
             "owner": "zetbaitsu",
             "repo": "Compressor",
-            "stars": 7228,
+            "stars": 7229,
             "topics": [
               "android",
               "android-library",
@@ -725,7 +725,7 @@
             "open_issues": 0,
             "owner": "Kristories",
             "repo": "awesome-guidelines",
-            "stars": 11281,
+            "stars": 11284,
             "topics": [
               "awesome",
               "awesome-guidelines",
@@ -756,7 +756,7 @@
             "open_issues": 1,
             "owner": "farizdotid",
             "repo": "DAFTAR-API-LOKAL-INDONESIA",
-            "stars": 5349,
+            "stars": 5353,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -777,7 +777,7 @@
             "open_issues": 4,
             "owner": "sumodirjo",
             "repo": "engineering-blogs",
-            "stars": 1678,
+            "stars": 1677,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -947,7 +947,7 @@
             "open_issues": 0,
             "owner": "amuritna",
             "repo": "belajar-ngoding-bhs-indo",
-            "stars": 56,
+            "stars": 57,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1006,10 +1006,10 @@
             "language": "Python",
             "license": "CC-BY-4.0",
             "last_commit": "2026-11-21T23:51:56Z",
-            "open_issues": 114,
+            "open_issues": 116,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 402076,
+            "stars": 402134,
             "topics": [
               "books",
               "education",
@@ -1133,7 +1133,7 @@
             "open_issues": 56,
             "owner": "danpros",
             "repo": "htmly",
-            "stars": 1369,
+            "stars": 1368,
             "topics": [
               "blog",
               "blog-engine",
@@ -1694,7 +1694,7 @@
             "language": "HTML",
             "license": "MIT",
             "last_commit": "2025-08-05T13:45:33Z",
-            "open_issues": 19,
+            "open_issues": 18,
             "owner": "zuramai",
             "repo": "mazer",
             "stars": 3106,
@@ -1925,7 +1925,7 @@
             "open_issues": 116,
             "owner": "go-shiori",
             "repo": "shiori",
-            "stars": 11880,
+            "stars": 11882,
             "topics": [
               "bookmark-manager",
               "command-line",
@@ -1977,7 +1977,7 @@
             "open_issues": 0,
             "owner": "novalagung",
             "repo": "gubrak",
-            "stars": 520,
+            "stars": 521,
             "topics": [
               "functional-programming",
               "go",
@@ -2208,7 +2208,7 @@
             "id": 1295447882,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-22T16:02:24Z",
+            "last_commit": "2026-11-23T17:44:15Z",
             "open_issues": 68,
             "owner": "NAEOS-foundation",
             "repo": "naeos",
@@ -2461,7 +2461,7 @@
             "open_issues": 14,
             "owner": "ariya",
             "repo": "phantomjs",
-            "stars": 29409,
+            "stars": 29410,
             "topics": [
               "automation",
               "headless",
@@ -2487,7 +2487,7 @@
             "open_issues": 129,
             "owner": "giscus",
             "repo": "giscus",
-            "stars": 12235,
+            "stars": 12241,
             "topics": [
               "blog",
               "comment-system",
@@ -3909,7 +3909,7 @@
             "open_issues": 19,
             "owner": "piharpi",
             "repo": "jekyll-klise",
-            "stars": 1061,
+            "stars": 1060,
             "topics": [
               "blog",
               "gh-pages",
@@ -3940,11 +3940,11 @@
             "id": 56501309,
             "language": "CSS",
             "license": "MIT",
-            "last_commit": "2026-11-11T08:40:16Z",
+            "last_commit": "2026-11-23T09:55:57Z",
             "open_issues": 1,
             "owner": "agusmakmun",
             "repo": "agusmakmun.github.io",
-            "stars": 445,
+            "stars": 444,
             "topics": [
               "github-pages",
               "jekyll",
@@ -4050,7 +4050,7 @@
             "open_issues": 51,
             "owner": "novalagung",
             "repo": "dasarpemrogramangolang",
-            "stars": 2652,
+            "stars": 2653,
             "topics": [
               "book",
               "ebook",
@@ -5405,7 +5405,7 @@
             "open_issues": 1,
             "owner": "dikiaap",
             "repo": "minimalist",
-            "stars": 320,
+            "stars": 319,
             "topics": [
               "airline-themes",
               "material-design",
@@ -6115,7 +6115,7 @@
             "open_issues": 461,
             "owner": "thedev-id",
             "repo": "thedev.id",
-            "stars": 1831,
+            "stars": 1834,
             "topics": [
               "developer-tools",
               "dns",
@@ -6232,7 +6232,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2024-06-07T04:28:37Z",
-            "open_issues": 3,
+            "open_issues": 2,
             "owner": "ScathachGrip",
             "repo": "merahputih.moe",
             "stars": 39,
@@ -6320,7 +6320,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T16:44:36.023Z",
+    "last_updated": "2026-11-23T20:38:52.727Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome repository created and contributed by Indonesian people.",
