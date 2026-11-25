@@ -725,7 +725,7 @@
             "open_issues": 0,
             "owner": "Kristories",
             "repo": "awesome-guidelines",
-            "stars": 11286,
+            "stars": 11288,
             "topics": [
               "awesome",
               "awesome-guidelines",
@@ -756,7 +756,7 @@
             "open_issues": 1,
             "owner": "farizdotid",
             "repo": "DAFTAR-API-LOKAL-INDONESIA",
-            "stars": 5377,
+            "stars": 5397,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -854,7 +854,7 @@
             "open_issues": 1,
             "owner": "screetsec",
             "repo": "Cybersecurity-Indonesia",
-            "stars": 443,
+            "stars": 444,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -875,7 +875,7 @@
             "open_issues": 6,
             "owner": "sastrawi",
             "repo": "nlp-bahasa-indonesia",
-            "stars": 191,
+            "stars": 192,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -1005,11 +1005,11 @@
             "id": 13491895,
             "language": "Python",
             "license": "CC-BY-4.0",
-            "last_commit": "2026-11-24T02:15:19Z",
-            "open_issues": 114,
+            "last_commit": "2026-11-25T16:23:45Z",
+            "open_issues": 119,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 402205,
+            "stars": 402281,
             "topics": [
               "books",
               "education",
@@ -1381,6 +1381,38 @@
         },
         {
           "node_type": "item",
+          "title": "Buku Indonesia",
+          "description": "Data terbuka buku Indonesia, dengan API JSON statis dan unduhan CSV, JSON, dan SQLite.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Open data for Indonesian books: a static JSON API and CSV, JSON, SQLite downloads. No API key, no server.",
+            "homepage": "https://khrlanamm.github.io/buku-indonesia/",
+            "id": 1440350440,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-10-31T00:11:05Z",
+            "open_issues": 8,
+            "owner": "khrlanamm",
+            "repo": "buku-indonesia",
+            "stars": 2,
+            "topics": [
+              "api",
+              "bahasa-indonesia",
+              "book-catalog",
+              "books",
+              "dataset",
+              "github-pages",
+              "indonesia",
+              "isbn",
+              "json-api",
+              "open-data"
+            ]
+          },
+          "first_seen": "2026-11-03T16:39:51.708Z"
+        },
+        {
+          "node_type": "item",
           "title": "Qur'an dan Terjemah",
           "description": "Data Qur'an dan terjemah bahasa indonesia dari Kemenag.",
           "children": [],
@@ -1399,38 +1431,6 @@
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Buku Indonesia",
-          "description": "Data terbuka buku Indonesia, dengan API JSON statis dan unduhan CSV, JSON, dan SQLite.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Open data for Indonesian books: a static JSON API and CSV, JSON, SQLite downloads. No API key, no server.",
-            "homepage": "https://khrlanamm.github.io/buku-indonesia/",
-            "id": 1440350440,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-10-31T00:11:05Z",
-            "open_issues": 8,
-            "owner": "khrlanamm",
-            "repo": "buku-indonesia",
-            "stars": 1,
-            "topics": [
-              "api",
-              "bahasa-indonesia",
-              "book-catalog",
-              "books",
-              "dataset",
-              "github-pages",
-              "indonesia",
-              "isbn",
-              "json-api",
-              "open-data"
-            ]
-          },
-          "first_seen": "2026-11-03T16:39:51.708Z"
         }
       ],
       "title": "Databases"
@@ -1694,10 +1694,10 @@
             "language": "HTML",
             "license": "MIT",
             "last_commit": "2025-08-05T13:45:33Z",
-            "open_issues": 18,
+            "open_issues": 17,
             "owner": "zuramai",
             "repo": "mazer",
-            "stars": 3107,
+            "stars": 3108,
             "topics": [
               "admin-dashboard",
               "bootstrap",
@@ -1925,7 +1925,7 @@
             "open_issues": 116,
             "owner": "go-shiori",
             "repo": "shiori",
-            "stars": 11884,
+            "stars": 11883,
             "topics": [
               "bookmark-manager",
               "command-line",
@@ -2208,8 +2208,8 @@
             "id": 1295447882,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-24T17:33:43Z",
-            "open_issues": 68,
+            "last_commit": "2026-11-25T18:38:56Z",
+            "open_issues": 69,
             "owner": "NAEOS-foundation",
             "repo": "naeos",
             "stars": 12,
@@ -2523,7 +2523,7 @@
             "open_issues": 19,
             "owner": "faisalman",
             "repo": "ua-parser-js",
-            "stars": 10215,
+            "stars": 10216,
             "topics": [
               "analytics",
               "bot-detection",
@@ -2553,7 +2553,7 @@
             "open_issues": 163,
             "owner": "jquery",
             "repo": "esprima",
-            "stars": 7136,
+            "stars": 7137,
             "topics": [
               "ast",
               "ecmascript",
@@ -2649,7 +2649,7 @@
             "open_issues": 12,
             "owner": "antonybudianto",
             "repo": "cra-universal",
-            "stars": 423,
+            "stars": 424,
             "topics": [
               "cli",
               "create-react-app",
@@ -4050,7 +4050,7 @@
             "open_issues": 51,
             "owner": "novalagung",
             "repo": "dasarpemrogramangolang",
-            "stars": 2653,
+            "stars": 2655,
             "topics": [
               "book",
               "ebook",
@@ -5850,10 +5850,10 @@
             "language": "HTML",
             "license": "MIT",
             "last_commit": "2026-08-03T07:05:48Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "ruyynn",
             "repo": "GhostIntel",
-            "stars": 193,
+            "stars": 195,
             "topics": [
               "awesome-osint",
               "cybersecurity",
@@ -6115,7 +6115,7 @@
             "open_issues": 461,
             "owner": "thedev-id",
             "repo": "thedev.id",
-            "stars": 1832,
+            "stars": 1833,
             "topics": [
               "developer-tools",
               "dns",
@@ -6320,7 +6320,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T19:45:00.683Z",
+    "last_updated": "2026-11-25T18:52:07.940Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome repository created and contributed by Indonesian people.",
