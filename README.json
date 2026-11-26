@@ -52,7 +52,7 @@
             "open_issues": 20,
             "owner": "anton46",
             "repo": "Android-StepsView",
-            "stars": 1351,
+            "stars": 1350,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -725,7 +725,7 @@
             "open_issues": 0,
             "owner": "Kristories",
             "repo": "awesome-guidelines",
-            "stars": 11288,
+            "stars": 11292,
             "topics": [
               "awesome",
               "awesome-guidelines",
@@ -756,7 +756,7 @@
             "open_issues": 1,
             "owner": "farizdotid",
             "repo": "DAFTAR-API-LOKAL-INDONESIA",
-            "stars": 5397,
+            "stars": 5401,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -833,7 +833,7 @@
             "open_issues": 3,
             "owner": "codeigniter-id",
             "repo": "awesome-codeigniter",
-            "stars": 788,
+            "stars": 787,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -854,7 +854,7 @@
             "open_issues": 1,
             "owner": "screetsec",
             "repo": "Cybersecurity-Indonesia",
-            "stars": 444,
+            "stars": 445,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:53.003Z"
@@ -1006,10 +1006,10 @@
             "language": "Python",
             "license": "CC-BY-4.0",
             "last_commit": "2026-11-25T16:23:45Z",
-            "open_issues": 119,
+            "open_issues": 125,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 402281,
+            "stars": 402343,
             "topics": [
               "books",
               "education",
@@ -1159,7 +1159,7 @@
             "id": 19169655,
             "language": "PHP",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-21T12:50:30Z",
+            "last_commit": "2026-11-26T17:45:30Z",
             "open_issues": 1,
             "owner": "mecha-cms",
             "repo": "mecha",
@@ -1648,7 +1648,7 @@
             "open_issues": 2,
             "owner": "stisla",
             "repo": "stisla",
-            "stars": 3758,
+            "stars": 3757,
             "topics": [
               "admin",
               "bootstrap",
@@ -1925,7 +1925,7 @@
             "open_issues": 116,
             "owner": "go-shiori",
             "repo": "shiori",
-            "stars": 11883,
+            "stars": 11884,
             "topics": [
               "bookmark-manager",
               "command-line",
@@ -2208,7 +2208,7 @@
             "id": 1295447882,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-25T18:38:56Z",
+            "last_commit": "2026-11-25T18:56:44Z",
             "open_issues": 69,
             "owner": "NAEOS-foundation",
             "repo": "naeos",
@@ -2487,7 +2487,7 @@
             "open_issues": 130,
             "owner": "giscus",
             "repo": "giscus",
-            "stars": 12242,
+            "stars": 12246,
             "topics": [
               "blog",
               "comment-system",
@@ -2519,8 +2519,8 @@
             "id": 3320710,
             "language": "JavaScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-11T10:33:24Z",
-            "open_issues": 19,
+            "last_commit": "2026-11-26T06:01:26Z",
+            "open_issues": 17,
             "owner": "faisalman",
             "repo": "ua-parser-js",
             "stars": 10216,
@@ -4050,7 +4050,7 @@
             "open_issues": 51,
             "owner": "novalagung",
             "repo": "dasarpemrogramangolang",
-            "stars": 2655,
+            "stars": 2656,
             "topics": [
               "book",
               "ebook",
@@ -5894,7 +5894,7 @@
             "open_issues": 0,
             "owner": "aleksandergrambelik-png",
             "repo": "SanderShield",
-            "stars": 2,
+            "stars": 3,
             "topics": [
               "android-development",
               "android-haking",
@@ -6146,7 +6146,7 @@
             "open_issues": 1,
             "owner": "ABPindo",
             "repo": "indonesianadblockrules",
-            "stars": 246,
+            "stars": 247,
             "topics": [
               "adblock",
               "adblock-list",
@@ -6320,7 +6320,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T18:52:07.940Z",
+    "last_updated": "2026-11-26T18:41:12.805Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome repository created and contributed by Indonesian people.",
